@@ -15,6 +15,58 @@ body {font-size:16px;}
 </style>
 <body>
 
+	<!-- Sidebar/menu and language button-->
+<nav class="w3-sidebar w3-aqua w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
+  <div class="w3-container">
+    <h3 class="w3-padding-64"><b>WAVE<br>Initiative<br>Hamburg</b></h3>
+  </div>
+  <div class="w3-bar-block">
+    <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">What is WAVE?</a> 
+    <a href="#PoC" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Proof of concept</a> 
+    <a href="#results" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Results</a> 
+    <a href="#projects" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Projects</a> 
+    <a href="#vision" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Vision</a> 
+    <a href="team.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Team</a> 
+    <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a> 
+<!--
+    <a href="#outlook" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Future</a> 
+-->
+    <a href="#acknowledgment" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Acknowledgments</a> 
+  </div>
+<!--
+  <a href="de.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white" title="Deutsch">Deutsch</a>
+-->
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-container w3-top w3-hide-large w3-aqua w3-xlarge w3-padding">
+  <a href="javascript:void(0)" class="w3-button w3-aqua w3-margin-right" onclick="w3_open()">☰</a>
+  <span>WAVE Initiative Hamburg</span>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+
+  <!-- Header -->
+  <header class="w3-display-container w3-content w3-left" style="max-width:800px">
+    <img class="w3-image" src="./Figures/smart_city.jpg" alt="smart city" width="800" height="600">
+<!---
+  <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-left">
+    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">JAN DOE</h1>
+    <h5 class="w3-hide-large" style="white-space:nowrap">JANE OE</h5>
+    <h3 class="w3-hide-medium w3-hide-small">PHOTGRAPHER</h3>
+  </div>
+    <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">Catering</h1>
+  </div>
+-->
+  </header>
+
+  
 
 <title>The WAVE Team</title>
 <meta charset="UTF-8">
@@ -203,3 +255,35 @@ In addition, he also works on developing technologies for space-based detectors 
       </div>
     </div>
   </div>
+
+
+<!-- End page content -->
+</div>
+
+<!-- W3.CSS Container -->
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px">
+</div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+</script>
+
+</body>
+</html>
