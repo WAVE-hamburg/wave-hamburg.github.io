@@ -70,7 +70,17 @@
             margin-left: 0;
             margin-right: auto;
         }
+        
+        /* Set media screen to adjust pictures on smaller screens */
+        @media screen and (max-width: 600px) { /* Adjust the max-width to target the desired screen size */
+            img {
+                width: 100%; /* 100% to make the images responsive */
+                height: auto; /* Ensure the aspect ratio is maintained */
+        }
+</style>
 
+
+        
     </style>
 </head>
 <body>
@@ -131,7 +141,7 @@
 </div>
     
 <div class="w3-container">
-    <!-- UHH 1st Professor's information -->
+    <!-- UHH 1st person information -->
     <div class="w3-row-padding">
         <div class="w3-margin-bottom">
             <div style="background-color: white;"> <!-- Set background color to white -->
@@ -149,7 +159,7 @@
             </div>
         </div>
     </div>
-    <!-- UHH 2nd Professor's information -->
+    <!-- UHH 2nd person information -->
     <div class="w3-row-padding">
         <div class="w3-margin-bottom">
             <div style="background-color: white;"> <!-- Set background color to white -->
@@ -167,9 +177,23 @@
             </div>
         </div>
     </div>
+    <!-- UHH 3rd person information -->
+    <div class="w3-row-padding">
+        <div class="w3-margin-bottom">
+            <div style="background-color: white;"> <!-- Set background color to white -->
+                <img src="./Figures/Team/antonia_kiel_round.png" alt="antonia-kiel" style="width: 150px; float: left; margin-right: 20px;">
+                <div class="w3-container">
+                    <h2 class="w3-xlarge w3-text-orange"><b>Antonia Kiel</b></h2>
+                    <p>
+                        <b>Affiliation:</b> Institute of Geophysics, University of Hamburg<br>
+                        <b>Interests:</b> Antonia Kiel works in the field of seismology and machine learning. In the context of the CLICCS excellence cluster of the University of Hamburg, she worked on monitoring shallow groundwater in the urban area using <a href="https://www.youtube.com/watch?v=9IATkjy-sdA&t=402s">ambient seismic noise</a>. Using the distributed acoustic sensing data of the WAVE project, she compared different unsupervised clustering methods to detect different noise sources at the fiber, coming up with a workflow under what circumstances a particular clustering method should be used.<br>
+                        <b>Collaborations:</b> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-
-        <!-- Your existing script code here -->
 
 </body>
 </html>
