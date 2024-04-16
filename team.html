@@ -71,11 +71,41 @@
             margin-right: auto;
         }
         
-        /* Set media screen to adjust pictures on smaller screens */
-        @media screen and (max-width: 600px) { /* Adjust the max-width to target the desired screen size */
+        /* CSS for Mobile Optimization */
+        /* Adjust font size for smaller screens */
+        @media screen and (max-width: 600px) {
+            body, h1, h2, h3, h4, h5 {
+                font-size: 14px; /* Adjust font size for smaller screens */
+            }
+
+            /* Adjust image size for smaller screens */
             img {
-                width: 100%; /* 100% to make the images responsive */
-                height: auto; /* Ensure the aspect ratio is maintained */
+                max-width: 100%; /* Set maximum width for images */
+                height: auto; /* Maintain aspect ratio */
+            }
+
+            /* Adjust padding and margin for better spacing on smaller screens */
+            .w3-padding {
+                padding: 8px 16px !important; /* Adjust padding for smaller screens */
+            }
+
+            .w3-margin {
+                margin: 8px 0 !important; /* Adjust margin for smaller screens */
+            }
+
+            /* Ensure full width for text content on smaller screens */
+            .w3-container, .w3-sidebar {
+                width: 100% !important; /* Set width to 100% for smaller screens */
+                margin-left: 0 !important; /* Remove left margin */
+                margin-right: 0 !important; /* Remove right margin */
+            }
+
+            /* Adjust column width for smaller screens */
+            .w3-half {
+                width: 100% !important; /* Set width to 100% for smaller screens */
+            }
+        }
+
         }
 </style>
 
