@@ -71,6 +71,12 @@
             margin-right: auto;
         }
         
+        .clearfix::after { /* to ensure proper layout */
+        content: "";
+        display: table;
+        clear: both;
+        }
+        
         /* CSS for Mobile Optimization */
         /* Adjust font size for smaller screens */
         @media screen and (max-width: 600px) {
@@ -167,7 +173,7 @@
 <div class="w3-container">
     <!-- University of Hamburg -->
     <div class="w3-row-padding">
-        <div class="w3-margin-bottom">
+        <div class="w3-margin-bottom clearfix">
             <div class="w3-light-grey" style="overflow: hidden;"> <!-- Remove this class to remove background color -->
                 <img src="./Figures/Logo/uni_hamburg_square.png" alt="UHH" style="width: 150px; float: left; margin-right: 20px;">
                 <div class="w3-container" style="overflow: hidden;"> <!-- Add overflow: hidden to contain floated elements -->
@@ -256,7 +262,7 @@
 <div class="w3-container">
     <!-- DESY -->
     <div class="w3-row-padding">
-        <div class="w3-margin-bottom">
+        <div class="w3-margin-bottom clearfix">
             <div class="w3-light-grey" style="overflow: hidden;"> <!-- Remove this class to remove background color -->
                 <img src="./Figures/Logo/desy.png" alt="DESY" style="width: 150px; float: left; margin-right: 20px;">
                 <div class="w3-container" style="overflow: hidden;"> <!-- Add overflow: hidden to contain floated elements -->
