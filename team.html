@@ -18,23 +18,16 @@
         }
 
         .w3-container {
-             display: flex; /* Use flexbox */
-            justify-content: flex-start; /* Align items to the start (left) */
-            align-items: stretch; /* Stretch items to fill the container vertically */
+            text-align: left; 
+            padding: 0;  /* Reset padding */
+            margin: 0;  /* Reset margin */
         }
-            /*text-align: left; */
-            /*padding: 0;  Reset padding */
-            /*margin: 0;  Reset margin */
-
 
         .w3-main {
-            flex: 1; /* Grow to fill the remaining space */
-            margin-right: 20px; /* Adjust the right margin as needed */
+            margin-left: 20%; /* Width of the sidebar */
+            margin-right: 25px; /* Adjust the right margin as needed */
+            width: calc(100% - 23% - 25px);
             position: relative;
-            /*margin-left: 20%; /* Width of the sidebar */
-            /*margin-right: 25px; /* Adjust the right margin as needed */
-            /*width: calc(100% - 23% - 25px);*/
-            /*position: relative;*/
         }
 
         .w3-sidebar {
