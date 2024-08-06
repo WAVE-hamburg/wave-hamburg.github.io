@@ -1,0 +1,335 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<title>WAVE-Hamburg Seismic Network</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
+<link rel="stylesheet" href="./w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+</style>
+<body>
+
+<!-- Sidebar/menu and language button-->
+<nav class="w3-sidebar w3-aqua w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:300px;font-weight:bold;" id="mySidebar"><br>
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft" style="width:100%;font-size:22px">Close Menu</a>
+  <div class="w3-container">
+    <h3 class="w3-padding-64"><b>WAVE<br>Initiative<br>Hamburg</b></h3>
+  </div>
+  <div class="w3-bar-block">
+    <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">What is WAVE?</a> 
+    <a href="http://wave-hamburg.eu/outreach.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Outreach + Livestreams</a> 
+    <a href="http://wave-hamburg.eu/news_events.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">News + Events</a> 
+    <a href="http://wave-hamburg.eu/science.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Science</a> 
+    <a href="#vision" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Vision</a> 
+    <a href="http://wave-hamburg.eu/team.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Team</a> 
+    <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a> 
+<!--
+    <a href="#outlook" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Future</a> 
+    <a href="#acknowledgment" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Acknowledgments</a> 
+  </div>
+-->
+<!--
+  <a href="de.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white" title="Deutsch">Deutsch</a>
+-->
+</nav>
+
+<!-- Top menu on small screens -->
+<header class="w3-container w3-top w3-hide-large w3-aqua w3-xlarge w3-padding">
+  <a href="javascript:void(0)" class="w3-button w3-aqua w3-margin-right" onclick="w3_open()">☰</a>
+  <span>WAVE Initiative Hamburg</span>
+</header>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:340px;margin-right:40px">
+
+  <!-- Header -->
+  <header class="w3-display-container w3-content w3-left" style="max-width:800px">
+    <img class="w3-image" src="./Figures/smart_city.jpg" alt="smart city" width="800" height="600">
+<!---
+  <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-light-grey w3-left">
+    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">JAN DOE</h1>
+    <h5 class="w3-hide-large" style="white-space:nowrap">JANE OE</h5>
+    <h3 class="w3-hide-medium w3-hide-small">PHOTGRAPHER</h3>
+  </div>
+    <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">Catering</h1>
+  </div>
+-->
+  </header>
+  
+
+
+
+<!-- !PAGE starts here -->
+
+  
+  <!-- Results -->
+  <div class="w3-container" id="results" style="margin-top:75px">
+    <h1 class="w3-xxxlarge w3-text-orange"><b>Results and Analysis.</b></h1>
+    <hr style="width:50px;border:5px solid aqua" class="w3-round">
+    <p>
+    </p>
+  </div>
+
+  <div class="w3-container" style="margin-top:75px">
+    <h2 class="w3-xlarge w3-text-orange"><b>Impressions of the measurement campaign.</b></h2>
+    <hr style="width:50px;border:4px solid aqua" class="w3-round">
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="./Figures/iDAS.jpg" style="width:100%" onclick="onClick(this)" alt="Impressions from the measurement campagign">
+      <p></p>
+    </div>
+    <div class="w3-half">
+      <img src="./Figures/georeferencing.jpg" style="width:100%" onclick="onClick(this)" alt="Impressions from the measurement campagign">
+      <p></p>
+    </div>
+  </div>
+
+  <div class="w3-container" style="margin-top:75px">
+    <h2 class="w3-xlarge w3-text-orange"><b>Signals along the DAS fiber.</b></h2>
+    <hr style="width:50px;border:4px solid aqua" class="w3-round">
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="./Figures/summary_waterfall.png" style="width:100%" onclick="onClick(this)" alt="1. HF stations in EuXFEL are switched off for access. <br>
+2. HF stations in the EuXFEL are switched on again after access.<br>
+3. hammer blows against cable rack XTD9 for position determination<br>
+4. hammer blows in XTD2 against cable rack<br>
+5. hammer blows in XTL on concrete floor<br>
+6. tunnel announcement 'interlock search'<br>
+7. tunnel announcement 'accelerator is switched on'<br>
+8. start of morning activity on campus<br>
+9. load switching operations on the transformers of the power supply on the DESY campus">
+      <p><b>Overview of whole fiber track:</b><br> 
+Waterfall diagram of the records of all DAS sensors along the 12.6 km long fiber. The maximum amplitude of the time series at 20 s intervals is color-coded across the spatially distributed sensors and the 16 hour recording period. The arrows mark events that are described in the listing (click for details), numbered accordingly. </p>
+    </div>
+    <div class="w3-half">
+      <img src="./Figures/XTL-spec-_smaller.png" style="width:100%" onclick="onClick(this)" alt="Spectra of all DAS channels along the accelerator tunnel XTL, during accelerator operation of EuXFEL. Already at first glance, many elements that may cause disturbance or noise can be identified by their characteristic frequencies.  Some prominent elements are marked for illustration. ">
+
+<p>
+<b>Signals along EuXFEL tunnel: </b><br> 
+Spectra of all DAS channels along the accelerator tunnel XTL, during accelerator operation of EuXFEL. Already at first glance, many elements that may cause disturbance or noise can be identified by their characteristic frequencies.  Some prominent elements are marked for illustration.
+</p>
+    </div>
+  </div>
+
+  <div class="w3-container" style="margin-top:75px">
+    <h2 class="w3-xlarge w3-text-orange"><b>Car signals.</b></h2>
+    <hr style="width:50px;border:4px solid aqua" class="w3-round">
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="./Figures/cars_composite.png" style="width:100%" onclick="onClick(this)" alt="<b>Cars passing the DAS fiber:</b><br> Spatiotemporal DAS recording of passing cars is shown at the top. The fiber section between positions 10430 and 10800 is immediately adjacent to a road. A map of the road section is shown at the bottom left. At the bottom right is a recording of the passage of a single car, with horizontal lines framed in appropriate color corresponding to snapshots of the fiber excitation at the bottom center. <br> 
+Since the fiber passes the road twice in opposite directions, the waterfall diagram is mirrored about the horizontal at a distance of 10645m. The cars are clearly visible as diagonal stripes, and their slope gives immediate information about the speed of the cars (about 18 ± 5km/h). The first car appears at about second 60. Another car travels in the same direction starting at second 125. While the first car crosses a clearly slower road user traveling in the opposite direction towards the end of the road section about 15 seconds later, the second car apparently encounters three other vehicles. One of them leaves its parking place halfway, two others come towards it in close succession.">
+      <p>
+<b>Cars passing the DAS fiber:</b><br>
+Spatiotemporal DAS recording of passing cars is shown at the top. The fiber section between positions 10430 and 10800 is immediately adjacent to a road. A map of the road section is shown at the bottom left. At the bottom right is a recording of the passage of a single car, with horizontal lines framed in appropriate color corresponding to snapshots of the fiber excitation at the bottom center. <br> 
+Since the fiber passes the road twice in opposite directions, the waterfall diagram is mirrored about the horizontal at a distance of 10645m. The cars are clearly visible as diagonal stripes, and their slope gives immediate information about the speed of the cars (about 18 ± 5km/h). The first car appears at about second 60. Another car travels in the same direction starting at second 125. While the first car crosses a clearly slower road user traveling in the opposite direction towards the end of the road section about 15 seconds later, the second car apparently encounters three other vehicles. One of them leaves its parking place halfway, two others come towards it in close succession. 
+</p>
+    </div>
+    <div class="w3-half">
+      <video width="90%" controls autoplay loop>
+          <source src="./Movies/anim_car_map.mp4" type="video/mp4">
+      </video> 
+      <p>
+    <b>Animation of car driving along the fiber:</b><br> 
+    The same section of fiber as shown in the figure on the left. The high amplitudes in the DAS recordings, indicated by yellow color, follows the location of the car. 
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-container" style="margin-top:75px">
+    <h2 class="w3-xlarge w3-text-orange"><b>Earthquake signals.</b></h2>
+    <hr style="width:50px;border:4px solid aqua" class="w3-round">
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="./Figures/earthquake.png" style="width:100%" onclick="onClick(this)" alt="
+    <b>Earthquake in China recorded along the DAS fiber:</b><br>
+Comparison of seismometer data with DAS data. Shown is an earthquake that occurred on 21.05.2021 in Quinghai (China) with a magnitude of 7.4.<br>
+It can be seen that the amplitudes of the sum of 600 data traces in the time window in which the earthquake signal arrives are larger than those of the single trace. 
+The amplitudes of the unwanted noise at the beginning of the data track are reduced. In the lowest plot, many DAS data traces are plotted below each other. The blue line marks the single trace shown in the center plot. The red area covers the 600 traces from which the sum trace was formed.<br>
+In the lower graph, in addition to the vertical lines corresponding to the coherent seismic wavefronts, spatial variations of the measured oscillation amplitudes can be seen. These may be related to inhomogeneous subsurface structure and illustrate how DAS measurements provide high temporal and spatial resolution.
+">
+      <p>
+    <b>Earthquake in China recorded along the DAS fiber:</b><br>
+Comparison of seismometer data with DAS data. Shown is an earthquake that occurred on 21.05.2021 in Quinghai (China) with a magnitude of 7.4.<br>
+It can be seen that the amplitudes of the sum of 600 data traces in the time window in which the earthquake signal arrives are larger than those of the single trace. 
+The amplitudes of the unwanted noise at the beginning of the data track are reduced. In the lowest plot, many DAS data traces are plotted below each other. The blue line marks the single trace shown in the center plot. The red area covers the 600 traces from which the sum trace was formed.<br>
+In the lower graph, in addition to the vertical lines corresponding to the coherent seismic wavefronts, spatial variations of the measured oscillation amplitudes can be seen. These may be related to inhomogeneous subsurface structure and illustrate how DAS measurements provide high temporal and spatial resolution.
+      </p>
+    </div>
+    <div class="w3-half">
+      <video width="90%" controls autoplay loop>
+          <source src="./Movies/anim_eq_map.mp4" type="video/mp4">
+      </video> 
+      <!--
+      <img src="./Figures/earthquake_snapshots.png" style="width:100%" onclick="onClick(this)" alt="
+    <b>Earthquake waves propagating along EuXFEL tunnel:</b><br>
+Spatiotemporal propagation through the EuXFEL tunnel of seismic waves caused by a strong earthquake (magnitude 7.4) with epicenter in China. <br>
+On the right, a typical representation for DAS data (waterfall diagram) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). 
+Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment. Four different points in time, marked by horizontal lines in the waterfall diagram, each correspond to a snapshot of the strain amplitudes (strain rate) of all DAS sensors on the left. Here, the colors and the dashing of the horizontal lines correspond to those of the the frames of the snapshots. <br>
+Although the length of the waves exceeds that of the tunnel many times over, the spatial shaping of the wave crests and troughs at a fixed point in time can be clearly recognized.
+">
+      -->
+      <p>
+    <b>Animation of Earthquake waves propagating along EuXFEL tunnel:</b><br>
+Propagation of seismic waves  caused by a strong earthquake (magnitude 7.4) with epicenter in China through the EuXFEL tunnel. <br>
+On the right, a typical representation for DAS data (waterfall diagram) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). 
+Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment. <br>
+On the left, the evolution over time of the strain amplitudes (strain rate) recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel.  <br>
+Although the length of the waves exceeds that of the tunnel many times over, the spatial shaping of the wave crests and troughs can be clearly recognized as they propagate from East to West.
+      </p>
+    </div>
+  </div>
+
+<div class="w3-row-padding">
+  <div class="w3-half">
+    <video width="90%" controls autoplay loop>
+        <source src="./Movies/anim_EQ_turkey.mp4" type="video/mp4">
+    </video> 
+    <p>
+      <b>Animation of 2023 Turkey-Syria Earthquake recorded along EuXFEL tunnel:</b><br>
+      Recording of the destructive magnitude 7.5 Turkey-Syria earthquake on February 6, 2023.<br>
+      On the right, a typical representation for DAS data (waterfall diagram) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment, as illustrated on the waveform on the very right.<br>
+      On the left, the evolution over time of the strain amplitudes (strain rate) recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel.
+    </p>
+  </div>
+</div>
+
+
+  <div class="w3-container" style="margin-top:75px">
+    <h2 class="w3-xlarge w3-text-orange"><b>Vibrotruck sweeps.</b></h2>
+    <hr style="width:50px;border:4px solid aqua" class="w3-round">
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="./Figures/vibrotruck.jpg" style="width:100%" onclick="onClick(this)" alt="Vibrotruck of the company Baudynamik Heiland &amp; Mistler GmbH exciting the frequency sweep seen on the right. ">
+      <p>
+        Vibrotruck of the company <a href="https://www.baudynamik.de/">Baudynamik</a> Heiland &amp; Mistler GmbH exciting the frequency sweep seen on the right. 
+      </p>
+    </div>
+    <div class="w3-half">
+      <img src="./Figures/sweeps_signal_spectrogram.png" style="width:100%" onclick="onClick(this)" alt="
+      <b>Ground motion excited by the Vibrotruck: </b><br>
+    Time series and frequency content of the vibrotruk sweep measured at position = 900 in the fibre.
+    Vibration spectra measured in the accelerator tunnel of EuXFEL very clearly show the ground vibrations that a so-called vibrotruck exerts on the subsurface about 100m away. 
+">
+      <p> <b>Ground motion excited by the Vibrotruck: </b><br>
+    Vibration spectra measured in the accelerator tunnel of EuXFEL very clearly show the ground vibrations that a so-called vibrotruck exerts on the subsurface about 100m away. 
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-container" style="margin-top:75px">
+    <h2 class="w3-xlarge w3-text-orange"><b>Interfering vibration sources.</b></h2>
+    <hr style="width:50px;border:4px solid aqua" class="w3-round">
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="./Figures/5-2Hz-line.png" style="width:100%" onclick="onClick(this)" alt="Spectrogram of the recordings of a single DAS channel over a period of two hours. An irregular signal in the frequency range around 5.2 Hz can be seen, which affects the experimental operation at PETRA.  ">
+      <p>
+Spectrogram of the recordings of a single DAS channel over a period of two hours. An irregular signal in the frequency range around 5.2 Hz can be seen, which affects the experimental operation at PETRA.
+</p>
+    </div>
+    <div class="w3-half">
+      <img src="./Figures/trafo.png" style="width:100%" onclick="onClick(this)" alt="Frequency components of acoustic signals measured near a transformer station on the DESY site. The lower graph shows the electronically measured variation of the 50 Hz mains frequency. The upper spectrogram shows the variation over time of a one-hour section of the signal from a single position of the optical fiber near the transformer. One can see a vibration at the 5th harmonic of the mains frequency at 300 Hz, whose fluctuations exactly follow the behavior of the mains frequency. ">
+      <p>
+Frequency components of acoustic signals measured near a transformer station on the DESY site. The lower graph shows the electronically measured variation of the 50 Hz mains frequency. The upper spectrogram shows the variation over time of a one-hour section of the signal from a single position of the optical fiber near the transformer. One can see a vibration at the 5th harmonic of the mains frequency at 300 Hz, whose fluctuations exactly follow the behavior of the mains frequency.
+    </p>
+
+    </div>
+  </div>
+
+  <!-- Photo grid (modal) -->
+    <!---
+  <div class="w3-row-padding">
+    <div class="w3-half">
+      <img src="./Figures/map_composite.png" style="width:100%" onclick="onClick(this)" alt="Map of the fiber test track in the proof of concept experiment at the Bahrenfeld Campus and in the tunnel of EuXFEL.  In the northeast, the fiber runs through the 'Max von Laue' experimental hall and briefly follows the circular path of PETRA there.  Other sensors and excitation points are also shown on the map.  The right side shows the location of the test environment and the campus in Bahrenfeld in the west of Hamburg.">
+      <p>Map of the DAS-fiber test track, seismometers and geophones. </p>
+      <img src="./Figures/cars_composite.png" style="width:100%" onclick="onClick(this)" alt="caption">
+      <p>TEXT</p>
+      <video width="90%" controls loop>
+          <source src="./Movies/anim_car.mp4" type="video/mp4">
+      </video> 
+      <p>cars passing near the DAS fiber</p>
+
+      <img src="./Figures/cars_composite.jpg" style="width:100%" onclick="onClick(this)" alt="caption">
+      <p>TEXT</p>
+    </div>
+
+    <div class="w3-half">
+      <img src="./Figures/cars_composite.jpg" style="width:100%" onclick="onClick(this)" alt="caption">
+		<p>TEXT</p>
+      <img src="./Figures/sweeps.png" style="width:100%" onclick="onClick(this)" alt="caption">
+      <p>TEXT</p>
+      <img src="./Figures/map_composite.png" style="width:100%" onclick="onClick(this)" alt="caption">
+      <p>TEXT</p>
+    </div>
+  </div>
+    -->
+
+  <!-- Modal for full size images on click-->
+  <div id="modal01" class="w3-modal w3-blue-gray" style="padding-top:0" onclick="this.style.display='none'">
+    <span class="w3-button w3-black w3-xxlarge w3-display-topright">×</span>
+    <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
+      <img id="img01" class="w3-image">
+      <p id="caption"></p>
+    </div>
+  </div>
+
+
+
+
+
+
+<!-- End page content -->
+</div>
+
+<!-- W3.CSS Container -->
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px">
+</div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+</script>
+
+</body>
+</html>
+
