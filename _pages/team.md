@@ -61,6 +61,17 @@ feature_row:
       <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.'
 
 
+
+feature_row4:
+  - image_path: /assets/images/Team/christopher_wolli_round.png
+    alt: "Dr. Christopher Wollin"
+    title: "Dr. Christopher Wollin"
+    excerpt: '<strong>Affiliation:</strong> Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)<br>
+      <strong>Website:</strong> <a href="https://www.gfz-potsdam.de/en/staff/christopher.wollin">gfz-potsdam.de</a><br>
+      <strong>Publications:</strong> <a href="https://orcid.org/0000-0002-3992-787X">ORCID</a><br>
+      <strong>Interests:</strong> Specializes in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
+      <strong>Collaborations:</strong> <a href="https://www.gfz-potsdam.de/sektion/geophysikalische-abbildung-des-untergrunds/projekte/sense">SENSE</a>, <a href="https://www.gfz-potsdam.de/sektion/geoenergie/projekte/abgeschlossene-projekte-1/2019-2022-geopur">geoPuR</a>'
+
 feature_row5:
   - image_path: /assets/images/Team/placeholder.png
     alt: "placeholder.png"
