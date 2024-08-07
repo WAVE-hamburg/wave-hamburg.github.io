@@ -12,6 +12,8 @@ image:
   path: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
   thumbnail: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
   caption: "Screenshot from the LiveStream"
+header:
+  teaser: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
 ---
 
 
