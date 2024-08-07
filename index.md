@@ -8,12 +8,20 @@ header:
   overlay_image: /assets/images/Smart_City.png
   actions:
     - label: "About us"
-      url: "https://mmistakes.github.io/minimal-mistakes/wave/"
+      url: "https://kisleif.github.io/WAVE-minimal-mistakes/wave/"
  # caption: "Photo credit: "
 excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities."
 intro: 
   - excerpt: 'A key element of WAVE is the widespread use of modern seismic sensors, in particular distributed acoustic sensing (DAS). This technology uses fiber optic cables as sensitive seismic sensors. It enables ground motion data to be recorded at an unprecedented spatial density over long distances, revolutionizing geophysics.'
 feature_row:
+  - image_path: /assets/images/iDAS.jpg
+    alt: "Scientists looking at the DAS system."
+    title: "Science"
+    excerpt: 'The WAVE team is interdisciplinary and involved science projects from geophysics, seismology, physics - especially accelerator and gravitational wave physics, informatics and engineering. '    
+    url: /science/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
@@ -27,14 +35,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    title: "Science"
+    excerpt: "Here you find more informations about the WAVE science projects and vision."
+    url: /science/
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
