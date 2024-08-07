@@ -3,7 +3,7 @@ main:
  # - title: "Quick-Start Guide"
  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
-     file: /_pages/about.md
+     file: /pages/about.md
    - title: "Science"
      url: /science/
    - title: "Outreach"
