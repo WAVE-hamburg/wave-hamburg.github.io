@@ -131,10 +131,9 @@ feature_row4:
 
 feature_row5:
   - image_path: /assets/images/Team/placeholder.png
-    alt: "XFEL Logo"
-    title: "XFEL"
-    excerpt: '<strong>Name:</strong> Dr. Immo Bahns<br>
-      <strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a><br>
+    alt: "placeholder.png"
+    title: "Dr. Immo Bahns"
+    excerpt: '<strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a><br>
       <strong>Publications:</strong> <a href="https://www.researchgate.net/profile/Immo-Bahns">Researchgate</a>, <a href="https://orcid.org/0009-0001-6341-5508">ORCID</a><br>
       <strong>Interests:</strong> Expert in nondestructive interactions of electromagnetic waves, project manager for XFELO demonstrator project.'
 ---
