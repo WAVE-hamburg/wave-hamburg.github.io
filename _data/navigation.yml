@@ -8,5 +8,5 @@ main:
     file: "/_pages/terms.md"
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Sitemap"
+    url: /sitemap/
