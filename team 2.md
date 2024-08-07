@@ -1,5 +1,5 @@
 ---
-permalink: /team2/
+permalink: /team/
 title: "Team"
 layout: splash
 header:
