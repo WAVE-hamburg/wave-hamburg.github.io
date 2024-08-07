@@ -316,3 +316,5 @@ defaults:
   - scope:
       path: ""
       type: home
+    values:
+      layout: single
