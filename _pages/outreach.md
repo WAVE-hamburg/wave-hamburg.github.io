@@ -6,7 +6,25 @@ toc: true
 ---
 
 
-## Soccer: Public ``''hearing``'' EM24 
+## Livestream Concert: Taylor Swift
+
+With our WAVE glass fiber sensor network, we listen to vibrations underground with a thousand ears. On July 23rd and 24th 2024, Taylor Swift performed at the Volksparkstadion Hamburg, just 2 km from our experiment!
+
+During the two concerts, we offered a livestream of our vibration measurements.
+We broadcasted our measurements on the Livestream on 23th of July at 18:00 -- 23:00 CEST
+and again on 24th of July at 18:00 -- 23:00 CEST.
+Watch this space, we will update with more results over the next few days.
+"Swiftquakes?!" Don't worry, these are not real earthquakes!
+
+These are tiny vibrations! You would not feel them, our measurement device is really sensitive..
+You've probably felt the ground shaking a bit when a big truck passes nearby? It's the same effect, just caused by lots of happy people dancing.
+
+We already knew that we should able to pick up vibrations of concerts happening in the Volksparkstadion, since we have already picked concerts e.g. by Metallica in the past. Lots and lots of fans jumping and dancing at the same time will cause the ground to "swing along" a bit.
+
+![Overview of the evolution stages of WAVE](./assets/images/20240705_WAVE_EM_Livestream.png)
+
+
+## Livestream Soccer: Public ``''hearing``'' EM24 
 
 Can we hear the goals from the Euros below ground?
 
@@ -15,6 +33,14 @@ With our WAVE glass fiber, we listen to vibrations underground with a thousand e
 ![Overview of the evolution stages of WAVE](/assets/images/20240705_WAVE_EM_Livestream.png)
 
 What am I looking at??
+
+Along our 16 km of glass fiber, we measure how much it vibrates, or 'wiggles', about every 10 meters. Each horizontal line in the image shows you how much that particular section of glass fiber is wiggling. Red means that there are strong vibrations, blue shows the bits where it's quieter.
+
+Starting from the top, you see how much vibrations are currently felt in DESY's PETRA tunnel. Since that tunnel is a few meters underground, there are not a lot of vibrations from car traffic, wind and such. So it's pretty blue. The same is true for the vibrations in the XFEL tunnel - also pretty 'quiet', and blue.
+
+Going further down in the image, we reach the part of the fiber that is near the surface, and roads, on the DESY/Bahrenfeld campus. The car traffic, trees swaying in the wind, and general urban activity all generate vibrations, so those sections of the glass fiber are wiggling more - and show up red!
+
+The whole picture is moving towards the left: that's time passing by.
 
 ## WAVE Field and Science City Day
 
