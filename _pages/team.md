@@ -6,7 +6,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/Logo/uni_hamburg_square.png" alt="UHH" width="150" height="150">
+    <img src="./assets/images/Logo/uni_hamburg_square.png" alt="UHH" width="150" height="150">
   </div>
   <div>
     <h2 style="margin-top: 0;">University of Hamburg</h2>
