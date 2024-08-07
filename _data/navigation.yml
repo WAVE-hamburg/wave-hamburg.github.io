@@ -3,13 +3,13 @@ main:
  # - title: "Quick-Start Guide"
  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
-     url: about.md
+     url: /about/
    - title: "Science"
-     url: science.md
+     url: /science/
    - title: "Outreach"
-     url: outreach.md
+     url: /outreach/
    - title: "Team"
-     url: team.md
+     url: /team/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -17,12 +17,14 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-linknavigation:
-   - title: "About"
-     url: about.md
-   - title: "Science"
-     url: science.md
-   - title: "Outreach"
-     url: outreach.md
-   - title: "Team"
-     url: team.md
+sidebar-sample:
+  - title: "This page"
+    children:
+      - title: "About"
+        url: /about/
+      - title: "Science"
+        url: /science/
+      - title: "Outreach"
+        url: /outreach/
+      - title: "Team"
+        url: /team/
