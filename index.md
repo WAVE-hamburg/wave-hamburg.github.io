@@ -3,7 +3,12 @@ permalink: /index/
 title: ''About''
 classes: wide
 toc:true
-layout: home
+layout: single
+author_profile: true
+read_time: true
+comments: # true
+share: true
+related: true
 ---
 
 ## Abous us
