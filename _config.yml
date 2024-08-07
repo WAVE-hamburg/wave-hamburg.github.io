@@ -303,3 +303,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _docs
+  - scope:
+      path: ""
+      type: linknavigation
+    values:
+      sidebar:
+        nav: "linknavigation"
+
+      
