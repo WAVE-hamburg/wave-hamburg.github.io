@@ -1,12 +1,9 @@
 ---
 permalink: /index/
-title: 'Home'
 classes: wide
 toc:true
-layout: single
 author_profile: true
 read_time: true
-comments: # true
 share: true
 related: true
 ---
@@ -20,5 +17,5 @@ The WAVE concept has been tested under realistic conditions to demonstrate the f
 
 Since then, we have expanded the network to currently 19 km of fiber, organized several [Outreach events and Livestreams](/outreach/) of the data, including during a Taylor Swift concert. We hold regular Workshops and other events, and of course we also use the data for a range of interdisciplinary Scientific analysis!
  
-More information about the network, technology and infrastructure can be found [here](about.md).
+More information about the network, technology and infrastructure can be found [here](/about/).
 
