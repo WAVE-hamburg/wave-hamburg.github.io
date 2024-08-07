@@ -1,7 +1,6 @@
 ---
 permalink: /science/
 title: Science
-layout: home
 toc: true
 ---
 
