@@ -89,8 +89,11 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
+twitch:
+  username               : wave_hamburg
+instagram:
+  username               : wave.hamburg
+  
 facebook:
   username               :
   app_id                 :
