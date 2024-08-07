@@ -12,7 +12,7 @@ excerpt: "Are you interested in how DAS works in more detail and would like a br
 toc: true
 toc_label: "Website content"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
-toc_sticky: false
+toc_sticky: true
 ---
 
 
