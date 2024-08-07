@@ -40,8 +40,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/group_photo.png
-    alt: "placeholder image 2"
+  - image_path: /assets/images/Team/group_photo.png
     title: "The WAVE Team"
     excerpt: 'We are a young collaboration of seismologists, physicists, engineers and computer scientists. '
     url: "#test-link"
