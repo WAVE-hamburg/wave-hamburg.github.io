@@ -1,6 +1,6 @@
 ---
 permalink: /wave/
-layout: home
+layout: single
 toc: true
 classes: wide
 title: About WAVE
