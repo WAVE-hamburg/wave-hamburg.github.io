@@ -8,10 +8,9 @@ tags:
   - lists
   - markup
 last_modified_at: 2024-07-23T23:25:52-05:00
-image: 
-  path: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
-  thumbnail: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
-  caption: "Screenshot from the LiveStream"
+header:
+  image: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
+  og_image: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
 ---
 
 
