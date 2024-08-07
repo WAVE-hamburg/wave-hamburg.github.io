@@ -45,9 +45,6 @@ feature_row:
     excerpt: ' <strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Interests:</strong> Works in seismology and machine learning, focusing on shallow groundwater monitoring using seismic noise.<br>
       <strong>Collaborations:</strong> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a>'
-    url: "#"
-    btn_label: "More About Antonia"
-    btn_class: "btn--primary"
   - image_path: /assets/images/Team/photo_bauer_200x200.png
     alt: "Dr. Alexander Bauer Vossius"
     title: "Dr. Alexander Bauer Vossius"
@@ -56,20 +53,21 @@ feature_row:
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?user=yxmye-sAAAAJ">Google Scholar</a><br>
       <strong>Interests:</strong> Specializes in seismic data characterization and machine learning for wavefield separation.<br>
       <strong>Collaborations:</strong> ErUM-WAVE'
-    url: "#"
-    btn_label: "More About Alexander"
-    btn_class: "btn--primary"
   - image_path: /assets/images/Team/Oliver Bölt.png
     alt: "Oliver Bölt"
     title: "Oliver Bölt"
     excerpt: '<strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html">Profile</a><br>
       <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.'
-    url: "#"
-    btn_label: "More About Oliver"
-    btn_class: "btn--primary"
 
 
+feature_row5:
+  - image_path: /assets/images/Team/placeholder.png
+    alt: "placeholder.png"
+    title: "Dr. Immo Bahns"
+    excerpt: '<strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a><br>
+      <strong>Publications:</strong> <a href="https://www.researchgate.net/profile/Immo-Bahns">Researchgate</a>, <a href="https://orcid.org/0009-0001-6341-5508">ORCID</a><br>
+      <strong>Interests:</strong> Expert in nondestructive interactions of electromagnetic waves, project manager for XFELO demonstrator project.'
 ---
 
 
