@@ -5,6 +5,8 @@ categories:
 tags:
   - swiftquakes
   - youtube
+header:
+  teaser: /assets/images/youtube_taylorwaves.png
 ---
 
 Here, you see that the seismic waves from Love Story and Shake it Off reached all the way through the 3.4km long EuXFEL tunnel!

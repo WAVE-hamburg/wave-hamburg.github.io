@@ -6,9 +6,7 @@ tags:
   - swiftquakes
   - youtube
 header:
-  video:
-    id: -norXqxITPoc&t=1s
-    provider: youtube
+  teaser: /assets/images/youtube_PETRAbeats.png
 ---
 
 The ‘rainbow blobs’ show the strength of the arriving signals along the fiber but filtered for different frequency bands. So the wider a specific colour band is, the stronger are the waves vibrating in that range. They also help understand from what direction the signal is coming and help us observe along what path the waves are traveling.
