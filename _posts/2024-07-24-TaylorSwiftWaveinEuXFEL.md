@@ -4,6 +4,8 @@ categories:
   - outreach
 tags:
   - swiftquakes
+  - livestream
+  - taylorswift
   - youtube
 header:
   teaser: /assets/images/youtube_taylorwaves.png

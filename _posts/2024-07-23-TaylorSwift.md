@@ -3,10 +3,9 @@ title: "Livestream of Taylor Swift making WAVEs"
 categories:
   - outreach
 tags:
-  - content
-  - css
-  - lists
-  - markup
+  - swiftquakes
+  - livestream
+  - taylorswift
 last_modified_at: 2024-07-23T23:25:52-05:00
 header:
   teaser: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png

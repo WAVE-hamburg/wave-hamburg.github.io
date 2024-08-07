@@ -3,7 +3,9 @@ title: "First results from the Taylor Swift concert!"
 categories:
   - outreach
 tags:
-  - outreach
+  - swiftquakes
+  - livestream
+  - taylorswift
 last_modified_at: 2024-07-23T23:25:52-05:00
 header:
   teaser: /assets/images/2024_taylors_waves_spectrogram_annotated.png

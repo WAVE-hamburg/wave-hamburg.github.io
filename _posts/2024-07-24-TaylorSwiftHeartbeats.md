@@ -5,6 +5,8 @@ categories:
 tags:
   - swiftquakes
   - youtube
+  - livestream
+  - taylorswift
 header:
   teaser: /assets/images/youtube_PETRAbeats.png
 ---
