@@ -2,7 +2,6 @@
 permalink: /outreach/
 title: Outreach
 classes: wide
-toc: true
 taxonomy: outreach
 layout: home
 header:
@@ -14,6 +13,8 @@ header:
       url: https://www.instagram.com/wave.hamburg/
 excerpt: "Are you interested in how DAS works in more detail and would like a brief explanation? Then take a look at our Instagram channel, where we publish short videos and other content. "
 ---
+
+{% include toc %}
 
 ## Livestreams 
 
