@@ -61,7 +61,7 @@ In the following, we present a few results from the initial "Proof of Concept" m
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/earthquake_snapshots.png" alt="">
-  <figcaption> Earthquake in China recorded in Hamburg's WAVE network.'.</figcaption>
+  <figcaption> Earthquake in China recorded in Hamburg's WAVE network.</figcaption>
 </figure> 
 *Earthquake in China recorded along the DAS fiber:* Comparison of seismometer data with DAS data. Shown is an earthquake that occurred on 21.05.2021 in Quinghai (China) with a magnitude of 7.4.
 It can be seen that the amplitudes of the sum of 600 data traces in the time window in which the earthquake signal arrives are larger than those of the single trace. The amplitudes of the unwanted noise at the beginning of the data track are reduced. In the lowest plot, many DAS data traces are plotted below each other. The blue line marks the single trace shown in the center plot. The red area covers the 600 traces from which the sum trace was formed.
@@ -89,14 +89,14 @@ On the left, the evolution over time of the strain amplitudes (strain rate) reco
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/vibrotruck.jpg" alt="">
-  <figcaption> Vibrotruck.'.</figcaption>
+  <figcaption> Vibrotruck.</figcaption>
 </figure> 
 
 Vibrotruck of the company Baudynamik Heiland & Mistler GmbH exciting the frequency sweep seen on the right. 
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sweep_signal_spectrogram.png" alt="">
-  <figcaption> Spectrogram of 4 Vibrotruck sweeps in the DAS fiber.'.</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sweeps_signal_spectrogram.png" alt="">
+  <figcaption> Spectrogram of 4 Vibrotruck sweeps in the DAS fiber.</figcaption>
 </figure> 
 *Ground motion excited by the Vibrotruck:* Vibration spectra measured in the accelerator tunnel of EuXFEL very clearly show the ground vibrations that a so-called vibrotruck exerts on the subsurface about 100m away.
 
@@ -104,14 +104,14 @@ Vibrotruck of the company Baudynamik Heiland & Mistler GmbH exciting the frequen
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/5-2Hz-line.png" alt="">
-  <figcaption> Spectrogram over two hours showing 5.2 Hz signal.'.</figcaption>
+  <figcaption> Spectrogram over two hours showing 5.2 Hz signal.</figcaption>
 </figure> 
 
 Spectrogram of the recordings of a single DAS channel over a period of two hours. An irregular signal in the frequency range around 5.2 Hz can be seen, which affects the experimental operation at PETRA.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/trafo.png" alt="">
-  <figcaption> Spectrogram of DAS (top) and reference signal (bottom) near a transformer station.'.</figcaption>
+  <figcaption> Spectrogram of DAS (top) and reference signal (bottom) near a transformer station.</figcaption>
 </figure> 
 
 Frequency components of acoustic signals measured near a transformer station on the DESY site. The lower graph shows the electronically measured variation of the 50 Hz mains frequency. The upper spectrogram shows the variation over time of a one-hour section of the signal from a single position of the optical fiber near the transformer. One can see a vibration at the 5th harmonic of the mains frequency at 300 Hz, whose fluctuations exactly follow the behavior of the mains frequency.
