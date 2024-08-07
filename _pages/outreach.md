@@ -14,6 +14,8 @@ toc_label: "Page content"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 toc_sticky: true
 read_time: false
+categories:
+  - outreach
 ---
 
 
