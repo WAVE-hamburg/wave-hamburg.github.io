@@ -24,4 +24,4 @@ Major scientific advances are foreseen in seismology and geophysical modelling, 
 
 The internationally unique infrastructure and science network will establish best practices for vibration cancellation in large-scale and precision physics experiments, bringing new frontiers of precision measurements into reach, while simultaneously providing insight into the evolution of the Science City at and beneath its surface.
 
-<img src="assets/images/WAVE_evolution_stages.png" style="width:100%" onclick="onClick(this)" alt="Overview of the evolution stages of WAVE.  ">
+![Overview of the evolution stages of WAVE.](assets/images/WAVE_evolution_stages.png)
