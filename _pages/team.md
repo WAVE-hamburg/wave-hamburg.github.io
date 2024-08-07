@@ -14,12 +14,6 @@ excerpt: "Our team combines expertise from various fields, including geophysics,
 intro: 
   - excerpt: 'Meet our diverse team of experts from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
 
-feature_row_unis: 
-  - image_path: ./assets/images/Logo/uni_hamburg_square.png
-  - image_path: ./assets/images/Logo/desy.png
-  - image_path: ./assets/images/Logo/logo_HSU.png
-  - image_path: ./assets/images/Logo/logo_GFZ.png
-  - image_path: ./assets/images/Logo/logo_XFEL.jpg
 
 feature_row:
   - image_path: ./assets/images/Logo/uni_hamburg_square.png
@@ -180,7 +174,6 @@ feature_row12:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row_unis id="unis" type="center" %}
 
 {% include feature_row id="feature_row" type="left" %}
 
