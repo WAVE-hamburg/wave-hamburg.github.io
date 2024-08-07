@@ -19,7 +19,7 @@ feature_row:
     alt: "Prof. Dr. Celine Hadziioannou"
     title: "Prof. Dr. Celine Hadziioannou"
     excerpt: '<strong>Coordinator</strong> <br>
-      <strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Affiliation:</strong> University of Hamburg<br>
       <strong>Website:</strong> <a href="https://celine.hadzii.com">celine.hadzii.com</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
       <strong>Interests:</strong> Prof. Dr. Celine Hadziioannou explores seismic signals recorded in the absence of earthquakes, considering these usually discarded "noise" signals as valuable sources of information.<br>
@@ -60,7 +60,22 @@ feature_row:
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html">Profile</a><br>
       <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.'
 
-
+feature_row2:
+  - image_path: /assets/images/Team/fotor-2024050716349.png
+    alt: "Dr. Holger Schlarb"
+    title: "Dr. Holger Schlarb"
+    excerpt: '<strong>Coordinator</strong> <br>
+      <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
+      <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a>, <a href="https://www.desy.de/index_eng.html">desy.de</a><br>
+      <strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a><br>
+      <strong>Interests:</strong> Focuses on seismic and acoustic noise impacts on accelerator beam stabilization.<br>'
+    url: ""
+    btn_label: "More About Holger"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/Team/placeholder.png
+    alt: "Dr. Markus Hoffmann"
+    title: "Dr. Markus Hoffmann"
+    excerpt: '<strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
 
 feature_row3:
   - image_path: /assets/images/Team/katharina_sophie_lief_round.png
