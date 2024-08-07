@@ -16,13 +16,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-docs:
-   - title: "About"
-     url: about.md
-   - title: "Science"
-     url: science.md
-   - title: "Outreach"
-     url: outreach.md
-   - title: "Team"
-     url: team.md
