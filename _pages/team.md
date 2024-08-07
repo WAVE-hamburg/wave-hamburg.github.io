@@ -16,9 +16,9 @@ intro:
 
 feature_row:
   - image_path: /assets/images/Team/celine-hadziioannou-round.png
-    alt: "University of Hamburg Logo"
-    title: "University of Hamburg"
-    excerpt: '<strong>Coordinator:</strong> Prof. Dr. Celine Hadziioannou<br>
+    alt: "Prof. Dr. Celine Hadziioannou"
+    title: "Prof. Dr. Celine Hadziioannou"
+    excerpt: '<strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> University of Hamburg<br>
       <strong>Website:</strong> <a href="https://celine.hadzii.com">celine.hadzii.com</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
@@ -29,8 +29,8 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/Team/oliver_gerberding_round.png
     alt: "Prof. Dr. Oliver Gerberding"
-    title: "University of Hamburg"
-    excerpt: '<strong>Coordinator:</strong> Prof. Dr. Oliver Gerberding<br>
+    title: "Prof. Dr. Oliver Gerberding"
+    excerpt: '<strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> Institut für Experimentalphysik<br>
       <strong>Website:</strong> <a href="https://www.physik.uni-hamburg.de/iexp/gwd">Gravitational wave detection</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=-h2HvqcAAAAJ&hl=de">Google Scholar</a>, <a href="https://orcid.org/0000-0001-7740-2698">ORCID</a><br>
@@ -39,25 +39,19 @@ feature_row:
     url: "#"
     btn_label: "More About Oliver"
     btn_class: "btn--primary"
-
-feature_row3:
   - image_path: /assets/images/Team/antonia_kiel_round.png
     alt: "Antonia Kiel"
-    title: "University of Hamburg"
-    excerpt: '<strong>Name:</strong> Antonia Kiel<br>
-      <strong>Affiliation:</strong> Institute of Geophysics<br>
+    title: "Antonia Kiel"
+    excerpt: ' <strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Interests:</strong> Works in seismology and machine learning, focusing on shallow groundwater monitoring using seismic noise.<br>
       <strong>Collaborations:</strong> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a>'
     url: "#"
     btn_label: "More About Antonia"
     btn_class: "btn--primary"
-
-feature_row4:
   - image_path: /assets/images/Team/photo_bauer_200x200.png
     alt: "Dr. Alexander Bauer Vossius"
-    title: "University of Hamburg"
-    excerpt: '<strong>Name:</strong> Dr. Alexander Bauer Vossius<br>
-      <strong>Affiliation:</strong> Institute of Geophysics<br>
+    title: "Dr. Alexander Bauer Vossius"
+    excerpt: '<strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.researchgate.net/profile/Alexander-Bauer-3">Researchgate</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?user=yxmye-sAAAAJ">Google Scholar</a><br>
       <strong>Interests:</strong> Specializes in seismic data characterization and machine learning for wavefield separation.<br>
@@ -65,24 +59,21 @@ feature_row4:
     url: "#"
     btn_label: "More About Alexander"
     btn_class: "btn--primary"
-
-feature_row5:
   - image_path: /assets/images/Team/Oliver Bölt.png
     alt: "Oliver Bölt"
-    title: "University of Hamburg"
-    excerpt: '<strong>Name:</strong> Oliver Bölt<br>
-      <strong>Affiliation:</strong> Institute of Geophysics<br>
+    title: "Oliver Bölt"
+    excerpt: '<strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html">Profile</a><br>
       <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.'
     url: "#"
     btn_label: "More About Oliver"
     btn_class: "btn--primary"
 
-feature_row6:
+feature_row2:
   - image_path: /assets/images/Team/fotor-2024050716349.png
-    alt: "DESY Logo"
-    title: "DESY"
-    excerpt: '<strong>Coordinator:</strong> Dr. Holger Schlarb<br>
+    alt: "Dr. Holger Schlarb"
+    title: "Dr. Holger Schlarb"
+    excerpt: '<strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> Deutsches Elektronen-Synchrotron (DESY)<br>
       <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a>, <a href="https://www.desy.de/index_eng.html">desy.de</a><br>
       <strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a><br>
@@ -90,19 +81,16 @@ feature_row6:
     url: ""
     btn_label: "More About Holger"
     btn_class: "btn--primary"
-
-feature_row7:
   - image_path: /assets/images/Team/placeholder.png
-    alt: "Dr. Markus Hoffmann Vossius"
-    title: "DESY"
-    excerpt: '<strong>Name:</strong> Dr. Markus Hoffmann Vossius<br>
-      <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
+    alt: "Dr. Markus Hoffmann"
+    title: "Dr. Markus Hoffmann"
+    excerpt: ' <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
 
-feature_row8:
+feature_row3:
   - image_path: /assets/images/Team/katharina_sophie_lief_round.png
-    alt: "Helmut Schmidt University Logo"
-    title: "Helmut Schmidt University"
-    excerpt: '<strong>Coordinator:</strong> Prof. Dr. Katharina-Sophie Isleif<br>
+    alt: "Prof. Dr. Katharina-Sophie Isleif"
+    title: "Prof. Dr. Katharina-Sophie Isleif"
+    excerpt: '<strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?hl=de&user=5clbTvsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
@@ -111,13 +99,10 @@ feature_row8:
     url: "https://www.hsu-hh.de/mt/"
     btn_label: "More About Katharina"
     btn_class: "btn--primary"
-
-feature_row9:
   - image_path: /assets/images/Team/reinhardt.png
     alt: "Reinhardt Rading"
-    title: "Helmut Schmidt University"
-    excerpt: '<strong>Name:</strong> Reinhardt Rading<br>
-      <strong>Affiliation:</strong> Institute of Automation Technology<br>
+    title: "Reinhardt Rading"
+    excerpt: '<strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
       <strong>Personal Website:</strong> <a href="https://reinhardtrading.com/">reinhardtrading.com</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=TTOUhhQAAAAJ&hl=en">Google Scholar</a><br>
@@ -125,18 +110,15 @@ feature_row9:
     url: "https://reinhardtrading.com/"
     btn_label: "More About Reinhardt"
     btn_class: "btn--primary"
-
-feature_row10:
   - image_path: /assets/images/Team/Wanda Vossius.png
     alt: "Wanda Vossius"
-    title: "Helmut Schmidt University"
-    excerpt: '<strong>Name:</strong> Wanda Vossius<br>
-      <strong>Affiliation:</strong> HSU Metrology<br>
+    title: "Wanda Vossius"
+    excerpt: '<strong>Affiliation:</strong> HSU Metrology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">HSU Metrology Team</a><br>
       <strong>Interests:</strong> Works on fiber sensors for Newtonian noise mitigation and outreach activities.<br>
       <strong>Collaborations:</strong> <a href="https://www.et-gw.eu/">Einstein Telescope Collaboration</a>, <a href="https://www.ligo.org/">LIGO Scientific Collaboration</a>'
 
-feature_row11:
+feature_row4:
   - image_path: /assets/images/Team/christopher_wolli_round.png
     alt: "GFZ Potsdam Logo"
     title: "GFZ Potsdam"
@@ -147,7 +129,7 @@ feature_row11:
       <strong>Interests:</strong> Specializes in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
       <strong>Collaborations:</strong> <a href="https://www.gfz-potsdam.de/sektion/geophysikalische-abbildung-des-untergrunds/projekte/sense">SENSE</a>, <a href="https://www.gfz-potsdam.de/sektion/geoenergie/projekte/abgeschlossene-projekte-1/2019-2022-geopur">geoPuR</a>'
 
-feature_row12:
+feature_row5:
   - image_path: /assets/images/Team/placeholder.png
     alt: "XFEL Logo"
     title: "XFEL"
@@ -161,32 +143,17 @@ feature_row12:
 
 ## University of Hamburg
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row2" type="right" %}
-
-{% include feature_row id="feature_row3" type="left" %}
-
-{% include feature_row id="feature_row4" type="right" %}
-
-{% include feature_row id="feature_row5" type="left" %}
-
-{% include feature_row id="feature_row6" type="right" %}
-
-{% include feature_row id="feature_row7" type="left" %}
 
 ## Helmut Schmidt University
 
-{% include feature_row id="feature_row8" type="right" %}
-
-{% include feature_row id="feature_row9" type="left" %}
-
-{% include feature_row id="feature_row10" type="right" %}
+{% include feature_row id="feature_row3" type="right" %}
 
 ## GFZ Potsdam
 
-{% include feature_row id="feature_row11" type="left" %}
+{% include feature_row id="feature_row4" type="left" %}
 
 ## European XFEL
 
-{% include feature_row id="feature_row12" type="right" %}
+{% include feature_row id="feature_row5" type="right" %}
