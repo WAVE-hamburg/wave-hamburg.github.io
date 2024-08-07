@@ -3,6 +3,7 @@ permalink: /index/
 title: ''About''
 classes: wide
 toc:true
+layout: home
 ---
 
 ## Abous us
