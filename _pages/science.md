@@ -1,8 +1,18 @@
 ---
 permalink: /science/
 title: Science
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/Smart_City.png
+  actions:
+    - label: "Publications and theses"
+      url: /publications/
+excerpt: ""
 toc: true
-classes: wide
+toc_label: "Website content"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_sticky: false
 ---
 
 ## Projects

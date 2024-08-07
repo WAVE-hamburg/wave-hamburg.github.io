@@ -1,7 +1,6 @@
 ---
 permalink: /outreach/
 title: Outreach
-taxonomy: outreach
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -11,10 +10,9 @@ header:
       url: https://www.instagram.com/wave.hamburg/
 excerpt: "Are you interested in how DAS works in more detail and would like a brief explanation? Then take a look at our Instagram channel, where we publish short videos and other content. "
 toc: true
-toc_label: "Unique Title"
+toc_label: "Website content"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 toc_sticky: false
-
 ---
 
 
