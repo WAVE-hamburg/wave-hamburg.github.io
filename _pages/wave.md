@@ -2,6 +2,7 @@
 permalink: /wave/
 layout: home
 toc: true
+classes: wide
 ---
 
 ## About us 
