@@ -9,8 +9,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
   actions:
-    - label: "Read more us"
-      url: "https://kisleif.github.io/WAVE-minimal-mistakes/wave/"
+    - label: "Read more"
+      url: /wave/
+    - label: "Recent acitivites"
+      url: /posts/
     - label: "Follow us on Instagram"
       url: "https://www.instagram.com/wave.hamburg/"
     - label: "Follow us on Twitch"
