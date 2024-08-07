@@ -25,30 +25,32 @@ In the following, we present a few results from the initial "Proof of Concept" m
 
 ### Signals along the DAS fiber
 
-<figure style="width: 800px" class="align-left">
+*Overview of whole fiber track:* Waterfall diagram of the records of all DAS sensors along the 12.6 km long fiber. The maximum amplitude of the time series at 20 s intervals is color-coded across the spatially distributed sensors and the 16 hour recording period. The arrows mark events that are described in the listing (click for details), numbered accordingly.
+
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/summary_waterfall.png" alt="">
   <figcaption>Waterfall Diagram.</figcaption>
 </figure> 
 
-*Overview of whole fiber track:* Waterfall diagram of the records of all DAS sensors along the 12.6 km long fiber. The maximum amplitude of the time series at 20 s intervals is color-coded across the spatially distributed sensors and the 16 hour recording period. The arrows mark events that are described in the listing (click for details), numbered accordingly.
+*Signals along EuXFEL tunnel:* Spectra of all DAS channels along the accelerator tunnel XTL, during accelerator operation of EuXFEL. Already at first glance, many elements that may cause disturbance or noise can be identified by their characteristic frequencies. Some prominent elements are marked for illustration.
 
-<figure style="width: 800px" class="align-right">
+<figures class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/XTL-spec-_smaller.png" alt="">
   <figcaption>Spectrogram from EuXFEL tunnel.</figcaption>
 </figure> 
 
-*Signals along EuXFEL tunnel:* Spectra of all DAS channels along the accelerator tunnel XTL, during accelerator operation of EuXFEL. Already at first glance, many elements that may cause disturbance or noise can be identified by their characteristic frequencies. Some prominent elements are marked for illustration.
+
 
 ### Car signals
 
-<figure style="width: 800px" class="align-left">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/cars_composite.png" alt="">
   <figcaption>Car signals.</figcaption>
 </figure> 
 
 *Cars passing the DAS fiber:* Spatiotemporal DAS recording of passing cars is shown at the top. The fiber section between positions 10430 and 10800 is immediately adjacent to a road. A map of the road section is shown at the bottom left. At the bottom right is a recording of the passage of a single car, with horizontal lines framed in appropriate color corresponding to snapshots of the fiber excitation at the bottom center. Since the fiber passes the road twice in opposite directions, the waterfall diagram is mirrored about the horizontal at a distance of 10645m. The cars are clearly visible as diagonal stripes, and their slope gives immediate information about the speed of the cars (about 18 ± 5km/h). The first car appears at about second 60. Another car travels in the same direction starting at second 125. While the first car crosses a clearly slower road user traveling in the opposite direction towards the end of the road section about 15 seconds later, the second car apparently encounters three other vehicles. One of them leaves its parking place halfway, two others come towards it in close succession.
 
-<figure style="width: 1000px" class="align-right">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_car_map.mp4" alt="">
   <figcaption>Car animation.</figcaption>
 </figure> 
@@ -57,7 +59,7 @@ In the following, we present a few results from the initial "Proof of Concept" m
 
 ### Earthquake signals
 
-<figure style="width: 800px" class="align-left">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/earthquake_snapshots.png" alt="">
   <figcaption> Earthquake in China recorded in Hamburg's WAVE network.'.</figcaption>
 </figure> 
@@ -65,7 +67,7 @@ In the following, we present a few results from the initial "Proof of Concept" m
 It can be seen that the amplitudes of the sum of 600 data traces in the time window in which the earthquake signal arrives are larger than those of the single trace. The amplitudes of the unwanted noise at the beginning of the data track are reduced. In the lowest plot, many DAS data traces are plotted below each other. The blue line marks the single trace shown in the center plot. The red area covers the 600 traces from which the sum trace was formed.
 In the lower graph, in addition to the vertical lines corresponding to the coherent seismic wavefronts, spatial variations of the measured oscillation amplitudes can be seen. These may be related to inhomogeneous subsurface structure and illustrate how DAS measurements provide high temporal and spatial resolution.
 
-<figure style="width: 1000px" class="align-right">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mp4" alt="">
   <figcaption>Animation during the Earthquake from China.</figcaption>
 </figure> 
@@ -74,7 +76,7 @@ On the right, a typical representation for DAS data (waterfall diagram) is shown
 On the left, the evolution over time of the strain amplitudes (strain rate) recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel.
 Although the length of the waves exceeds that of the tunnel many times over, the spatial shaping of the wave crests and troughs can be clearly recognized as they propagate from East to West.
 
-<figure style="width: 1000px" class="align-right">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_EQ_turkey.mp4" alt="">
   <figcaption>Animation during the Earthquake from Turkey.</figcaption>
 </figure> 
@@ -85,14 +87,14 @@ On the left, the evolution over time of the strain amplitudes (strain rate) reco
 
 ### Vibrotruck sweeps
 
-<figure style="width: 400px" class="align-left">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/vibrotruck.jpg" alt="">
   <figcaption> Vibrotruck.'.</figcaption>
 </figure> 
 
 Vibrotruck of the company Baudynamik Heiland & Mistler GmbH exciting the frequency sweep seen on the right. 
 
-<figure style="width: 300px" class="align-left">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/sweep_signal_spectrogram.png" alt="">
   <figcaption> Spectrogram of 4 Vibrotruck sweeps in the DAS fiber.'.</figcaption>
 </figure> 
@@ -100,14 +102,14 @@ Vibrotruck of the company Baudynamik Heiland & Mistler GmbH exciting the frequen
 
 ### Interfering vibration sources
 
-<figure style="width: 400px" class="align-left">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/5-2Hz-line.png" alt="">
   <figcaption> Spectrogram over two hours showing 5.2 Hz signal.'.</figcaption>
 </figure> 
 
 Spectrogram of the recordings of a single DAS channel over a period of two hours. An irregular signal in the frequency range around 5.2 Hz can be seen, which affects the experimental operation at PETRA.
 
-<figure style="width: 400px" class="align-right">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/trafo.png" alt="">
   <figcaption> Spectrogram of DAS (top) and reference signal (bottom) near a transformer station.'.</figcaption>
 </figure> 
