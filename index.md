@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "WAVE"
 layout: splash
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -10,9 +10,9 @@ header:
     - label: "About us"
       url: "https://mmistakes.github.io/minimal-mistakes/wave/"
  # caption: "Photo credit: "
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'A key element of WAVE is the widespread use of modern seismic sensors, in particular distributed acoustic sensing (DAS). This technology uses fiber optic cables as sensitive seismic sensors. It enables ground motion data to be recorded at an unprecedented spatial density over long distances, revolutionizing geophysics.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -55,7 +55,6 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-# Test
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
