@@ -17,17 +17,11 @@ read_time: false
 
 In the following, we present a few results from the initial "Proof of Concept" measurement campaign in 2021, as well as a few more recent results. Keep an eye on this, it will be updated (semi-)regularly!
 
-<figure style="width: 300px" class="align-left">
+<figure class="half">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iDAS.jpg" alt="">
-  <figcaption>DAS interrogator.</figcaption>
-</figure> 
-<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/georeferencing.jpg" alt="">
-  <figcaption>Georeferencing.</figcaption>
-</figure> 
-
-
-
+    <figcaption>DAS interrogator and fiber georeferencing.</figcaption>
+</figure>
 
 ### Signals along the DAS fiber
 
