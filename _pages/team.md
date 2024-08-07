@@ -1,6 +1,7 @@
 ---
 permalink: /team/
 title: "Team"
+classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,7 +11,7 @@ header:
       url: "#projects"
 excerpt: "Our team combines expertise from various fields, including geophysics, seismology, physics, and engineering, to push the boundaries of seismic and geo-acoustic research."
 intro: 
-  - excerpt: 'Meet our diverse team of experts from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
+  - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
 
 feature_row:
   - image_path: /assets/images/Team/celine-hadziioannou-round.png
