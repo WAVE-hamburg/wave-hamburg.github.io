@@ -20,6 +20,8 @@ read_time: false
 
 In a first step, the WAVE concept has already been tested under realistic conditions to demonstrate the feasibility and possibilities of such a network on site. To this end, the initiative carried out a proof-of-concept experiment on the DESY/UHH campus in Bahrenfeld in May 2021, using, among other things, a 12.6 km long, existing and continuous strand of currently unused telecommunications fiber as a series of seismic sensors. The wave field was recorded at high resolution, with 1 m intervals along the entire length of the fiber. In the following, we summarize the development of this measurement campaign, and present a selection of initial observations. 
 
+Since then, we have expanded the network to currently 19 km of fiber, organized several ![outreach events](/outreach/) and Livestreams of the data, including during a Taylor Swift concert. We hold regular Workshops and other events, and of course we also use the data for a range of interdisciplinary Scientific analysis!
+
 ## Map of the DAS-fiber track
 
 In 2021 we started with a 12.6 km fiber test track and performed the proof-of-concept experiment. Now, we established a 19 km fiber paths providing us 19000 distributed seismic sensors on the Campus, reading out with a single DAS interrogator. 
@@ -33,7 +35,7 @@ In the northeast, the fiber runs through the 'Max von Laue' experimental hall an
 <iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/ckzrg6q3r00pe14l9dhyemxx7.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#10/53.5732/9.9245" title="WAVE-Hamburg" style="border:none;"></iframe>
 
 
-## More seismic sensors
+## Other seismic sensors
 
 In addition to seismic sensors, we also have other seismic sensors on campus from the various institutions whose data we can access. These include broadband seismometers with high sensitivity, even over long measurement periods, and geophones, which are more capable of measuring signals in the high-frequency range.  
 
