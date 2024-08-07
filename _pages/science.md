@@ -15,10 +15,7 @@ read_time: false
 
 ## Results 
 
-<figure style="width: 300px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iDAS.jpg" alt="">
-  <figcaption>DAS interrogator.</figcaption>
-</figure> 
+{% include figure popup=true image_path="/assets/images/iDAS.jpg" alt="this is a placeholder image" caption="DAS interrogator." %}
 
 In the following, we present a few results from the initial "Proof of Concept" measurement campaign in 2021, as well as a few more recent results. Keep an eye on this, it will be updated (semi-)regularly!
 
