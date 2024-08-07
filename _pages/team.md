@@ -1,4 +1,5 @@
 ---
+permalink: /team/
 title: "Team"
 layout: splash
 date: 2024-08-07
