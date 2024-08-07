@@ -7,7 +7,7 @@ tags:
   - youtube
 header:
   video:
-    id: -KdyTx5UX4zt
+    id: -norXqxITPoc&t=1s
     provider: youtube
 ---
 
