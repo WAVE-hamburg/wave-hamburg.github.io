@@ -315,6 +315,6 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: home
+      type: pages
     values:
       layout: single
