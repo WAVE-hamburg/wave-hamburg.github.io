@@ -1,24 +1,58 @@
 ---
 title: "WAVE"
+layout: splash
+date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_image: /assets/images/Smart_City.png
   overlay_color: "#000"
   overlay_filter: "0.5"
+  overlay_image: /assets/images/Smart_City.png
   actions:
-    - label: "Science"
-      url: "https://github.com"
-    - label: "Outreach"
-      url: "https://mademistakes.com"
-    - label: "Team"
-      url: "https://mademistakes.com"
+    - label: "About us"
+      url: "https://kisleif.github.io/WAVE-minimal-mistakes/wave/"
+ # caption: "Photo credit: "
+excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities."
+intro: 
+  - excerpt: 'A key element of WAVE is the widespread use of modern seismic sensors, in particular distributed acoustic sensing (DAS). This technology uses fiber optic cables as sensitive seismic sensors. It enables ground motion data to be recorded at an unprecedented spatial density over long distances, revolutionizing geophysics.'
+feature_row:
+  - image_path: /assets/images/iDAS.jpg
+    alt: "Scientists looking at the DAS system."
+    title: "Science"
+    excerpt: 'The WAVE team is interdisciplinary and involved science projects from geophysics, seismology, physics - especially accelerator and gravitational wave physics, informatics and engineering. '    
+    url: /science/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row2:
+  - image_path: assets/images/2024_taylors_waves_spectrogram_annotated.png
+    alt: "spectrogram"
+    title: "Taylor's waves and Swiftquakes"
+    excerpt: 'Results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024.'
+  - title: "Outreach"
+    excerpt: "Concerts, soccer games and visitors shake the research campus, which we show in realtime live on Twitch."
+    url: /science/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "The WAVE Team"
+    excerpt: 'Results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024.'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/group_photo.png
+    alt: "placeholder image 2"
+    title: "The WAVE Team"
+    excerpt: 'We are a young collaboration of seismologists, physicists, engineers and computer scientists. '
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities.
-A key element of WAVE is the widespread use of modern seismic sensors, in particular distributed acoustic sensing (DAS). This technology uses fiber optic cables as sensitive seismic sensors. It enables ground motion data to be recorded at an unprecedented spatial density over long distances, revolutionizing geophysics.
+{% include feature_row id="intro" type="center" %}
 
+{% include feature_row id="feature_row" type="right" %}
 
-The WAVE concept has been tested under realistic conditions to demonstrate the feasibility and possibilities of such a [network on site]((/about/)). To this end, the initiative carried out a proof-of-concept experiment on the DESY/UHH campus in Bahrenfeld in May 2021, using, among other things, a 12.6 km long, existing and continuous strand of currently unused telecommunications fiber as a series of seismic sensors. The wave field was recorded at high resolution, with 1 m intervals along the entire length of the fiber.
+{% include feature_row id="feature_row2" type="left" %}
 
-Since then, we have expanded the network to currently 19 km of fiber, organized several [Outreach events and Livestreams](/outreach/) of the data, including during a Taylor Swift concert. We hold regular Workshops and other events, and of course we also use the data for a range of interdisciplinary Scientific analysis!
- 
-More information about the network, technology and infrastructure can be found [here](/about/).
+{% include feature_row id="feature_row4" type="center" %}
