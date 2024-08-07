@@ -1,7 +1,6 @@
 ---
 permalink: /team/
 title: Team
-layout: home
 classes: wide
 ---
 
