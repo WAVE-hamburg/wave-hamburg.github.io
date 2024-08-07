@@ -8,10 +8,6 @@ tags:
   - lists
   - markup
 last_modified_at: 2024-07-23T23:25:52-05:00
-image: 
-  path: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
-  thumbnail: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
-  caption: "Screenshot from the LiveStream"
 header:
   teaser: /assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png
 ---
@@ -25,6 +21,10 @@ During the two concerts, we offered a livestream of our vibration measurements.
 We broadcasted our measurements on the Livestream on 23th of July at 18:00 -- 23:00 CEST
 and again on 24th of July at 18:00 -- 23:00 CEST.
 Watch this space, we will update with more results over the next few days.
+
+![Screenshot from the LiveStream]({{ site.url }}{{ site.baseurl }}/assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png)
+{: .image-right}
+
 
 ## "Swiftquakes?!" Don't worry, these are not real earthquakes!
 

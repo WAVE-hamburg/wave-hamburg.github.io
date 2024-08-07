@@ -13,5 +13,6 @@ header:
 
 Spectrogram of the Taylor Swift concert, with some songs annotated. The brighter yellow colors indicate stronger vibrations. The 'ladder structures' shift up and down with the beats per second of the song -- this is probably a result of the fans jumping to the beat, and with that, they generate specific frequencies.
 
-![Spectrogram](2024_taylors_waves_spectrogram_annotated.png)
+![Spectrogram]({{ site.url }}{{ site.baseurl }}/assets/images/2024_taylors_waves_spectrogram_annotated.png)
+{: .image-right}
 
