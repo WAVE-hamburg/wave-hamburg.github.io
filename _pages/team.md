@@ -8,11 +8,18 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
   actions:
-    - label: "Our Projects"
+    - label: "WAVE Project"
       url: "#projects"
-excerpt: "Meet our diverse team of experts from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research."
+excerpt: "Our team combines expertise from various fields, including geophysics, seismology, physics, and engineering, to push the boundaries of seismic and geo-acoustic research."
 intro: 
-  - excerpt: 'Our team combines expertise from various fields, including geophysics, seismology, physics, and engineering, to push the boundaries of seismic and geo-acoustic research.'
+  - excerpt: 'Meet our diverse team of experts from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
+
+feature_row_unis: 
+  - image_path: ./assets/images/Logo/uni_hamburg_square.png
+  - image_path: ./assets/images/Logo/desy.png
+  - image_path: ./assets/images/Logo/logo_HSU.png
+  - image_path: ./assets/images/Logo/logo_GFZ.png
+  - image_path: ./assets/images/Logo/logo_XFEL.jpg
 
 feature_row:
   - image_path: ./assets/images/Logo/uni_hamburg_square.png
@@ -43,20 +50,44 @@ feature_row2:
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/Team/katharina_sophie_lief_round.png
-    alt: "Prof. Dr. Katharina-Sophie Isleif"
-    title: "Helmut Schmidt University"
-    excerpt: '<strong>Coordinator:</strong> Prof. Dr. Katharina-Sophie Isleif<br>
-      <strong>Affiliation:</strong> Institute of Automation Technology<br>
-      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
-      <strong>Publications:</strong> <a href="https://scholar.google.com/citations?hl=de&user=5clbTvsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
-      <strong>Interests:</strong> Engaged in modeling and mitigating Newtonian noise for the "Einstein Telescope".<br>
-      <strong>Collaborations:</strong> <a href="https://alps.desy.de/">Einstein Telescope (ET), ALPS</a>'
+  - image_path: /assets/images/Team/antonia_kiel_round.png
+    alt: "Antonia Kiel"
+    title: "University of Hamburg"
+    excerpt: '<strong>Name:</strong> Antonia Kiel<br>
+      <strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Interests:</strong> Works in seismology and machine learning, focusing on shallow groundwater monitoring using seismic noise.<br>
+      <strong>Collaborations:</strong> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a>'
     url: "#"
-    btn_label: "More About Katharina"
+    btn_label: "More About Antonia"
     btn_class: "btn--primary"
 
 feature_row4:
+  - image_path: /assets/images/Team/photo_bauer_200x200.png
+    alt: "Dr. Alexander Bauer Vossius"
+    title: "University of Hamburg"
+    excerpt: '<strong>Name:</strong> Dr. Alexander Bauer Vossius<br>
+      <strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Website:</strong> <a href="https://www.researchgate.net/profile/Alexander-Bauer-3">Researchgate</a><br>
+      <strong>Publications:</strong> <a href="https://scholar.google.de/citations?user=yxmye-sAAAAJ">Google Scholar</a><br>
+      <strong>Interests:</strong> Specializes in seismic data characterization and machine learning for wavefield separation.<br>
+      <strong>Collaborations:</strong> ErUM-WAVE'
+    url: "#"
+    btn_label: "More About Alexander"
+    btn_class: "btn--primary"
+
+feature_row5:
+  - image_path: /assets/images/Team/Oliver Bölt.png
+    alt: "Oliver Bölt"
+    title: "University of Hamburg"
+    excerpt: '<strong>Name:</strong> Oliver Bölt<br>
+      <strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html">Profile</a><br>
+      <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.'
+    url: "#"
+    btn_label: "More About Oliver"
+    btn_class: "btn--primary"
+
+feature_row6:
   - image_path: /assets/images/Logo/desy.png
     alt: "DESY Logo"
     title: "DESY"
@@ -68,14 +99,109 @@ feature_row4:
     url: "#"
     btn_label: "More About Holger"
     btn_class: "btn--primary"
+
+feature_row7:
+  - image_path: /assets/images/Team/placeholder.png
+    alt: "Dr. Markus Hoffmann Vossius"
+    title: "DESY"
+    excerpt: '<strong>Name:</strong> Dr. Markus Hoffmann Vossius<br>
+      <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
+    url: "#"
+    btn_label: "More About Markus"
+    btn_class: "btn--primary"
+
+feature_row8:
+  - image_path: /assets/images/Logo/logo_HSU.png
+    alt: "Helmut Schmidt University Logo"
+    title: "Helmut Schmidt University"
+    excerpt: '<strong>Coordinator:</strong> Prof. Dr. Katharina-Sophie Isleif<br>
+      <strong>Affiliation:</strong> Institute of Automation Technology<br>
+      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
+      <strong>Publications:</strong> <a href="https://scholar.google.com/citations?hl=de&user=5clbTvsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
+      <strong>Interests:</strong> Engaged in modeling and mitigating Newtonian noise for the "Einstein Telescope".<br>
+      <strong>Collaborations:</strong> <a href="https://alps.desy.de/">Einstein Telescope (ET), ALPS</a>'
+    url: "#"
+    btn_label: "More About Katharina"
+    btn_class: "btn--primary"
+
+feature_row9:
+  - image_path: /assets/images/Team/reinhardt.png
+    alt: "Reinhardt Rading"
+    title: "Helmut Schmidt University"
+    excerpt: '<strong>Name:</strong> Reinhardt Rading<br>
+      <strong>Affiliation:</strong> Institute of Automation Technology<br>
+      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
+      <strong>Personal Website:</strong> <a href="https://reinhardtrading.com/">reinhardtrading.com</a><br>
+      <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=TTOUhhQAAAAJ&hl=en">Google Scholar</a><br>
+      <strong>Interests:</strong> Develops high-precision optical sensors for various applications including the Einstein Telescope.'
+    url: "#"
+    btn_label: "More About Reinhardt"
+    btn_class: "btn--primary"
+
+feature_row10:
+  - image_path: /assets/images/Team/Wanda Vossius.png
+    alt: "Wanda Vossius"
+    title: "Helmut Schmidt University"
+    excerpt: '<strong>Name:</strong> Wanda Vossius<br>
+      <strong>Affiliation:</strong> HSU Metrology<br>
+      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">HSU Metrology Team</a><br>
+      <strong>Interests:</strong> Works on fiber sensors for Newtonian noise mitigation and outreach activities.<br>
+      <strong>Collaborations:</strong> <a href="https://www.et-gw.eu/">Einstein Telescope Collaboration</a>, <a href="https://www.ligo.org/">LIGO Scientific Collaboration</a>'
+    url: "#"
+    btn_label: "More About Wanda"
+    btn_class: "btn--primary"
+
+feature_row11:
+  - image_path: /assets/images/Logo/logo_GFZ.png
+    alt: "GFZ Potsdam Logo"
+    title: "GFZ Potsdam"
+    excerpt: '<strong>Name:</strong> Dr. Christopher Wollin<br>
+      <strong>Affiliation:</strong> Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)<br>
+      <strong>Website:</strong> <a href="https://www.gfz-potsdam.de/en/staff/christopher.wollin">gfz-potsdam.de</a><br>
+      <strong>Publications:</strong> <a href="https://orcid.org/0000-0002-3992-787X">ORCID</a><br>
+      <strong>Interests:</strong> Specializes in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
+      <strong>Collaborations:</strong> <a href="https://www.gfz-potsdam.de/sektion/geophysikalische-abbildung-des-untergrunds/projekte/sense">SENSE</a>, <a href="https://www.gfz-potsdam.de/sektion/geoenergie/projekte/abgeschlossene-projekte-1/2019-2022-geopur">geoPuR</a>'
+    url: "#"
+    btn_label: "More About Christopher"
+    btn_class: "btn--primary"
+
+feature_row12:
+  - image_path: /assets/images/Logo/logo_XFEL.jpg
+    alt: "XFEL Logo"
+    title: "XFEL"
+    excerpt: '<strong>Name:</strong> Dr. Immo Bahns<br>
+      <strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a><br>
+      <strong>Publications:</strong> <a href="https://www.researchgate.net/profile/Immo-Bahns">Researchgate</a>, <a href="https://orcid.org/0009-0001-6341-5508">ORCID</a><br>
+      <strong>Interests:</strong> Expert in nondestructive interactions of electromagnetic waves, project manager for XFELO demonstrator project.'
+    url: "#"
+    btn_label: "More About Immo"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row_unis id="unis" type="center" %}
 
 {% include feature_row id="feature_row" type="left" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
-{% include feature_row id="feature_row3" type="center" %}
+{% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="right" %}
+
+{% include feature_row id="feature_row7" type="left" %}
+
+{% include feature_row id="feature_row8" type="right" %}
+
+{% include feature_row id="feature_row9" type="left" %}
+
+{% include feature_row id="feature_row10" type="right" %}
+
+{% include feature_row id="feature_row11" type="left" %}
+
+{% include feature_row id="feature_row12" type="right" %}
