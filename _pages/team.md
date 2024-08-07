@@ -2,7 +2,6 @@
 permalink: /team/
 title: "Team"
 layout: splash
-date: 2024-08-07
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -16,7 +15,7 @@ intro:
 
 
 feature_row:
-  - image_path: /assets/images/Logo/celine-hadziioannou-round.png
+  - image_path: /assets/images/Team/celine-hadziioannou-round.png
     alt: "University of Hamburg Logo"
     title: "University of Hamburg"
     excerpt: '<strong>Coordinator:</strong> Prof. Dr. Celine Hadziioannou<br>
@@ -28,8 +27,6 @@ feature_row:
     url: "#"
     btn_label: "More About Celine"
     btn_class: "btn--primary"
-
-feature_row2:
   - image_path: /assets/images/Team/oliver_gerberding_round.png
     alt: "Prof. Dr. Oliver Gerberding"
     title: "University of Hamburg"
