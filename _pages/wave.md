@@ -1,10 +1,18 @@
 ---
 permalink: /wave/
-layout: single
-toc: true
-classes: wide
 title: About WAVE
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/Smart_City.png
+excerpt: "Are you interested in how DAS works in more detail and would like a brief explanation? Then take a look at our Instagram channel, where we publish short videos and other content. "
+toc: true
+toc_label: "Page content"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_sticky: true  
 ---
+
+
 
 In a first step, the WAVE concept has already been tested under realistic conditions to demonstrate the feasibility and possibilities of such a network on site. To this end, the initiative carried out a proof-of-concept experiment on the DESY/UHH campus in Bahrenfeld in May 2021, using, among other things, a 12.6 km long, existing and continuous strand of currently unused telecommunications fiber as a series of seismic sensors. The wave field was recorded at high resolution, with 1 m intervals along the entire length of the fiber. In the following, we summarize the development of this measurement campaign, and present a selection of initial observations. 
 

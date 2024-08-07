@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/Smart_City.png
 excerpt: "We're working on exciting research projects that help us create interesting theses and publications. We're committed to exploring new ideas and making progress in our research."
 toc: true
-toc_label: "Website content"
+toc_label: "Page content"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 toc_sticky: true
 ---
