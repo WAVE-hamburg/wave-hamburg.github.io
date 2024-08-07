@@ -1,6 +1,6 @@
 ---
-layout: collection
-title: "News"
+layout: tags
+title: "Posts"
 collection: posts
 permalink: /posts/
 author_profile: true
