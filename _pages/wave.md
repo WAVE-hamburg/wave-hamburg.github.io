@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /wave/
 title: What is WAVE?
 layout: home
 classes: wide

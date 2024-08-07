@@ -5,7 +5,7 @@ main:
   - title: "Home"
     url: /index/
   - title: "WAVE"
-    url: /about/
+    url: /wave/
   - title: "Science"
     url: /science/
   - title: "Outreach"
