@@ -1,5 +1,4 @@
 ---
-permalink: /team/
 title: Team
 classes: wide
 ---
