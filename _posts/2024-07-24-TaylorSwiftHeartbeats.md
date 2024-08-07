@@ -1,7 +1,7 @@
 ---
 title: "PETRA's heartbeat during the Taylor Swift concert"
 categories:
-  - Outreach
+  - outreach
 tags:
   - swiftquakes
   - youtube

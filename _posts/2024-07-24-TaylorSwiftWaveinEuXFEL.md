@@ -1,7 +1,7 @@
 ---
 title: "Taylor's waves in EuXFEL tunnel"
 categories:
-  - Outreach
+  - outreach
 tags:
   - swiftquakes
   - youtube
