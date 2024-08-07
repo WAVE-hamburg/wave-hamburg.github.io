@@ -2,6 +2,7 @@
 permalink: /science/
 title: Science
 toc: true
+classes: wide
 ---
 
 ## Projects
