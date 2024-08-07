@@ -5,10 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
-  actions:
-    - label: "Publications and theses"
-      url: /publications/
-excerpt: ""
+excerpt: "We're working on exciting research projects that help us create interesting theses and publications. We're committed to exploring new ideas and making progress in our research."
 toc: true
 toc_label: "Website content"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
