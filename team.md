@@ -1,6 +1,5 @@
 ---
 title: Team
-layout: about
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">

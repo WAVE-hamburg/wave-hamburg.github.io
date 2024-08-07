@@ -1,6 +1,5 @@
 ---
 title: Science
-layout: about
 ---
 
 ## Projects

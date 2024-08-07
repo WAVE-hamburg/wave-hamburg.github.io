@@ -1,6 +1,5 @@
 ---
 title: What is WAVE?
-layout: about
 ---
 
 
