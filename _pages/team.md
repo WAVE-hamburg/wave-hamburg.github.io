@@ -71,7 +71,7 @@ feature_row2:
     alt: "Dr. Holger Schlarb"
     title: "Dr. Holger Schlarb"
     excerpt: '<strong>Coordinator</strong> <br>
-      <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY<br>
+      <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a><br>
       <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a><br>
       <strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a><br>
       <strong>Interests:</strong> Focuses on seismic and acoustic noise impacts on accelerator beam stabilization.'
@@ -79,6 +79,7 @@ feature_row2:
     alt: "Dr. Markus Hoffmann"
     title: "Dr. Markus Hoffmann"
     excerpt: '<strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
+
 
 
 feature_row3:
@@ -100,7 +101,7 @@ feature_row3:
     excerpt: '<strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=TTOUhhQAAAAJ&hl=en">Google Scholar</a><br>
-      <strong>Interests:</strong> Develops high-precision optical sensors for various applications including the Einstein Telescope.'
+      <strong>Interests:</strong> Develops high-precision optical sensors for various applications including the Einstein Telescope.
       <strong>Collaborations:</strong> <a href="https://www.ligo.org/">LIGO-Virgo-Kagra</a>, <a href="https://www.et-gw.eu/">Einstein Telescope</a>'
     url: "https://reinhardtrading.com/"
     btn_label: "More About Reinhardt"
