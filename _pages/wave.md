@@ -20,7 +20,7 @@ read_time: false
 
 In a first step, the WAVE concept has already been tested under realistic conditions to demonstrate the feasibility and possibilities of such a network on site. To this end, the initiative carried out a proof-of-concept experiment on the DESY/UHH campus in Bahrenfeld in May 2021, using, among other things, a 12.6 km long, existing and continuous strand of currently unused telecommunications fiber as a series of seismic sensors. The wave field was recorded at high resolution, with 1 m intervals along the entire length of the fiber. In the following, we summarize the development of this measurement campaign, and present a selection of initial observations. 
 
-Since then, we have expanded the network to currently 19 km of fiber, organized several [*outreach*]({{ "/outreach" | relative_url }}) and [*outreach*]({{ "/outreach/#livestreams" | relative_url }}) of the data, including during a Taylor Swift concert. We hold regular Workshops and other events, and of course we also use the data for a range of interdisciplinary Scientific analysis!
+Since then, we have expanded the network to currently 19 km of fiber, organized several [*outreach*]({{ "/outreach" | relative_url }}) and [*Livestreams*]({{ "/outreach/#livestreams" | relative_url }}) of the data, including during a [*Taylor Swift Concert*]({{ "/outreach/#taylor-swift" | relative_url }}). We hold regular Workshops and other events, and of course we also use the data for a range of interdisciplinary [*scientific analysis*]({{ "/science/#results" | relative_url }})!
 
 ## Map of the DAS-fiber track
 
