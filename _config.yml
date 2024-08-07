@@ -93,7 +93,6 @@ twitch:
   username               : wave_hamburg
 instagram:
   username               : wave.hamburg
-  
 facebook:
   username               :
   app_id                 :
@@ -105,6 +104,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - "https://www.twitch.tv/wave_hamburg"
+  - "https://www.instagram.com/wave.hamburg/"
 
 # Analytics
 analytics:
@@ -116,10 +117,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "WAVE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Collaboration Website"
+  location         : "Hamburg"
   email            :
   links:
     - label: "Email"
@@ -127,47 +128,32 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://wave-hamburg.eu"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/wave_hamburg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/wave.hamburg/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/wave_hamburg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/wave.hamburg/"
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
+  - _recipes
+  - _portfolio
+  - _pets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
