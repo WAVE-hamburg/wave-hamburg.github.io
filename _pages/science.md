@@ -21,8 +21,10 @@ read_time: false
 
 ### Signals along the DAS fiber
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/summary_waterfall_small.png){: .align-left}
 *Overview of whole fiber track:* Waterfall diagram of the records of all DAS sensors along the 12.6 km long fiber. The maximum amplitude of the time series at 20 s intervals is color-coded across the spatially distributed sensors and the 16 hour recording period. The arrows mark events that are described in the listing (click for details), numbered accordingly.
 
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/XTL-spec-_smaller.png){: .align-right}
 *Signals along EuXFEL tunnel:* Spectra of all DAS channels along the accelerator tunnel XTL, during accelerator operation of EuXFEL. Already at first glance, many elements that may cause disturbance or noise can be identified by their characteristic frequencies. Some prominent elements are marked for illustration.
 
 ### Car signals
