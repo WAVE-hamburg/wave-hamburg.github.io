@@ -74,7 +74,7 @@ feature_row2:
     alt: "Dr. Holger Schlarb"
     title: "Dr. Holger Schlarb"
     excerpt: '<strong>Coordinator</strong> <br>
-      <strong>Affiliation:</strong> Deutsches Elektronen-Synchrotron (DESY)<br>
+      <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
       <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a>, <a href="https://www.desy.de/index_eng.html">desy.de</a><br>
       <strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a><br>
       <strong>Interests:</strong> Focuses on seismic and acoustic noise impacts on accelerator beam stabilization.<br>'
@@ -143,7 +143,7 @@ feature_row5:
 
 {% include feature_row id="feature_row" type="left" %}
 
-## DESY
+## Deutsches Elektronen-Synchrotron DESY
 
 {% include feature_row id="feature_row2" type="left" %}
 
