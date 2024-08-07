@@ -75,7 +75,7 @@ On the left, the evolution over time of the strain amplitudes (strain rate) reco
 Although the length of the waves exceeds that of the tunnel many times over, the spatial shaping of the wave crests and troughs can be clearly recognized as they propagate from East to West.
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mp4" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" alt="">
   <figcaption>Animation during the Earthquake from China.</figcaption>
 </figure> 
 
