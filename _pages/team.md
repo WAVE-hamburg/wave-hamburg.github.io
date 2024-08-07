@@ -60,6 +60,15 @@ feature_row:
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html">Profile</a><br>
       <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.'
 
+feature_row2:
+  - image_path: /assets/images/Team/fotor-2024050716349.png
+    alt: "Dr. Holger Schlarb"
+    title: "Dr. Holger Schlarb"
+    excerpt: '<strong>Coordinator</strong> <br>
+      <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
+      <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a>, <a href="https://www.desy.de/index_eng.html">desy.de</a><br>
+      <strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a><br>
+      <strong>Interests:</strong> Focuses on seismic and acoustic noise impacts on accelerator beam stabilization.<br>'
 
 
 feature_row3:
