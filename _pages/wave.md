@@ -1,7 +1,7 @@
 ---
 permalink: /wave/
 layout: home
-toc:true
+toc: true
 ---
 
 ## About us 
