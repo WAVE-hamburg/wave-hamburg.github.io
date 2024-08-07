@@ -25,8 +25,8 @@ description              : "WAVE - a seismic network in Hamburg"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : #"/assets/images/Smart_City.png"
-logo                     : #"/assets/images/Smart_City_round.png"
+teaser                   : "/assets/images/Smart_City.png"
+logo                     : "/assets/images/Smart_City_round.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "WAVE"
-  avatar           : "Smart_City_round.png"
+  avatar           : "/assets/images/Smart_City_round.png"
   bio              : "Collaboration Website"
   location         : "Hamburg"
   email            :
