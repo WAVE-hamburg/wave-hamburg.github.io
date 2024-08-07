@@ -120,10 +120,9 @@ feature_row3:
 
 feature_row4:
   - image_path: /assets/images/Team/christopher_wolli_round.png
-    alt: "GFZ Potsdam Logo"
-    title: "GFZ Potsdam"
-    excerpt: '<strong>Name:</strong> Dr. Christopher Wollin<br>
-      <strong>Affiliation:</strong> Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)<br>
+    alt: "Dr. Christopher Wollin"
+    title: "Dr. Christopher Wollin"
+    excerpt: '<strong>Affiliation:</strong> Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)<br>
       <strong>Website:</strong> <a href="https://www.gfz-potsdam.de/en/staff/christopher.wollin">gfz-potsdam.de</a><br>
       <strong>Publications:</strong> <a href="https://orcid.org/0000-0002-3992-787X">ORCID</a><br>
       <strong>Interests:</strong> Specializes in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
