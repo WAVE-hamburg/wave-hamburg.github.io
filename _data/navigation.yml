@@ -3,6 +3,8 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "About us"
+    url: /index/
+  - title: "WAVE"
     url: /about/
   - title: "Science"
     url: /science/
