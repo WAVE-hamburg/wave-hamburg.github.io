@@ -26,13 +26,6 @@ feature_row2:
     alt: "spectrogram"
     title: "Taylor's waves and Swiftquakes"
     excerpt: 'Results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024.'
-  - image_path: /assets/images/sciencecity.jpeg
-    alt: "placeholder image 2"
-    title: "Science City Day"
-    excerpt: 'WAVE-field, running area and a roof-top microphone was installed for visitors of the Science City Day 2024'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - title: "Outreach"
     excerpt: "Concerts and soccer games shake the campus, which we show in realtime live on Twitch."
     url: /science/
@@ -58,7 +51,7 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row" type="center" %}
+{% include feature_row id="feature_row" type="right" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
