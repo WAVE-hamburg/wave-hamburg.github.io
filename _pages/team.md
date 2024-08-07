@@ -143,12 +143,15 @@ feature_row5:
 
 ## University of Hamburg
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row" type="left" %}
 
+## DESY
+
+{% include feature_row id="feature_row2" type="left" %}
 
 ## Helmut Schmidt University
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
 
 ## GFZ Potsdam
 
@@ -156,4 +159,4 @@ feature_row5:
 
 ## European XFEL
 
-{% include feature_row id="feature_row5" type="right" %}
+{% include feature_row id="feature_row5" type="left" %}

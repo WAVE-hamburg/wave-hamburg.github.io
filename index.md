@@ -23,11 +23,8 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: assets/images/2024_taylors_waves_spectrogram_annotated.png
-    alt: "spectrogram"
-    title: "Taylor's waves and Swiftquakes"
-    excerpt: 'Results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024.'
-  - title: "Outreach"
-    excerpt: "Concerts, soccer games and visitors shake the research campus, which we show in realtime live on Twitch."
+    title: "Outreach"
+    excerpt: "Concerts, soccer games and visitors shake the research campus, which we show in realtime live on Twitch. Have a look at our results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024."
     url: /science/
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -43,7 +40,7 @@ feature_row4:
   - image_path: /assets/images/Team/group_photo.png
     title: "The WAVE Team"
     excerpt: 'We are a young collaboration of seismologists, physicists, engineers and computer scientists. '
-    url: "#test-link"
+    url: "/team/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
