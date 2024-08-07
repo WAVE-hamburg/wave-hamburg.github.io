@@ -16,7 +16,7 @@ intro:
 
 
 feature_row:
-  - image_path: ./assets/images/Logo/uni_hamburg_square.png
+  - image_path: /assets/images/Logo/celine-hadziioannou-round.png
     alt: "University of Hamburg Logo"
     title: "University of Hamburg"
     excerpt: '<strong>Coordinator:</strong> Prof. Dr. Celine Hadziioannou<br>
@@ -82,7 +82,7 @@ feature_row5:
     btn_class: "btn--primary"
 
 feature_row6:
-  - image_path: /assets/images/Logo/desy.png
+  - image_path: /assets/images/Team/fotor-2024050716349.png
     alt: "DESY Logo"
     title: "DESY"
     excerpt: '<strong>Coordinator:</strong> Dr. Holger Schlarb<br>
@@ -90,7 +90,7 @@ feature_row6:
       <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a>, <a href="https://www.desy.de/index_eng.html">desy.de</a><br>
       <strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a><br>
       <strong>Interests:</strong> Focuses on seismic and acoustic noise impacts on accelerator beam stabilization.<br>'
-    url: "#"
+    url: ""
     btn_label: "More About Holger"
     btn_class: "btn--primary"
 
@@ -100,12 +100,9 @@ feature_row7:
     title: "DESY"
     excerpt: '<strong>Name:</strong> Dr. Markus Hoffmann Vossius<br>
       <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
-    url: "#"
-    btn_label: "More About Markus"
-    btn_class: "btn--primary"
 
 feature_row8:
-  - image_path: /assets/images/Logo/logo_HSU.png
+  - image_path: /assets/images/Team/katharina_sophie_lief_round.png
     alt: "Helmut Schmidt University Logo"
     title: "Helmut Schmidt University"
     excerpt: '<strong>Coordinator:</strong> Prof. Dr. Katharina-Sophie Isleif<br>
@@ -114,7 +111,7 @@ feature_row8:
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?hl=de&user=5clbTvsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
       <strong>Interests:</strong> Engaged in modeling and mitigating Newtonian noise for the "Einstein Telescope".<br>
       <strong>Collaborations:</strong> <a href="https://alps.desy.de/">Einstein Telescope (ET), ALPS</a>'
-    url: "#"
+    url: "https://www.hsu-hh.de/mt/"
     btn_label: "More About Katharina"
     btn_class: "btn--primary"
 
@@ -128,7 +125,7 @@ feature_row9:
       <strong>Personal Website:</strong> <a href="https://reinhardtrading.com/">reinhardtrading.com</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=TTOUhhQAAAAJ&hl=en">Google Scholar</a><br>
       <strong>Interests:</strong> Develops high-precision optical sensors for various applications including the Einstein Telescope.'
-    url: "#"
+    url: "https://reinhardtrading.com/"
     btn_label: "More About Reinhardt"
     btn_class: "btn--primary"
 
@@ -141,12 +138,9 @@ feature_row10:
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">HSU Metrology Team</a><br>
       <strong>Interests:</strong> Works on fiber sensors for Newtonian noise mitigation and outreach activities.<br>
       <strong>Collaborations:</strong> <a href="https://www.et-gw.eu/">Einstein Telescope Collaboration</a>, <a href="https://www.ligo.org/">LIGO Scientific Collaboration</a>'
-    url: "#"
-    btn_label: "More About Wanda"
-    btn_class: "btn--primary"
 
 feature_row11:
-  - image_path: /assets/images/Logo/logo_GFZ.png
+  - image_path: /assets/images/Team/christopher_wolli_round.png
     alt: "GFZ Potsdam Logo"
     title: "GFZ Potsdam"
     excerpt: '<strong>Name:</strong> Dr. Christopher Wollin<br>
@@ -155,25 +149,20 @@ feature_row11:
       <strong>Publications:</strong> <a href="https://orcid.org/0000-0002-3992-787X">ORCID</a><br>
       <strong>Interests:</strong> Specializes in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
       <strong>Collaborations:</strong> <a href="https://www.gfz-potsdam.de/sektion/geophysikalische-abbildung-des-untergrunds/projekte/sense">SENSE</a>, <a href="https://www.gfz-potsdam.de/sektion/geoenergie/projekte/abgeschlossene-projekte-1/2019-2022-geopur">geoPuR</a>'
-    url: "#"
-    btn_label: "More About Christopher"
-    btn_class: "btn--primary"
 
 feature_row12:
-  - image_path: /assets/images/Logo/logo_XFEL.jpg
+  - image_path: /assets/images/Team/placeholder.png
     alt: "XFEL Logo"
     title: "XFEL"
     excerpt: '<strong>Name:</strong> Dr. Immo Bahns<br>
       <strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a><br>
       <strong>Publications:</strong> <a href="https://www.researchgate.net/profile/Immo-Bahns">Researchgate</a>, <a href="https://orcid.org/0009-0001-6341-5508">ORCID</a><br>
       <strong>Interests:</strong> Expert in nondestructive interactions of electromagnetic waves, project manager for XFELO demonstrator project.'
-    url: "#"
-    btn_label: "More About Immo"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
+## University of Hamburg
 
 {% include feature_row id="feature_row" type="left" %}
 
@@ -189,12 +178,18 @@ feature_row12:
 
 {% include feature_row id="feature_row7" type="left" %}
 
+## Helmut Schmidt University
+
 {% include feature_row id="feature_row8" type="right" %}
 
 {% include feature_row id="feature_row9" type="left" %}
 
 {% include feature_row id="feature_row10" type="right" %}
 
+## GFZ Potsdam
+
 {% include feature_row id="feature_row11" type="left" %}
+
+## European XFEL
 
 {% include feature_row id="feature_row12" type="right" %}
