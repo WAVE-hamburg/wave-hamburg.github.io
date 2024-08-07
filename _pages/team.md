@@ -19,7 +19,7 @@ feature_row:
     alt: "Prof. Dr. Celine Hadziioannou"
     title: "Prof. Dr. Celine Hadziioannou"
     excerpt: '<strong>Coordinator</strong> <br>
-      <strong>Affiliation:</strong> University of Hamburg<br>
+      <strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://celine.hadzii.com">celine.hadzii.com</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
       <strong>Interests:</strong> Prof. Dr. Celine Hadziioannou explores seismic signals recorded in the absence of earthquakes, considering these usually discarded "noise" signals as valuable sources of information.<br>
@@ -61,6 +61,38 @@ feature_row:
       <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.'
 
 
+
+feature_row3:
+  - image_path: /assets/images/Team/katharina_sophie_lief_round.png
+    alt: "Prof. Dr. Katharina-Sophie Isleif"
+    title: "Prof. Dr. Katharina-Sophie Isleif"
+    excerpt: '<strong>Coordinator</strong> <br>
+      <strong>Affiliation:</strong> Institute of Automation Technology<br>
+      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
+      <strong>Publications:</strong> <a href="https://scholar.google.com/citations?hl=de&user=5clbTvsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
+      <strong>Interests:</strong> Engaged in modeling and mitigating Newtonian noise for the "Einstein Telescope".<br>
+      <strong>Collaborations:</strong> <a href="https://alps.desy.de/">Einstein Telescope (ET), ALPS</a>'
+    url: "https://www.hsu-hh.de/mt/"
+    btn_label: "More About Katharina"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/Team/reinhardt.png
+    alt: "Reinhardt Rading"
+    title: "Reinhardt Rading"
+    excerpt: '<strong>Affiliation:</strong> Institute of Automation Technology<br>
+      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
+      <strong>Personal Website:</strong> <a href="https://reinhardtrading.com/">reinhardtrading.com</a><br>
+      <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=TTOUhhQAAAAJ&hl=en">Google Scholar</a><br>
+      <strong>Interests:</strong> Develops high-precision optical sensors for various applications including the Einstein Telescope.'
+    url: "https://reinhardtrading.com/"
+    btn_label: "More About Reinhardt"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/Team/Wanda Vossius.png
+    alt: "Wanda Vossius"
+    title: "Wanda Vossius"
+    excerpt: '<strong>Affiliation:</strong> HSU Metrology<br>
+      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">HSU Metrology Team</a><br>
+      <strong>Interests:</strong> Works on fiber sensors for Newtonian noise mitigation and outreach activities.<br>
+      <strong>Collaborations:</strong> <a href="https://www.et-gw.eu/">Einstein Telescope Collaboration</a>, <a href="https://www.ligo.org/">LIGO Scientific Collaboration</a>'
 
 feature_row4:
   - image_path: /assets/images/Team/christopher_wolli_round.png
