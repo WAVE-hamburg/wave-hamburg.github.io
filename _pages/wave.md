@@ -18,7 +18,7 @@ Map of the fiber test track in the proof of concept experiment at the Bahrenfeld
 
 Over the next years, we intend to realise a seismic and geo-acoustic measurement network in and around the Science City Hamburg Bahrenfeld. WAVE will become a unique and innovative infrastructure for geophysics and physics experiments and a core asset for the Science City and its partners.
 
-![Smithsonian Image]({{ site.url }}{{ site.baseurl }}/assets/images/WAVE_evolution_stages.png)
+![WAVE stages]({{ site.url }}{{ site.baseurl }}/assets/images/WAVE_evolution_stages.png)
 {: .image-right}
 
 One of the long-term goals is studying the optimal placement and characteristics of seismo-acoustic sensors. On the data side of things, we will establish common data transmission and processing pipelines, as well as create data sharing and usage policies. This specifically includes the handling and storing of data according to data protection laws.

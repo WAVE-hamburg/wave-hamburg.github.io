@@ -5,8 +5,13 @@ classes: wide
 toc: true
 ---
 
+Are you interested in how DAS works in more detail and would like a brief explanation? Then take a look at our Instagram channel, where we publish short videos and other content. 
 
-## Livestream Concert: Taylor Swift
+
+
+## Livestreams 
+
+### Taylor Swift
 
 With our WAVE glass fiber sensor network, we listen to vibrations underground with a thousand ears. On July 23rd and 24th 2024, Taylor Swift performed at the Volksparkstadion Hamburg, just 2 km from our experiment!
 
@@ -21,16 +26,17 @@ You've probably felt the ground shaking a bit when a big truck passes nearby? It
 
 We already knew that we should able to pick up vibrations of concerts happening in the Volksparkstadion, since we have already picked concerts e.g. by Metallica in the past. Lots and lots of fans jumping and dancing at the same time will cause the ground to "swing along" a bit.
 
-![Overview of the evolution stages of WAVE](./assets/images/20240705_WAVE_EM_Livestream.png)
+![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png)
+{: .image-right}
 
-
-## Livestream Soccer: Public hearing EM24 
+### Public hearing EM24 
 
 Can we hear the goals from the Euros below ground?
 
 With our WAVE glass fiber, we listen to vibrations underground with a thousand ears. On the 5th of July 2024, when France and Portugal met at the Volksparkstadion Hamburg for the quarter finals, just 2 km from our experiment, we livestreamed our vibration measureements during the match. When goals are scored, the celebrations cause the kind of vibrations that we can measure! We tested how sensitive our setup is and whether we can see the vibrations within the fiber.
 
-![Overview of the evolution stages of WAVE](/assets/images/20240705_WAVE_EM_Livestream.png)
+![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/20240705_WAVE_EM_Livestream.png)
+{: .image-right}
 
 What am I looking at??
 
@@ -42,9 +48,10 @@ Going further down in the image, we reach the part of the fiber that is near the
 
 The whole picture is moving towards the left: that's time passing by.
 
+
 ## WAVE Field and Science City Day
 
 On Saturday, 1st June 2024 from 11:00 - 19:00, the WAVE team was be present at the Science City Day, to show you what the measurements with our fiber-optic seismic network look like. Can you find out where our fiber is buried? Can you generate seismic waves? What if you hop around on a bouncy castle?? Come try it out on the DESY campus! More information here: https://www.sciencecityday.de/programm/wave-field-huepfburg/.
 
-![Overview of the evolution stages of WAVE](/assets/images/SCHWebHeader.jpg)
-
+![Science City Day]({{ site.url }}{{ site.baseurl }}/assets/images/SCHWebHeader.jpg)
+{: .image-right}
