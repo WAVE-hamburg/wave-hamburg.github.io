@@ -7,7 +7,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Logo/uni_hamburg_square.png" alt="UHH" width="150" height="150">
+    <img src="/assets/images/Logo/uni_hamburg_square.png" alt="UHH" width="150" height="150">
   </div>
   <div>
     <h2 style="margin-top: 0;">University of Hamburg</h2>
@@ -17,7 +17,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/celine-hadziioannou-round.png" alt="celine-hadziioannou" width="150" height="150">
+    <img src="/assets/images/Team/celine-hadziioannou-round.png" alt="celine-hadziioannou" width="150" height="150">
   </div>
   <div>
     <h3>Coordinator</h3>
@@ -34,7 +34,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/oliver_gerberding_round.png" alt="oliver-gerberding" width="150" height="150">
+    <img src="/assets/images/Team/oliver_gerberding_round.png" alt="oliver-gerberding" width="150" height="150">
   </div>
   <div>
     <h3>Coordinator</h3>
@@ -59,7 +59,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/antonia_kiel_round.png" alt="antonia-kiel" width="150" height="150">
+    <img src="/assets/images/Team/antonia_kiel_round.png" alt="antonia-kiel" width="150" height="150">
   </div>
   <div>
     <ul>
@@ -73,7 +73,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/photo_bauer_200x200.png" alt="Dr-Alexander-Bauer" width="150" height="150">
+    <img src="/assets/images/Team/photo_bauer_200x200.png" alt="Dr-Alexander-Bauer" width="150" height="150">
   </div>
   <div>
     <ul>
@@ -89,7 +89,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/Oliver Bölt.png" alt="oliver-boelt" width="150" height="150">
+    <img src="/assets/images/Team/Oliver Bölt.png" alt="oliver-boelt" width="150" height="150">
   </div>
   <div>
     <ul>
@@ -103,7 +103,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Logo/desy.png" alt="DESY" width="150" height="150">
+    <img src="/assets/images/Logo/desy.png" alt="DESY" width="150" height="150">
   </div>
   <div>
     <h2 style="margin-top: 0;">DESY</h2>
@@ -113,7 +113,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/fotor-2024050716349.png" alt="holger-schlarb" width="150" height="150">
+    <img src="/assets/images/Team/fotor-2024050716349.png" alt="holger-schlarb" width="150" height="150">
   </div>
   <div>
     <h3>Coordinator</h3>
@@ -130,7 +130,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/placeholder.png" alt="markus-hoffmann" width="150" height="150">
+    <img src="/assets/images/Team/placeholder.png" alt="markus-hoffmann" width="150" height="150">
   </div>
   <div>
     <ul>
@@ -143,7 +143,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Logo/logo_HSU.png" alt="Helmut Schmidt University" width="150" height="150">
+    <img src="/assets/images/Logo/logo_HSU.png" alt="Helmut Schmidt University" width="150" height="150">
   </div>
   <div>
     <h2 style="margin-top: 0;">Helmut Schmidt University</h2>
@@ -153,7 +153,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/katharina_sophie_lief_round.png" alt="katharina-sophie-isleif" width="150" height="150">
+    <img src="/assets/images/Team/katharina_sophie_lief_round.png" alt="katharina-sophie-isleif" width="150" height="150">
   </div>
   <div>
     <h3>Coordinator</h3>
@@ -171,7 +171,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/reinhardt.png" alt="Reinhardt Rading" width="150" height="150">
+    <img src="/assets/images/Team/reinhardt.png" alt="Reinhardt Rading" width="150" height="150">
   </div>
   <div>
     <ul>
@@ -189,7 +189,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Team/Wanda Vossius.png" alt="wanda-vossius" width="150" height="150">
+    <img src="/assets/images/Team/Wanda Vossius.png" alt="wanda-vossius" width="150" height="150">
   </div>
   <div>
     <ul>
@@ -210,7 +210,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Logo/logo_GFZ.png" alt="GFZ Potsdam" width="150" height="150">
+    <img src="/assets/images/Logo/logo_GFZ.png" alt="GFZ Potsdam" width="150" height="150">
   </div>
   <div>
     <h2 style="margin-top: 0;">GFZ Potsdam</h2>
@@ -220,7 +220,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-        <img src="./assets/images/Team/christopher_wolli_round.png" alt="christopher-wollin" width="150" height="150">
+        <img src="/assets/images/Team/christopher_wolli_round.png" alt="christopher-wollin" width="150" height="150">
   </div>
   <div>
     <ul>
@@ -242,7 +242,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Logo/logo_XFEL.jpg" alt="XFEL" width="150" height="150">
+    <img src="/assets/images/Logo/logo_XFEL.jpg" alt="XFEL" width="150" height="150">
   </div>
   <div>
     <h2 style="margin-top: 0;">XFEL</h2>
@@ -252,7 +252,7 @@ classes: wide
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-            <img src="./assets/images/Team/placeholder.png" alt="immo-bahns" width="150" height="150">
+            <img src="/assets/images/Team/placeholder.png" alt="immo-bahns" width="150" height="150">
   </div>
   <div>
     <ul>
