@@ -2,7 +2,7 @@
 main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "About us"
+  - title: "Home"
     url: /index/
   - title: "WAVE"
     url: /about/
