@@ -24,7 +24,7 @@ We already knew that we should able to pick up vibrations of concerts happening 
 ![Overview of the evolution stages of WAVE](./assets/images/20240705_WAVE_EM_Livestream.png)
 
 
-## Livestream Soccer: Public ``''hearing``'' EM24 
+## Livestream Soccer: Public hearing EM24 
 
 Can we hear the goals from the Euros below ground?
 
