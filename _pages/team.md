@@ -67,73 +67,8 @@ feature_row:
     btn_label: "More About Oliver"
     btn_class: "btn--primary"
 
-feature_row2:
-  - image_path: /assets/images/Team/fotor-2024050716349.png
-    alt: "Dr. Holger Schlarb"
-    title: "Dr. Holger Schlarb"
-    excerpt: '<strong>Coordinator</strong> <br>
-      <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
-      <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a>, <a href="https://www.desy.de/index_eng.html">desy.de</a><br>
-      <strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a><br>
-      <strong>Interests:</strong> Focuses on seismic and acoustic noise impacts on accelerator beam stabilization.<br>'
-    url: ""
-    btn_label: "More About Holger"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/Team/placeholder.png
-    alt: "Dr. Markus Hoffmann"
-    title: "Dr. Markus Hoffmann"
-    excerpt: ' <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>'
-
-feature_row3:
-  - image_path: /assets/images/Team/katharina_sophie_lief_round.png
-    alt: "Prof. Dr. Katharina-Sophie Isleif"
-    title: "Prof. Dr. Katharina-Sophie Isleif"
-    excerpt: '<strong>Coordinator</strong> <br>
-      <strong>Affiliation:</strong> Institute of Automation Technology<br>
-      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
-      <strong>Publications:</strong> <a href="https://scholar.google.com/citations?hl=de&user=5clbTvsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
-      <strong>Interests:</strong> Engaged in modeling and mitigating Newtonian noise for the "Einstein Telescope".<br>
-      <strong>Collaborations:</strong> <a href="https://alps.desy.de/">Einstein Telescope (ET), ALPS</a>'
-    url: "https://www.hsu-hh.de/mt/"
-    btn_label: "More About Katharina"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/Team/reinhardt.png
-    alt: "Reinhardt Rading"
-    title: "Reinhardt Rading"
-    excerpt: '<strong>Affiliation:</strong> Institute of Automation Technology<br>
-      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
-      <strong>Personal Website:</strong> <a href="https://reinhardtrading.com/">reinhardtrading.com</a><br>
-      <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=TTOUhhQAAAAJ&hl=en">Google Scholar</a><br>
-      <strong>Interests:</strong> Develops high-precision optical sensors for various applications including the Einstein Telescope.'
-    url: "https://reinhardtrading.com/"
-    btn_label: "More About Reinhardt"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/Team/Wanda Vossius.png
-    alt: "Wanda Vossius"
-    title: "Wanda Vossius"
-    excerpt: '<strong>Affiliation:</strong> HSU Metrology<br>
-      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">HSU Metrology Team</a><br>
-      <strong>Interests:</strong> Works on fiber sensors for Newtonian noise mitigation and outreach activities.<br>
-      <strong>Collaborations:</strong> <a href="https://www.et-gw.eu/">Einstein Telescope Collaboration</a>, <a href="https://www.ligo.org/">LIGO Scientific Collaboration</a>'
-
-feature_row4:
-  - image_path: /assets/images/Team/christopher_wolli_round.png
-    alt: "Dr. Christopher Wollin"
-    title: "Dr. Christopher Wollin"
-    excerpt: '<strong>Affiliation:</strong> Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)<br>
-      <strong>Website:</strong> <a href="https://www.gfz-potsdam.de/en/staff/christopher.wollin">gfz-potsdam.de</a><br>
-      <strong>Publications:</strong> <a href="https://orcid.org/0000-0002-3992-787X">ORCID</a><br>
-      <strong>Interests:</strong> Specializes in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
-      <strong>Collaborations:</strong> <a href="https://www.gfz-potsdam.de/sektion/geophysikalische-abbildung-des-untergrunds/projekte/sense">SENSE</a>, <a href="https://www.gfz-potsdam.de/sektion/geoenergie/projekte/abgeschlossene-projekte-1/2019-2022-geopur">geoPuR</a>'
-
-feature_row5:
-  - image_path: /assets/images/Team/placeholder.png
-    alt: "placeholder.png"
-    title: "Dr. Immo Bahns"
-    excerpt: '<strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a><br>
-      <strong>Publications:</strong> <a href="https://www.researchgate.net/profile/Immo-Bahns">Researchgate</a>, <a href="https://orcid.org/0009-0001-6341-5508">ORCID</a><br>
-      <strong>Interests:</strong> Expert in nondestructive interactions of electromagnetic waves, project manager for XFELO demonstrator project.'
 ---
+
 
 {% include feature_row id="intro" type="center" %}
 
@@ -141,18 +76,4 @@ feature_row5:
 
 {% include feature_row id="feature_row" type="left" %}
 
-## Deutsches Elektronen-Synchrotron DESY
 
-{% include feature_row id="feature_row2" type="left" %}
-
-## Helmut Schmidt University
-
-{% include feature_row id="feature_row3" type="left" %}
-
-## GFZ Potsdam
-
-{% include feature_row id="feature_row4" type="left" %}
-
-## European XFEL
-
-{% include feature_row id="feature_row5" type="left" %}
