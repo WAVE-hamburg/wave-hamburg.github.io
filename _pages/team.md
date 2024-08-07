@@ -74,7 +74,7 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-| University of Hamburg   |    DESY        |  Helmut Schmidt University | GFZ Potsdam | EuXFEL |
+|  |            |   |  |  |
 |----------|:-------------:|------:|-------------:|------:|
 | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)|  ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png) |![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg)|
 
