@@ -3,6 +3,7 @@ permalink: /about/
 title: What is WAVE?
 layout: home
 classes: wide
+toc:true
 ---
 
 
