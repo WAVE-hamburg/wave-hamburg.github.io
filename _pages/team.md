@@ -12,7 +12,7 @@ header:
       url: "mailto:celine.hadziioannou@uni-hamburg.de"
 excerpt: "Our team combines expertise from various fields, including geophysics, seismology, physics, and engineering, to push the boundaries of seismic and geo-acoustic research."
 intro: 
-  - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
+  - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and European XFEL, working together on seismic and geophysical research.'
 
 feature_row_institutions:
   - image_path: /assets/images/Logo/uni_hamburg_square.png
