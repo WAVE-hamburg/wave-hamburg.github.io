@@ -149,3 +149,18 @@ Major scientific advances are foreseen in seismology and geophysical modelling, 
 
 The internationally unique infrastructure and science network will establish best practices for vibration cancellation in large-scale and precision physics experiments, bringing new frontiers of precision measurements into reach, while simultaneously providing insight into the evolution of the Science City at and beneath its surface.
 
+## Workshops
+
+### First WAVE workshop.
+The first WAVE workshop took place as a hybrid event on Friday the 13th of May 2022, from 9:00 to 14:30.
+
+In the workshop we have:
+
+* Presented the results of the demonstration experiment/campaign
+* Learned about the use of machine learning for the seismic network (Talk by Prof. Conny Hammer, UHH)
+* Discussed the future steps in designing and realising the network
+* Exchanged information about ongoing research and activities related to the seismic network
+* The workshop schedule is detailed [here <i class="fa fa-external-link" aria-hidden="true"></i>](https://indico.desy.de/event/34125/timetable/#20220513). If you would like to have a look at the workshop material, please [contact us <i class="fa fa-envelope" aria-hidden="true"></i>](mailto:celine.hadziioannou@uni-hamburg.de).
+
+### Second WAVE workshop.
+WAVE day: on July 13, 2023 at DESY we had an in-person WAVE meeting, focused on presentations of recent results and discussions about research projects. The workshop schedule is detailed [here <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.conferences.uni-hamburg.de/event/380/timetable/#20230713).
