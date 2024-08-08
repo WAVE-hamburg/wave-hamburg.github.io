@@ -167,7 +167,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
-    <p style="margin: 0; font-size: 18pt;"><strong>Prof. Dr. Celine Hadziioannou</strong> (Coordinator)</p>
+    <p style="margin: 0; font-size: 18pt;">Prof. Dr. Celine Hadziioannou (Coordinator)</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology, <a href="https://celine.hadzii.com">Website </a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
