@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
-excerpt: "WAVE is a seismic and geo-acoustic sensor network at the Campus Hamburg Bahrenfeld that transforms 19 km of unused telecommunication fibers into 19,000 seismic sensors using distributed acoustic sensing (DAS), expanding research possibilities in geophysics and physics while engaging the community through events and live data streams."
+excerpt: "WAVE is a seismic sensor network at the Campus Hamburg Bahrenfeld that transforms 19 km of unused telecommunication fibers into 19,000 seismic sensors using distributed acoustic sensing (DAS), expanding research possibilities in geophysics and physics while engaging the community through events and live data streams."
 toc: true
 toc_label: "Page content"
 toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
