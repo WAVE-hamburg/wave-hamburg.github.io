@@ -151,28 +151,28 @@ feature_row5:
 
 ## Institutions
 
-| [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)](#uhh) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)](#deutsches-elektronen-synchrotron-desy) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png)](#helmut-schmidt-university) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png)](#gfz-potsdam) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg)](#european-xfel) |
+| [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)](#uhh) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)](#desy) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png)](#hsu) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png)](#gfz) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg)](#xfel) |
 |:---:|:---:|:---:|:---:|:---:|
 | **University of Hamburg** | **DESY** |**Helmut Schmidt University** | **GFZ Potsdam** |  **European XFEL** |
 
 
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png" alt="logo" height="1cm"/> University of Hamburg {#uhh}
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square_H15mm.png" alt="logo" height="0.5cm"/> University of Hamburg {#uhh}
 
 {% include feature_row id="feature_row" type="left"%}
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png" alt="logo" height="1cm"/> Deutsches Elektronen-Synchrotron DESY
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy_H15mm.png" alt="logo" height="0.5cm"/> Deutsches Elektronen-Synchrotron DESY {#desy}
 
 {% include feature_row id="feature_row2" type="left" %}
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png" alt="logo" height="1cm"/> Helmut Schmidt University
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU_H15mm.png" alt="logo" height="0.5cm"/> Helmut Schmidt University {#hsu}
 
 {% include feature_row id="feature_row3" type="left" %}
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png" alt="logo" height="1cm"/> GFZ Potsdam
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ_H15mm.png" alt="logo" height="0.5cm"/> GFZ Potsdam {#gfz}
 
 {% include feature_row id="feature_row4" type="left" %}
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg" alt="logo" height="1cm"/> European XFEL
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL_H15mm.jpg" alt="logo" height="0.5cm"/> European XFEL {#xfel}
 
 {% include feature_row id="feature_row5" type="left" %}
