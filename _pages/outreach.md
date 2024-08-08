@@ -52,9 +52,7 @@ categories:
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
 
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" width="1cm">
-If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
-
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" width="1cm"> If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
 ### Taylor Swift
