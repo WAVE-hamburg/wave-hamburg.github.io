@@ -6,6 +6,7 @@ tags:
   - livestream
   - taylorswift
   - outreach
+  - geoplot
 header:
   teaser: /assets/images/youtube_PETRAbeats.png
 ---

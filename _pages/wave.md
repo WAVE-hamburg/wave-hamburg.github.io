@@ -16,7 +16,8 @@ toc_sticky: true
 read_time: false
 ---
 
-
+The [WAVE initiative <i class="fa fa-external-link" aria-hidden="true"></i>
+](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities.
 
 In a first step, the WAVE concept has already been tested under realistic conditions to demonstrate the feasibility and possibilities of such a network on site. To this end, the initiative carried out a proof-of-concept experiment on the DESY/UHH campus in Bahrenfeld in May 2021, using, among other things, a 12.6 km long, existing and continuous strand of currently unused telecommunications fiber as a series of seismic sensors. The wave field was recorded at high resolution, with 1 m intervals along the entire length of the fiber. In the following, we summarize the development of this measurement campaign, and present a selection of initial observations. 
 
@@ -34,10 +35,35 @@ In the northeast, the fiber runs through the 'Max von Laue' experimental hall an
 
 <iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/ckzrg6q3r00pe14l9dhyemxx7.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#10/53.5732/9.9245" title="WAVE-Hamburg" style="border:none;"></iframe>
 
+## Georeferencing: Where is the fiber?
+
+Our approach involves using existing dark telecommunication fibers on campus, rather than laying new ones. This means we are working with unknown fiber paths and simply connecting the ends to form a continuous loop. The challenge lies in determining the exact geographical positions of these fibers, as their routes are not pre-determined or mapped. Additionally, some fibers may be coiled or have unexpected paths, adding to the complexity.
+
+To address this, we use a method that involves striking the ground with a hammer to create vibrations. These vibrations are detected by our system, which works in combination with a GPS positioning system. By exciting the ground at specific GPS locations and times, we can identify these events in the data and pinpoint where the fibers are located. 
+
+<figure class="half">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iDAS.jpg" alt="DAS Interrogator">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/georeferencing.jpg" alt="Fiber Georeferencing">
+  <figcaption>DAS interrogator and fiber georeferencing.</figcaption>
+</figure>
+
+With this technique, we can produce the detailed [geoplots <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/#geoplots) featured in our outreach materials and [blog <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/). The following animation shows a geoplot, where seismic waves from an Earthquake in China propagating along the EuXFEL tunnel. 
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" alt="">
+  <figcaption>Animation during the Earthquake from China.</figcaption>
+</figure> 
+
+On the right, a typical representation for DAS data (waterfall diagram) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment.
+On the left, the evolution over time of the strain amplitudes (strain rate) recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel.
+
+More scientific results and experiments with the WAVE network are [here]({{ site.url }}{{ site.baseurl }}/science/#results). 
 
 ## Other seismic sensors
 
 In addition to seismic sensors, we also have other seismic sensors on campus from the various institutions whose data we can access. These include broadband seismometers with high sensitivity, even over long measurement periods, and geophones, which are more capable of measuring signals in the high-frequency range.  
+
+
 
 ## Where is WAVE headed?
 
