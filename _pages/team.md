@@ -15,7 +15,7 @@ intro:
   - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and European XFEL, working together on seismic and geophysical research.'
     
 feature_row:
-  - image_path: /assets/images/Team/celine-hadziioannou-round.png
+  - image_path: /assets/images/Team/celine-hadziioannou-round_2mm.png
     alt: "Prof. Dr. Celine Hadziioannou"
     title: "Prof. Dr. Celine Hadziioannou"
     excerpt: '<strong>Coordinator</strong> <br>
@@ -27,7 +27,7 @@ feature_row:
     url: https://celine.hadzii.com
     btn_label: "More About Celine"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Team/oliver_gerberding_round.png
+  - image_path: /assets/images/Team/oliver_gerberding_round_2mm.png
     alt: "Prof. Dr. Oliver Gerberding"
     title: "Prof. Dr. Oliver Gerberding"
     excerpt: '<strong>Coordinator</strong> <br>
@@ -39,13 +39,13 @@ feature_row:
     url: "https://www.physik.uni-hamburg.de/iexp/gwd"
     btn_label: "More About Oliver"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Team/antonia_kiel_round.png
+  - image_path: /assets/images/Team/antonia_kiel_round_2mm.png
     alt: "Antonia Kiel"
     title: "Antonia Kiel"
     excerpt: ' <strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Interests:</strong> Works in seismology and machine learning, focusing on shallow groundwater monitoring using seismic noise.<br>
       <strong>Collaborations:</strong> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a>'
-  - image_path: /assets/images/Team/photo_bauer_200x200.png
+  - image_path: /assets/images/Team/photo_bauer_2mm.png
     alt: "Dr. Alexander Bauer"
     title: "Dr. Alexander Bauer"
     excerpt: '<strong>Affiliation:</strong> Institute of Geophysics<br>
@@ -56,7 +56,7 @@ feature_row:
     url: "https://www.researchgate.net/profile/Alexander-Bauer-3"
     btn_label: "More About Alexander on Researchgate"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Team/Oliver Bölt.png
+  - image_path: /assets/images/Team/Oliver Bölt_2mm.png
     alt: "Oliver Bölt"
     title: "Oliver Bölt"
     excerpt: '<strong>Affiliation:</strong> Institute of Geophysics<br>
@@ -67,7 +67,7 @@ feature_row:
     
     
 feature_row2:
-  - image_path: /assets/images/Team/fotor-2024050716349.png
+  - image_path: /assets/images/Team/fotor-2024050716349_2mm.png
     alt: "Dr. Holger Schlarb"
     title: "Dr. Holger Schlarb"
     excerpt: '<strong>Coordinator</strong><br>
@@ -83,7 +83,7 @@ feature_row2:
 
 
 feature_row3:
-  - image_path: /assets/images/Team/katharina_sophie_lief_round.png
+  - image_path: /assets/images/Team/katharina_sophie_lief_round_2mm.png
     alt: "Prof. Dr. Katharina-Sophie Isleif"
     title: "Prof. Dr. Katharina-Sophie Isleif"
     excerpt: '<strong>Coordinator</strong> <br>
@@ -95,7 +95,7 @@ feature_row3:
     url: "https://www.hsu-hh.de/mt/"
     btn_label: "More About Katharina"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Team/reinhardt.png
+  - image_path: /assets/images/Team/reinhardt_2mm.png
     alt: "Reinhardt Rading"
     title: "Reinhardt Rading"
     excerpt: '<strong>PhD student</strong> <br>
@@ -107,7 +107,7 @@ feature_row3:
     url: "https://reinhardtrading.com/"
     btn_label: "More About Reinhardt"
     btn_class: "btn--primary"
-  - image_path: /assets/images/Team/Wanda Vossius.png
+  - image_path: /assets/images/Team/Wanda Vossius_2mm.png
     alt: "Wanda Vossius"
     title: "Wanda Vossius"
     excerpt: '<strong>PhD student</strong> <br>
@@ -125,7 +125,7 @@ feature_row3:
       <strong>Collaborations:<a href="https://www.et-gw.eu/">Einstein Telescope</a>'
 
 feature_row4:
-  - image_path: /assets/images/Team/christopher_wolli_round.png
+  - image_path: /assets/images/Team/christopher_wolli_round_2mm.png
     alt: "Dr. Christopher Wollin"
     title: "Dr. Christopher Wollin"
     excerpt: '<strong>Affiliation:</strong> <a href="https://www.gfz-potsdam.de/en/staff/christopher.wollin">Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)</a><br>
