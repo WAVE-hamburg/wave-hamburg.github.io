@@ -57,7 +57,7 @@ categories:
 
 
 
-## What am I looking at??
+### What am I looking at??
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/20240705_WAVE_EM_Livestream.png)
 {: .image-right}
@@ -99,7 +99,7 @@ With our WAVE glass fiber, we listen to vibrations underground with a thousand e
 {: .image-right}
 
 
-[What am I looking at??](#what-am-i-looking-at??){: .btn .btn--info}
+[What am I looking at??](#what-am-i-looking-at){: .btn .btn--info}
 
 
 
