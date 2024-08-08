@@ -40,6 +40,9 @@ feature_row:
     url: "/team/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+related: true
+tags:
+  - outreach
 ---
 
 {% include feature_row id="intro" type="center" %}
