@@ -8,8 +8,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
   actions:
-    - label: "WAVE Project"
-      url: "#projects"
+    - label: "Contact us"
+      url: "mailto:celine.hadziioannou@uni-hamburg.de"
 excerpt: "Our team combines expertise from various fields, including geophysics, seismology, physics, and engineering, to push the boundaries of seismic and geo-acoustic research."
 intro: 
   - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
@@ -164,7 +164,7 @@ feature_row5:
 
 
 
-### ![Logo]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png){height=1cm} University of Hamburg 
+### <img src="/assets/images/Logo/uni_hamburg_square.png" alt="drawing" width="10%"/> University of Hamburg 
 
 {% include feature_row id="feature_row" type="left"%}
 
