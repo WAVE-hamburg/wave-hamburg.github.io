@@ -54,7 +54,7 @@ With this technique, we can produce the detailed [geoplots <i class="fa fa-file-
   <figcaption>Animation during the Earthquake from China.</figcaption>
 </figure> 
 
-On the right, a typical representation for DAS data (waterfall diagram) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment.
+On the right, a typical representation for DAS data ([waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#waterfall-what-am-i-looking-at)) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment.
 On the left, the evolution over time of the strain amplitudes (strain rate) recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel.
 
 More scientific results and experiments with the WAVE network are [here]({{ site.url }}{{ site.baseurl }}/science/#results). 
@@ -62,8 +62,6 @@ More scientific results and experiments with the WAVE network are [here]({{ site
 ## Other seismic sensors
 
 In addition to seismic sensors, we also have other seismic sensors on campus from the various institutions whose data we can access. These include broadband seismometers with high sensitivity, even over long measurement periods, and geophones, which are more capable of measuring signals in the high-frequency range.  
-
-
 
 ## Where is WAVE headed?
 
