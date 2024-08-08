@@ -42,7 +42,8 @@ tags:
 </html>
 
 
-![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
+![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here <i class="fa fa-twitch" aria-hidden="true"></i>
+](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
 
@@ -95,7 +96,8 @@ We already knew that we should able to pick up vibrations of concerts happening 
 #### Spectrogram
 
 From the waterfall plot, shown on the left in the Livestream, we calculated a 
-[**spectrogram**]({{ site.url }}{{ site.baseurl }}/results/TaylorSwiftResults1/) of the Taylor Swift concert, with some songs annotated. 
+[**spectrogram <i class="fa fa-file-text" aria-hidden="true"></i>
+**]({{ site.url }}{{ site.baseurl }}/results/TaylorSwiftResults1/) of the Taylor Swift concert, with some songs annotated. 
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/2024_taylors_waves_spectrogram_annotated.png)
 
@@ -103,7 +105,8 @@ The brighter yellow colors indicate stronger vibrations. The 'ladder structures'
 
 #### PETRA's heartbeats
 
-On the right in the Livestream we showed for the first time DAS data on a map along the PETRA ring. With this visualisation, we are able to show [**PETRA's heartbeat during the Taylor Swift concert in Hamburg live!**]({{ site.url }}{{ site.baseurl }}/media/TaylorSwiftHeartbeats/).
+On the right in the Livestream we showed for the first time DAS data on a map along the PETRA ring. With this visualisation, we are able to show [**PETRA's heartbeat during the Taylor Swift concert in Hamburg live! <i class="fa fa-file-text" aria-hidden="true"></i>
+**]({{ site.url }}{{ site.baseurl }}/media/TaylorSwiftHeartbeats/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/norXqxITPoc?si=xr4ncOx6BKgFqiPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -113,13 +116,13 @@ This is what we measured during the entire concert with a ring of optical fiber 
 #### *Shake it Off* - along the EuXFEL
 
 We animated the seismic signals also along the full fiber track, including the EuXFEL which goes 3.4 km until Schenefeld.
-You see that the [seismic waves from Love Story and Shake it Off](/media/TaylorSwiftWaveinEuXFEL/) reached all the way through the 3.4km long EuXFEL tunnel! These two songs were chosen for the animation as they produced one of the strongest signals in the DAS system.
+You see that the [seismic waves from Love Story and Shake it Off <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/media/TaylorSwiftWaveinEuXFEL/) reached all the way through the 3.4km long EuXFEL tunnel! These two songs were chosen for the animation as they produced one of the strongest signals in the DAS system.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jO0U1UXkDII?si=ijcdmTCG8y7NT-PG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
-For more results of the Taylor Swift concert and some explanations, check also our [posts]({{ site.url }}{{ site.baseurl }}/posts/#taylorswift)!
+For more results of the Taylor Swift concert and some explanations, check also our [blog <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/#taylorswift)!
 
 
 ### Public hearing EM24 
