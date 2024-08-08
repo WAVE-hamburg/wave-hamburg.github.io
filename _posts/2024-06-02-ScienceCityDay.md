@@ -24,7 +24,7 @@ We decided to unroll about 400 m of fiber that we already had on a spool and lay
  This setup protected the fiber from being tripped over or damaged while allowing us to create a game: "Find the Fiber" beneath the WAVE-Field.
 The fiber was then laid from the parking lot into one of the adjacent buildings, routed over roofs and through bushes, and connected to the measuring device, the DAS interrogator. 
 
-![Photo]({{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_DAS.jpeg)
+![Photo]({{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_DAS.jpg)
 
 In the photo, you can see a spool with the remaining 1,600 meters of fiber next to Katharina, who is working to get the software and live stream running with minimal latency.
 
