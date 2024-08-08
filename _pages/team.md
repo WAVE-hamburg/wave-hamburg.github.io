@@ -15,8 +15,22 @@ intro:
   - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
 
 feature_row_institutions:
-
-
+  - image_path: /assets/images/Logo/uni_hamburg_square.png
+    alt: "University of Hamburg"
+    title: "University of Hamburg"
+  - image_path: /assets/images/Logo/desy.png
+    alt: "University of Hamburg"
+    title: "University of Hamburg"
+  - image_path: /assets/images/Logo/logo_HSU.png
+    alt: "University of Hamburg"
+    title: "University of Hamburg"
+  - image_path: /assets/images/Logo/logo_GFZ.png
+    alt: "University of Hamburg"
+    title: "University of Hamburg"
+  - image_path: /assets/images/Logo/logo_XFEL.jpg
+    alt: "University of Hamburg"
+    title: "University of Hamburg"
+    
 feature_row:
   - image_path: /assets/images/Team/celine-hadziioannou-round.png
     alt: "Prof. Dr. Celine Hadziioannou"
