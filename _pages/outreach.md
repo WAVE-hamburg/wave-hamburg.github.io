@@ -31,8 +31,7 @@ categories:
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
     <script type="text/javascript">
       new Twitch.Embed("twitch-embed", {
-        width: 600,
-        height: 365,
+        width: 100%,
         channel: "wave_hamburg",
         // Only needed if this page is going to be embedded on other websites
         parent: ["embed.example.com", "othersite.example.com"]
@@ -53,9 +52,7 @@ categories:
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
 
-<figure class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" width="1cm">
-</figure> 
 If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
