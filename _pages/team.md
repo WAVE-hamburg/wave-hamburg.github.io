@@ -15,18 +15,7 @@ intro:
   - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and European XFEL, working together on seismic and geophysical research.'
     
 feature_row:
-  - image_path: /assets/images/Team/celine-hadziioannou-round.png
-    alt: "Prof. Dr. Celine Hadziioannou"
-    title: "Prof. Dr. Celine Hadziioannou"
-    excerpt: '<strong>Coordinator</strong> <br>
-      <strong>Affiliation:</strong> Institute of Geophysics<br>
-      <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a><br>
-      <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
-      <strong>Interests:</strong> Prof. Dr. Celine Hadziioannou explores seismic signals recorded in the absence of earthquakes, considering these usually discarded "noise" signals as valuable sources of information.<br>
-      <strong>Collaborations:</strong> <a href="https://spin-itn.eu/">SPIN</a>'
-    url: https://celine.hadzii.com
-    btn_label: "More About Celine"
-    btn_class: "btn--primary"
+
   - image_path: /assets/images/Team/oliver_gerberding_round.png
     alt: "Prof. Dr. Oliver Gerberding"
     title: "Prof. Dr. Oliver Gerberding"
@@ -196,6 +185,7 @@ feature_row5:
 </div>
 
 
+
 ### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square_H15mm.png" alt="logo" height="0.5cm"/> University of Hamburg {#uhh}
 
 
@@ -207,10 +197,10 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
-    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Prof. Dr. Celine Hadziioannou</p>
-    <p style="margin: 0;"><strong>Coordinator</strong> <br>
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Prof. Dr. Celine Hadziioannou (Coordinator)</p>
+    <p style="margin: 0;"> <br>
       <strong>Affiliation:</strong> Institute of Geophysics<br>
-      <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a><br>
+      <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology, <a href="https://celine.hadzii.com">Website </a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
       <strong>Interests:</strong> Prof. Dr. Celine Hadziioannou explores seismic signals recorded in the absence of earthquakes, considering these usually discarded "noise" signals as valuable sources of information.<br>
       <strong>Collaborations:</strong> <a href="https://spin-itn.eu/">SPIN</a></p>
