@@ -1,4 +1,5 @@
 ---
+layout: tags
 title: "Blog"
 collection: posts
 permalink: /posts/
