@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
-excerpt: "WAVE is a seismic and geo-acoustic sensor network at the Campus Hamburg Bahrenfeld that transforms 19 km of unused telecommunication fibers into 19,000 seismic sensors using distributed acoustic sensing (DAS), expanding research possibilities in geophysics and physics while engaging the community through [events and live data streams]({{ "/outreach" | relative_url }})."
+excerpt: "WAVE is a seismic and geo-acoustic sensor network at the Campus Hamburg Bahrenfeld that transforms 19 km of unused telecommunication fibers into 19,000 seismic sensors using distributed acoustic sensing (DAS), expanding research possibilities in geophysics and physics while engaging the community through events and live data streams."
 toc: true
 toc_label: "Page content"
 toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
@@ -32,7 +32,7 @@ In the northeast, the fiber runs through the 'Max von Laue' experimental hall an
 
 <iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/ckzrg6q3r00pe14l9dhyemxx7.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#10/53.5732/9.9245" title="WAVE-Hamburg" style="border:none;"></iframe>
 
-## Georeferencing: Where is the fiber?
+## Georeferencing: Find the fiber?
 
 Our approach involves using existing dark telecommunication fibers on campus, rather than laying new ones. This means we are working with unknown fiber paths and simply connecting the ends to form a continuous loop. The challenge lies in determining the exact geographical positions of these fibers, as their routes are not pre-determined or mapped. Additionally, some fibers may be coiled or have unexpected paths, adding to the complexity.
 
