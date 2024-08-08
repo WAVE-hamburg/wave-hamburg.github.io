@@ -17,7 +17,6 @@ header:
       url: "https://www.instagram.com/wave.hamburg/"
     - label: "<i class="fab fa-twitch" aria-hidden="true"></i>"
       url: "https://www.twitch.tv/wave_hamburg"
-
  # caption: "Photo credit: "
 excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities."
 intro: 
