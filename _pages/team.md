@@ -158,13 +158,13 @@ feature_row5:
 
 ## Institutions
 
-| ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)(/team/#university-of-hamburg) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg) |
+| [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)](/team/#university-of-hamburg) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)](/team/#deutsches-elektronen-synchrotron-desy) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png)](/team/#helmut-schmidt-university) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png)](/team/#gfz-potsdam) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg)](/team/#european-xfel) |
 |:---:|:---:|:---:|:---:|:---:|
 | **University of Hamburg** | **DESY** |**Helmut Schmidt University** | **GFZ Potsdam** |  **European XFEL** |
 
 
 
-### University of Hamburg ![Logo]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)
+### ![Logo]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png) University of Hamburg 
 
 {% include feature_row id="feature_row" type="left"%}
 
