@@ -8,15 +8,17 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
-  actions:
-    - label: "Read more"
-      url: /wave/
-    - label: "Recent acitivites"
-      url: /posts/
-    - label: "Follow us on Instagram"
-      url: "https://www.instagram.com/wave.hamburg/"
-    - label: "Follow us on Twitch"
-      url: "https://www.twitch.tv/wave_hamburg"
+  - url: /wave/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - label: "Read more"
+    url: /wave/
+  - label: "Recent acitivites"
+    url: /posts/
+  - label: "Follow us on Instagram"
+    url: "https://www.instagram.com/wave.hamburg/"
+  - label: "Follow us on Twitch"
+    url: "https://www.twitch.tv/wave_hamburg"
  # caption: "Photo credit: "
 excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities."
 intro: 
