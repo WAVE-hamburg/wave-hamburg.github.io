@@ -51,3 +51,13 @@ One of the long-term goals is studying the optimal placement and characteristics
 Major scientific advances are foreseen in seismology and geophysical modelling, urban systems research, real-time machine learning, and, prominently, low-latency predictions for active disturbance reduction. WAVE will also foster the development and integration of novel sensors, such as quantum-based inertial sensors, to continuously increase its capabilities.
 
 The internationally unique infrastructure and science network will establish best practices for vibration cancellation in large-scale and precision physics experiments, bringing new frontiers of precision measurements into reach, while simultaneously providing insight into the evolution of the Science City at and beneath its surface.
+
+## Contact
+
+Have we peaked your interest? Would you like to contribute? If you wish to contribute, or get an impression of what we work on, please contact: Prof. Celine Hadziioannou.
+
+## Acknowledgements
+
+The use of the interrogator from the company OptaSense was sponsored by the former Dean of the MIN Faculty, Prof. Dr. Heinrich Graener. We thank Dr. Martin Karrenbach from OptaSense for on-site advice and service.
+We would also like to thank the company Baudynamik and Dr.-Ing. Michael Mistler for the additional excitation with the vibrotruck on campus.
+We are very appreciative of the IT group at DESY, in particular Tobias Ladwig, for their support in establishing the fiber connection. We thank the Physnet data center for providing the servers, computing capacity, and data storage, as well as for advice on the architecture for data analysis. We further thank the European XFEL operations team for their support with georeferencing and access to the accelerator.
