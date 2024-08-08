@@ -167,7 +167,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Beschreibung" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.2; font-size: inherit; font-family: inherit;">
+  <div style="line-height: 1.2; font-family: 'Merriweather', Georgia, 'Times New Roman', serif; font-size: inherit;">
     <p style="margin: 0;">Punkt 1</p>
     <p style="margin: 0;">Punkt 2</p>
     <p style="margin: 0;">Punkt 3</p>
