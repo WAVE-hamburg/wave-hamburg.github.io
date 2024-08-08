@@ -167,11 +167,12 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
-    <p style="margin: 0; font-size: 18pt;">Prof. Dr. Celine Hadziioannou (Coordinator)</p>
-    <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Prof. Dr. Oliver Gerberding</p>
+    <p style="margin: 0;"><strong>Coordinator</strong> <br>
+      <strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology, <a href="https://celine.hadzii.com">Website </a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
-      <strong>Interests:</strong> Prof. Dr. Celine Hadziioannou explores seismic signals recorded in the absence of earthquakes, considering these usually discarded "noise" signals as valuable sources of information.<br>
+      <strong>Interests:</strong> Celine explores seismic signals recorded in the absence of earthquakes, considering these usually discarded "noise" signals as valuable sources of information.<br>
       <strong>Collaborations:</strong> <a href="https://spin-itn.eu/">SPIN</a></p>
   </div>
 
@@ -186,10 +187,10 @@ feature_row5:
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0; font-size: 18pt; font-weight: bold;">Prof. Dr. Oliver Gerberding</p>
     <p style="margin: 0;"><strong>Coordinator</strong> <br>
-      <strong>Affiliation:</strong> Institut für Experimentalphysik<br>
+      <strong>Affiliation:</strong> Institut for experimental physics<br>
       <strong>Website:</strong> <a href="https://www.physik.uni-hamburg.de/iexp/gwd">Gravitational wave detection</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=-h2HvqcAAAAJ&hl=de">Google Scholar</a>, <a href="https://orcid.org/0000-0001-7740-2698">ORCID</a><br>
-      <strong>Interests:</strong> Focuses on reducing noise in gravitational wave detectors and developing space-based detector technology.<br>
+      <strong>Interests:</strong> Oliver focuses on reducing noise in gravitational wave detectors and developing space-based detector technology.<br>
       <strong>Collaborations:</strong> <a href="https://www.ligo.org/">LIGO-Virgo-Kagra</a>, <a href="https://www.et-gw.eu/">Einstein Telescope</a>, <a href="https://www.lisamission.org/">LISA</a></p>
   </div>
 
@@ -204,7 +205,7 @@ feature_row5:
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0; font-size: 18pt; font-weight: bold;">Antonia Kiel</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
-      <strong>Interests:</strong> Works in seismology and machine learning, focusing on shallow groundwater monitoring using seismic noise.<br>
+      <strong>Interests:</strong> Antonia works in seismology and machine learning, focusing on shallow groundwater monitoring using seismic noise.<br>
       <strong>Collaborations:</strong> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a></p>
   </div>
 
@@ -221,7 +222,7 @@ feature_row5:
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.researchgate.net/profile/Alexander-Bauer-3">Researchgate</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?user=yxmye-sAAAAJ">Google Scholar</a><br>
-      <strong>Interests:</strong> Specializes in seismic data characterization and machine learning for wavefield separation.<br>
+      <strong>Interests:</strong> Alexander specializes in seismic data characterization and machine learning for wavefield separation.<br>
       <strong>Collaborations:</strong> ErUM-WAVE</p>
   </div>
 
@@ -236,7 +237,7 @@ feature_row5:
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0; font-size: 18pt; font-weight: bold;">Oliver Bölt</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
-      <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.</p>
+      <strong>Interests:</strong> Oliver is a doctoral researcher applying machine learning to seismic data for signal detection and classification.</p>
   </div>
 
 </div>
@@ -258,7 +259,7 @@ feature_row5:
       <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a><br>
       <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a><br>
       <strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a><br>
-      <strong>Interests:</strong> Focuses on seismic and acoustic noise impacts on accelerator beam stabilization.</p>
+      <strong>Interests:</strong> Holger focuses on seismic and acoustic noise impacts on accelerator beam stabilization.</p>
   </div>
 
 </div>
@@ -292,7 +293,7 @@ feature_row5:
       <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?hl=de&user=5clbTvsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br>
-      <strong>Interests:</strong> Engaged in modeling and mitigating Newtonian noise for the "Einstein Telescope".<br>
+      <strong>Interests:</strong> Katharina is engaged in modeling and mitigating Newtonian noise for the <a href="https://www.et-gw.eu/">Einstein Telescope</a> by applying DAS or self-made sensors in her lab.<br>
       <strong>Collaborations:</strong> <a href="https://www.ligo.org/">LIGO-Virgo-Kagra</a>, <a href="https://www.et-gw.eu/">Einstein Telescope</a>, <a href="https://www.lisamission.org/">LISA</a></p>
   </div>
 
@@ -310,7 +311,7 @@ feature_row5:
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=TTOUhhQAAAAJ&hl=en">Google Scholar</a><br>
-      <strong>Interests:</strong> Develops high-precision optical sensors for various applications including the Einstein Telescope.<br>
+      <strong>Interests:</strong> Reinhardt develops high-precision optical sensors for various applications including the <a href="https://www.et-gw.eu/">Einstein Telescope</a>.<br>
       <strong>Collaborations:</strong> <a href="https://www.ligo.org/">LIGO-Virgo-Kagra</a>, <a href="https://www.et-gw.eu/">Einstein Telescope</a></p>
   </div>
 
@@ -327,7 +328,7 @@ feature_row5:
     <p style="margin: 0;"><strong>PhD student</strong> <br>
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
-      <strong>Interests:</strong> Works on fiber sensors for Newtonian noise mitigation and outreach activities.<br>
+      <strong>Interests:</strong> Wanda works on fiber sensors for Newtonian noise mitigation and outreach activities.<br>
       <strong>Collaborations:</strong> <a href="https://www.ligo.org/">LIGO-Virgo-Kagra</a>, <a href="https://www.et-gw.eu/">Einstein Telescope</a></p>
   </div>
 
@@ -344,7 +345,7 @@ feature_row5:
     <p style="margin: 0;"><strong>Student assistant, RWTH Aachen</strong> <br>
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
-      <strong>Interests:</strong> Works on simulations for Newtonian noise mitigation, WAVE data analysis, and outreach activities.<br>
+      <strong>Interests:</strong> Spiridon works on simulations for Newtonian noise mitigation, WAVE data analysis, and outreach activities.<br>
       <strong>Collaborations:</strong> <a href="https://www.et-gw.eu/">Einstein Telescope</a></p>
   </div>
 
@@ -364,7 +365,7 @@ feature_row5:
     <p style="margin: 0; font-size: 18pt; font-weight: bold;">Dr. Christopher Wollin</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> <a href="https://www.gfz-potsdam.de/en/staff/christopher.wollin">Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)</a><br>
       <strong>Publications:</strong> <a href="https://orcid.org/0000-0002-3992-787X">ORCID</a><br>
-      <strong>Interests:</strong> Specializes in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
+      <strong>Interests:</strong> Christopher is specialized in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
       <strong>Collaborations:</strong> <a href="https://www.gfz-potsdam.de/sektion/geophysikalische-abbildung-des-untergrunds/projekte/sense">SENSE</a>, <a href="https://www.gfz-potsdam.de/sektion/geoenergie/projekte/abgeschlossene-projekte-1/2019-2022-geopur">geoPuR</a></p>
   </div>
 
@@ -385,7 +386,7 @@ feature_row5:
     <p style="margin: 0; font-size: 18pt; font-weight: bold;">Dr. Immo Bahns</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a><br>
       <strong>Publications:</strong> <a href="https://www.researchgate.net/profile/Immo-Bahns">Researchgate</a>, <a href="https://orcid.org/0009-0001-6341-5508">ORCID</a><br>
-      <strong>Interests:</strong> Expert in nondestructive interactions of electromagnetic waves, project manager for XFELO demonstrator project.</p>
+      <strong>Interests:</strong> Immo is an expert in nondestructive interactions of electromagnetic waves, project manager for XFELO demonstrator project.</p>
   </div>
 
 </div>
