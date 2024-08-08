@@ -45,8 +45,11 @@ tags:
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
-{% capture notice-2 %}
+
+
 ### Upcoming livestreams
+{% capture notice-2 %}
+
 * 10.08.2024 Soccer match at Volksparkstadion (2 km away from campus), start 20:30 CEST
 * 30.08.2024 Deichkind on the Trabrennbahn (100m away from campus)
 * 04.09.2024 Justin Timberlake in the Barclays arena (2 km away from campus)
