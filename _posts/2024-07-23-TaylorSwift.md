@@ -3,7 +3,6 @@ title: "Livestream of Taylor Swift making WAVEs"
 categories:
   - outreach
 tags:
-  - swiftquakes
   - livestream
   - taylorswift
 last_modified_at: 2024-07-23T23:25:52-05:00

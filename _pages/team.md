@@ -70,7 +70,7 @@ feature_row2:
   - image_path: /assets/images/Team/fotor-2024050716349.png
     alt: "Dr. Holger Schlarb"
     title: "Dr. Holger Schlarb"
-    excerpt: '<strong>Coordinator</strong> <br>
+    excerpt: '<strong>Coordinator</strong><br>
       <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a><br>
       <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a><br>
       <strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a><br>

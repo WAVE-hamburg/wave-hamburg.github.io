@@ -3,7 +3,6 @@ title: "Taylor's waves in EuXFEL tunnel"
 categories:
   - outreach
 tags:
-  - swiftquakes
   - livestream
   - taylorswift
   - youtube
