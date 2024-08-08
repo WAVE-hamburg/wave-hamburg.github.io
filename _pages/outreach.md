@@ -26,6 +26,8 @@ categories:
 * 13.09.2024 Scorpions Barclays arena (2 km away from campus)
 {% endcapture %}
 
+<div class="notice">{{ notice-2 | markdownify }}</div>
+
 ## Livestreams 
 
 <html>
