@@ -167,11 +167,11 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Beschreibung" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <ul>
-    <li>Punkt 1</li>
-    <li>Punkt 2</li>
-    <li>Punkt 3</li>
-  </ul>
+  <div style="line-height: 1.2;">
+    <p style="margin: 0;">Punkt 1</p>
+    <p style="margin: 0;">Punkt 2</p>
+    <p style="margin: 0;">Punkt 3</p>
+  </div>
 
 </div>
 
