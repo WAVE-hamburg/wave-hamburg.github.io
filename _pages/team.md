@@ -159,7 +159,7 @@ feature_row5:
 
 ### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square_H15mm.png" alt="logo" height="0.5cm"/> University of Hamburg {#uhh}
 
-{% include feature_row id="feature_row"%}
+{% include feature_row id="feature_row" type="left"%}
 
 ### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy_H15mm.png" alt="logo" height="0.5cm"/> Deutsches Elektronen-Synchrotron DESY {#desy}
 
