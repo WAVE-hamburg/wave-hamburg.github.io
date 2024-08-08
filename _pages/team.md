@@ -151,41 +151,49 @@ feature_row5:
 
 ## Institutions
 
-
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; margin-bottom: 20px;">
 
   <!-- University of Hamburg -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png" alt="University of Hamburg" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">University of Hamburg</p>
+    <a href="#uhh">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png" alt="University of Hamburg" style="width: 80px; height: 80px; margin-bottom: 10px;">
+    </a>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 13pt; text-align: center; margin: 0;">University of Hamburg</p>
   </div>
 
   <!-- DESY -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png" alt="DESY" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">DESY</p>
+    <a href="#desy">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png" alt="DESY" style="width: 80px; height: 80px; margin-bottom: 10px;">
+    </a>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 13pt; text-align: center; margin: 0;">DESY</p>
   </div>
 
   <!-- Helmut Schmidt University -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png" alt="Helmut Schmidt University" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">Helmut Schmidt University</p>
+    <a href="#hsu">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png" alt="Helmut Schmidt University" style="width: 80px; height: 80px; margin-bottom: 10px;">
+    </a>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 13pt; text-align: center; margin: 0;">Helmut Schmidt University</p>
   </div>
 
   <!-- GFZ Potsdam -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png" alt="GFZ Potsdam" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">GFZ Potsdam</p>
+    <a href="#gfz">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png" alt="GFZ Potsdam" style="width: 80px; height: 80px; margin-bottom: 10px;">
+    </a>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 13pt; text-align: center; margin: 0;">GFZ Potsdam</p>
   </div>
 
   <!-- European XFEL -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg" alt="European XFEL" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">European XFEL</p>
+    <a href="#xfel">
+      <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg" alt="European XFEL" style="width: 80px; height: 80px; margin-bottom: 10px;">
+    </a>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 13pt; text-align: center; margin: 0;">European XFEL</p>
   </div>
 
 </div>
-
 
 
 
@@ -198,8 +206,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
-    <p style="margin: 0; font-size: 16pt; font-weight: bold;">Prof. Dr. Celine Hadziioannou</p>
-    <p style="margin: 0;"><strong>Coordinator</strong> <br>
+    <p style="margin: 0; font-size: 16pt;"> <strong>Prof. Dr. Celine Hadziioannou</strong> (Coordinator) </p>
       <strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
