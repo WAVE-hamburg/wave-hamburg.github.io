@@ -14,10 +14,10 @@ header:
     - label: "Recent acitivites"
       url: /posts/
     - url: "https://www.instagram.com/wave.hamburg/"
-      btn_label: "Follow us"
+      btn_label: "Instagram"
       btn_class: "btn--instagram"
     - url: "https://www.twitch.tv/wave_hamburg"
-      btn_label: "Follow us"
+      btn_label: "Twitch"
       btn_class: "btn--twitch"
  # caption: "Photo credit: "
 excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities."
@@ -39,7 +39,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/Team/group_photo.png
     title: "The WAVE Team"
-    excerpt: 'We are a young collaboration of seismologists, physicists, engineers and computer scientists. '
+    excerpt: 'We are a young collaboration of seismologists, physicists, engineers and computer scientists. Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
     url: "/team/"
     btn_label: "Read More"
     btn_class: "btn--primary"

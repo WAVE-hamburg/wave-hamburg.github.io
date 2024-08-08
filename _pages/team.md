@@ -14,6 +14,9 @@ excerpt: "Our team combines expertise from various fields, including geophysics,
 intro: 
   - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
 
+feature_row_institutions:
+
+
 feature_row:
   - image_path: /assets/images/Team/celine-hadziioannou-round.png
     alt: "Prof. Dr. Celine Hadziioannou"
@@ -139,10 +142,13 @@ feature_row5:
 
 {% include feature_row id="intro" type="center" %}
 
+{% include feature_row id="feature_row_institutions" %}
+
+
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)
 ## University of Hamburg
 
-{% include feature_row id="feature_row" type="left" %}
+{% include feature_row id="feature_row"%}
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)
 ## Deutsches Elektronen-Synchrotron DESY
