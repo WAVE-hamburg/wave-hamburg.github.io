@@ -9,12 +9,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
   actions:
-    - label: "Read more"
+    - label: "Learn more"
       url: /wave/
     - label: "Recent acitivites"
       url: /posts/
-    - label: "Follow us on Instagram"
-      url: "https://www.instagram.com/wave.hamburg/"
     - url: "https://www.instagram.com/wave.hamburg/"
       btn_label: "Follow us"
       btn_class: "btn--instagram"
