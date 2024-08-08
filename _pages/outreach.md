@@ -95,7 +95,7 @@ We already knew that we should able to pick up vibrations of concerts happening 
 #### Spectrogram
 
 From the waterfall plot, shown on the left in the Livestream, we calculated a 
-[**spectrogram**](/results/TaylorSwiftResults1/) of the Taylor Swift concert, with some songs annotated. 
+[**spectrogram**]({{ site.url }}{{ site.baseurl }}/results/TaylorSwiftResults1/) of the Taylor Swift concert, with some songs annotated. 
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/2024_taylors_waves_spectrogram_annotated.png)
 
