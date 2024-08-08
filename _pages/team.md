@@ -159,24 +159,6 @@ feature_row5:
 
 ### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square_H15mm.png" alt="logo" height="0.5cm"/> University of Hamburg {#uhh}
 
-
-
-<div style="display: flex; align-items: center;">
-
-  <!-- Rundes Bild -->
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Beschreibung" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
-
-  <!-- Aufzählungstext -->
-  <div style="line-height: 1.2; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 13pt;">
-    <p style="margin: 0;">Punkt 1</p>
-    <p style="margin: 0;">Punkt 2</p>
-    <p style="margin: 0;">Punkt 3</p>
-  </div>
-
-</div>
-
-
-
 {% include feature_row id="feature_row" type="left"%}
 
 ### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy_H15mm.png" alt="logo" height="0.5cm"/> Deutsches Elektronen-Synchrotron DESY {#desy}
