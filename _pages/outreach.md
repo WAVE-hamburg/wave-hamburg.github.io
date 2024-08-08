@@ -11,7 +11,7 @@ header:
 excerpt: "We are streaming WAVE data live. Follow us on Twitch."
 toc: true
 toc_label: "Page content"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 toc_sticky: true
 read_time: false
 tags:
@@ -42,8 +42,7 @@ tags:
 </html>
 
 
-![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here <i class="fa fa-twitch" aria-hidden="true"></i>
-](https://m.twitch.tv/wave_hamburg) or scan the QR code.
+![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
 
@@ -96,8 +95,7 @@ We already knew that we should able to pick up vibrations of concerts happening 
 #### Spectrogram
 
 From the waterfall plot, shown on the left in the Livestream, we calculated a 
-[**spectrogram <i class="fa fa-file-text" aria-hidden="true"></i>
-**]({{ site.url }}{{ site.baseurl }}/results/TaylorSwiftResults1/) of the Taylor Swift concert, with some songs annotated. 
+[spectrogram <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/results/TaylorSwiftResults1/) of the Taylor Swift concert, with some songs annotated. 
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/2024_taylors_waves_spectrogram_annotated.png)
 
@@ -105,8 +103,7 @@ The brighter yellow colors indicate stronger vibrations. The 'ladder structures'
 
 #### PETRA's heartbeats
 
-On the right in the Livestream we showed for the first time DAS data on a map along the PETRA ring. With this visualisation, we are able to show [**PETRA's heartbeat during the Taylor Swift concert in Hamburg live! <i class="fa fa-file-text" aria-hidden="true"></i>
-**]({{ site.url }}{{ site.baseurl }}/media/TaylorSwiftHeartbeats/).
+On the right in the Livestream we showed for the first time DAS data on a map along the PETRA ring. With this visualisation, we are able to show [PETRA's heartbeat during the Taylor Swift concert in Hamburg live! <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/media/TaylorSwiftHeartbeats/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/norXqxITPoc?si=xr4ncOx6BKgFqiPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -8,7 +8,7 @@ header:
 excerpt: "We're working on exciting research projects that help us create interesting theses and publications. We're committed to exploring new ideas and making progress in our research."
 toc: true
 toc_label: "Page content"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
 toc_sticky: true
 read_time: false
 ---
