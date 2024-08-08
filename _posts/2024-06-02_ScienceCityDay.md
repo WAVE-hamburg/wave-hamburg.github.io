@@ -1,5 +1,5 @@
 ---
-title: "Science City Day: Exploring the WAVE Network"
+title: "Science City Day - Exploring the WAVE Network"
 categories:
   - sciencecityday
 tags:
