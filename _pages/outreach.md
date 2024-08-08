@@ -51,7 +51,6 @@ categories:
   </body>
 </html>
 
- <iframe src="https://player.twitch.tv/?channel=wave_hamburg&parent=wave-hamburg.eu" frameborder="0" allowfullscreen="true" scrolling="no" height="365" width="600"></iframe>
 
 <figure class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" height="1cm">
