@@ -93,7 +93,7 @@ On the left, the evolution over time of the strain amplitudes (strain rate) reco
 ### Vibrotruck sweeps
 
 
-Vibrotruck of the company Baudynamik Heiland & Mistler GmbH exciting the frequency sweep seen on the right. 
+Vibrotruck of the company Baudynamik Heiland & Mistler GmbH exciting the frequency sweep. 
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/vibrotruck.jpg" alt="">
