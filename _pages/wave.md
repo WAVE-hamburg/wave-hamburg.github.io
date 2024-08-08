@@ -5,10 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
-  actions:
-  - label: "Instagram"
-    url: https://www.instagram.com/wave.hamburg/
-excerpt: "Are you interested in how DAS works in more detail and would like a brief explanation? Then take a look at our Instagram channel, where we publish short videos and other content. "
+excerpt: "WAVE is a seismic and geo-acoustic sensor network at the Campus Hamburg Bahrenfeld that transforms 19 km of unused telecommunication fibers into 19,000 seismic sensors using distributed acoustic sensing (DAS), expanding research possibilities in geophysics and physics while engaging the community through [events and live data streams]({{ "/outreach" | relative_url }})."
 toc: true
 toc_label: "Page content"
 toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
