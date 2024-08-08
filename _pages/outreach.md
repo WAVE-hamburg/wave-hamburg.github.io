@@ -53,8 +53,22 @@ categories:
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
 
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" width="1cm"> If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" width="2cm"> If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
+
+
+## What am I looking at??
+
+![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/20240705_WAVE_EM_Livestream.png)
+{: .image-right}
+
+Along our 16 km of glass fiber, we measure how much it vibrates, or 'wiggles', about every 10 meters. Each horizontal line in the image shows you how much that particular section of glass fiber is wiggling. Red means that there are strong vibrations, blue shows the bits where it's quieter.
+
+Starting from the top, you see how much vibrations are currently felt in DESY's PETRA tunnel. Since that tunnel is a few meters underground, there are not a lot of vibrations from car traffic, wind and such. So it's pretty blue. The same is true for the vibrations in the XFEL tunnel - also pretty 'quiet', and blue.
+
+Going further down in the image, we reach the part of the fiber that is near the surface, and roads, on the DESY/Bahrenfeld campus. The car traffic, trees swaying in the wind, and general urban activity all generate vibrations, so those sections of the glass fiber are wiggling more - and show up red!
+
+The whole picture is moving towards the left: that's time passing by.
 
 
 ### Taylor Swift
@@ -84,20 +98,16 @@ With our WAVE glass fiber, we listen to vibrations underground with a thousand e
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/20240705_WAVE_EM_Livestream.png)
 {: .image-right}
 
-What am I looking at??
 
-Along our 16 km of glass fiber, we measure how much it vibrates, or 'wiggles', about every 10 meters. Each horizontal line in the image shows you how much that particular section of glass fiber is wiggling. Red means that there are strong vibrations, blue shows the bits where it's quieter.
+[What am I looking at??](#what-am-i-looking-at??){: .btn .btn--success}]
 
-Starting from the top, you see how much vibrations are currently felt in DESY's PETRA tunnel. Since that tunnel is a few meters underground, there are not a lot of vibrations from car traffic, wind and such. So it's pretty blue. The same is true for the vibrations in the XFEL tunnel - also pretty 'quiet', and blue.
 
-Going further down in the image, we reach the part of the fiber that is near the surface, and roads, on the DESY/Bahrenfeld campus. The car traffic, trees swaying in the wind, and general urban activity all generate vibrations, so those sections of the glass fiber are wiggling more - and show up red!
 
-The whole picture is moving towards the left: that's time passing by.
 
 
 ## WAVE Field and Science City Day
 
-On Saturday, 1st June 2024 from 11:00 - 19:00, the WAVE team was be present at the Science City Day, to show you what the measurements with our fiber-optic seismic network look like. Can you find out where our fiber is buried? Can you generate seismic waves? What if you hop around on a bouncy castle?? Come try it out on the DESY campus! More information here: https://www.sciencecityday.de/programm/wave-field-huepfburg/.
+On Saturday, 1st June 2024 from 11:00 - 19:00, the WAVE team was be present at the Science City Day, to show you what the measurements with our fiber-optic seismic network look like. Can you find out where our fiber is buried? Can you generate seismic waves? What if you hop around on a bouncy castle?? Come try it out on the DESY campus! More information [here]( https://www.sciencecityday.de/programm/wave-field-huepfburg/).
 
 ![Science City Day]({{ site.url }}{{ site.baseurl }}/assets/images/SCHWebHeader.jpg)
 {: .image-right}
