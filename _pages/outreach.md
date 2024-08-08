@@ -27,6 +27,14 @@ categories:
 
 ## Livestreams 
 
+
+<figure class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="">
+</figure> 
+If you cannot see the embedded video, try going here: https://m.twitch.tv/wave_hamburg or scan the QR code.
+
+
+
 ### Taylor Swift
 
 With our WAVE glass fiber sensor network, we listen to vibrations underground with a thousand ears. On July 23rd and 24th 2024, Taylor Swift performed at the Volksparkstadion Hamburg, just 2 km from our experiment!
