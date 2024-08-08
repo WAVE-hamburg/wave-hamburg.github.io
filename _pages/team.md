@@ -115,7 +115,8 @@ feature_row3:
   - image_path: /assets/images/Team/reinhardt.png
     alt: "Reinhardt Rading"
     title: "Reinhardt Rading"
-    excerpt: '<strong>Affiliation:</strong> Institute of Automation Technology<br>
+    excerpt: '<strong>PhD student</strong> <br>
+    <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=TTOUhhQAAAAJ&hl=en">Google Scholar</a><br>
       <strong>Interests:</strong> Develops high-precision optical sensors for various applications including the Einstein Telescope.
@@ -126,10 +127,19 @@ feature_row3:
   - image_path: /assets/images/Team/Wanda Vossius.png
     alt: "Wanda Vossius"
     title: "Wanda Vossius"
-    excerpt: '<strong>Affiliation:</strong> Institute of Automation Technology<br>
+    excerpt: '<strong>PhD student</strong> <br>
+    <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
       <strong>Interests:</strong> Works on fiber sensors for Newtonian noise mitigation and outreach activities.<br>
       <strong>Collaborations:</strong> <a href="https://www.ligo.org/">LIGO-Virgo-Kagra</a>, <a href="https://www.et-gw.eu/">Einstein Telescope</a>'
+  - image_path: /assets/images/Team/placeholder.png
+    alt: "Spiridon Beis"
+    title: "Spiridon Beis"
+    excerpt: '<strong>Student assistant</strong> <br>
+    <strong>Affiliation:</strong> Institute of Automation Technology<br>
+      <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
+      <strong>Interests:</strong> Works on simulations for Newtonian noise mitigation, WAVE data analysis and outreach activities.<br>
+      <strong>Collaborations:<a href="https://www.et-gw.eu/">Einstein Telescope</a>'
 
 feature_row4:
   - image_path: /assets/images/Team/christopher_wolli_round.png
