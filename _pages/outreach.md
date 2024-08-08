@@ -52,8 +52,8 @@ tags:
 
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" width="1cm"> If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
+![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png)
+{: .image-left} If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
 
@@ -70,8 +70,11 @@ Starting from the top, you see how much vibrations are currently felt in DESY's 
 
 Going further down in the image, we reach the part of the fiber that is near the surface, and roads, on the DESY/Bahrenfeld campus. The car traffic, trees swaying in the wind, and general urban activity all generate vibrations, so those sections of the glass fiber are wiggling more - and show up red!
 
-The whole picture is moving towards the left: that's time passing by.
+The whole picture is moving towards the left: that's time passing by. In a newer version of the live stream, we established a **waterfall diagram**, where time and location axes are swapped. In these plots the time is running from the top to the bottom. 
 
+**These are tiny vibrations!** You would not feel them, our measurement device is really sensitive.
+
+You've probably felt the ground vibrating when a big truck passes nearby? It's the same effect, just much weaker, and coming from lots of trucks and cars and swaying trees and other things happening at the surface at the same time.
 
 ### Taylor Swift
 
@@ -90,8 +93,6 @@ We already knew that we should able to pick up vibrations of concerts happening 
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png)
 {: .image-right}
-
-From the data that was live streamed, we got the following results.
 
 #### Spectrogram
 
@@ -131,11 +132,11 @@ With our WAVE fiber-optic network, we listen to underground vibrations with a th
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/20240705_WAVE_EM_Livestream.png)
 {: .image-right}
 
+**What happened when a goal was scored?**
 
-[What am I looking at??](#what-am-i-looking-at){: .btn .btn--info}
+Before this football match, we already knew that we should able to pick up vibrations of concerts happening in the Volksparkstadion, since we have already picked up a concert by Metallica in the past. Lots and lots of fans jumping and dancing at the same time will cause the ground to vibrate a bit.
 
-
-
+We expected that the fans in the stadion will celebrate and jump around when a goal is scored. Indeed, we were able to pick up the football fans getting excited and jumping around during the penalty shooting. We will upload some images here soon!
 
 
 ## WAVE Field and Science City Day
