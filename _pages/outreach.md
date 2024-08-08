@@ -30,7 +30,7 @@ categories:
 
 
 <figure class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" height="40%">
 </figure> 
 If you cannot see the embedded video, try going here: https://m.twitch.tv/wave_hamburg or scan the QR code.
 
