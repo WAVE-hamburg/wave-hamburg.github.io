@@ -142,7 +142,6 @@ We expected that the fans in the stadion will celebrate and jump around when a g
 On Saturday, June 1, 2024, from 11:00 AM to 7:00 PM, the WAVE team participated in Science City Day at the DESY campus. Visitors explored the fascinating world of our fiber-optic seismic network, discovering where the fiber was buried and learning how it works. Attendees had the chance to generate their own seismic waves and find out what happens when you jump around on a bouncy castle. It was a day filled with hands-on fun and learning! 
 
 
-
 For more details about the event, click [here <i class="fa fa-external-link" aria-hidden="true"></i>]( https://www.sciencecityday.de/programm/wave-field-huepfburg/).
 
 ![Science City Day]({{ site.url }}{{ site.baseurl }}/assets/images/SCHWebHeader.jpg)
