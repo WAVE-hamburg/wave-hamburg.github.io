@@ -163,8 +163,8 @@ feature_row5:
 | **University of Hamburg** | **DESY** |**Helmut Schmidt University** | **GFZ Potsdam** |  **European XFEL** |
 
 
-![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)
-### University of Hamburg
+
+### University of Hamburg ![Logo]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)
 
 {% include feature_row id="feature_row" type="left"%}
 
