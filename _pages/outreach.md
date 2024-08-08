@@ -53,16 +53,18 @@ tags:
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
 
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" width="2cm"> If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR.png" alt="qrcode" width="1cm"> If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
 
 ### What am I looking at??
 
+Along our 16 km of glass fiber, we measure how much it vibrates, or 'wiggles', about every 10 meters. Each horizontal line in the image shows you how much that particular section of glass fiber is wiggling. Red means that there are strong vibrations, blue shows the bits where it's quieter.
+
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/20240705_WAVE_EM_Livestream.png)
 {: .image-right}
 
-Along our 16 km of glass fiber, we measure how much it vibrates, or 'wiggles', about every 10 meters. Each horizontal line in the image shows you how much that particular section of glass fiber is wiggling. Red means that there are strong vibrations, blue shows the bits where it's quieter.
+
 
 Starting from the top, you see how much vibrations are currently felt in DESY's PETRA tunnel. Since that tunnel is a few meters underground, there are not a lot of vibrations from car traffic, wind and such. So it's pretty blue. The same is true for the vibrations in the XFEL tunnel - also pretty 'quiet', and blue.
 
