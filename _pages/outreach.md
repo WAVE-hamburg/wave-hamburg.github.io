@@ -93,7 +93,7 @@ We already knew that we should able to pick up vibrations of concerts happening 
 
 From the data that was live streamed, we got the following results.
 
-#### First results
+#### Spectrogram
 
 From the waterfall plot, shown on the left in the Livestream, we calculated a 
 [**spectrogram**](/results/TaylorSwiftResults1/) of the Taylor Swift concert, with some songs annotated. 
@@ -102,14 +102,16 @@ From the waterfall plot, shown on the left in the Livestream, we calculated a
 
 The brighter yellow colors indicate stronger vibrations. The 'ladder structures' shift up and down with the beats per second of the song -- this is probably a result of the fans jumping to the beat, and with that, they generate specific frequencies.
 
+#### PETRA's heartbeats
 
 On the right in the Livestream we showed for the first time DAS data on a map along the PETRA ring. With this visualisation, we are able to show [**PETRA's heartbeat during the Taylor Swift concert in Hamburg live!**]({{ site.url }}{{ site.baseurl }}/media/TaylorSwiftHeartbeats/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jO0U1UXkDII?si=ijcdmTCG8y7NT-PG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/norXqxITPoc?si=xr4ncOx6BKgFqiPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The ‘rainbow blobs’ show the strength of the arriving signals along the fiber but filtered for different frequency bands. So the wider a specific colour band is, the stronger are the waves vibrating in that range. They also help understand from what direction the signal is coming and help us observe along what path the waves are traveling.
 This is what we measured during the entire concert with a ring of optical fiber around the PETRA III accelerator ring of DESY, sped up 100 times. 
 
+#### *Shake it Off* - along the EuXFEL
 
 We animated the seismic signals also along the full fiber track, including the EuXFEL which goes 3.4 km until Schenefeld.
 You see that the [seismic waves from Love Story and Shake it Off](/media/TaylorSwiftWaveinEuXFEL/) reached all the way through the 3.4km long EuXFEL tunnel! These two songs were chosen for the animation as they produced one of the strongest signals in the DAS system.
@@ -123,9 +125,8 @@ For more results of the Taylor Swift concert and some explanations, check also o
 
 ### Public hearing EM24 
 
-Can we hear the goals from the Euros below ground?
-
-With our WAVE glass fiber, we listen to vibrations underground with a thousand ears. On the 5th of July 2024, when France and Portugal met at the Volksparkstadion Hamburg for the quarter finals, just 2 km from our experiment, we livestreamed our vibration measureements during the match. When goals are scored, the celebrations cause the kind of vibrations that we can measure! We tested how sensitive our setup is and whether we can see the vibrations within the fiber.
+Can We Hear the Goals from the Euros Underground?
+With our WAVE fiber-optic network, we listen to underground vibrations with a thousand ears. On July 5th, 2024, during the quarter-finals between France and Portugal at the Volksparkstadion Hamburg—just 2 km from our experiment—we livestreamed our vibration measurements throughout the match. When goals were scored, the celebrations created vibrations that we could detect! This was an exciting opportunity to test the sensitivity of our setup and see if we could capture these vibrations within the fiber network.
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/20240705_WAVE_EM_Livestream.png)
 {: .image-right}
