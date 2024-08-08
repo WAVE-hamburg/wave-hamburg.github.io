@@ -13,23 +13,6 @@ header:
 excerpt: "Our team combines expertise from various fields, including geophysics, seismology, physics, and engineering, to push the boundaries of seismic and geo-acoustic research."
 intro: 
   - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and European XFEL, working together on seismic and geophysical research.'
-
-feature_row_institutions:
-  - image_path: /assets/images/Logo/uni_hamburg_square.png
-    alt: "University of Hamburg"
-    title: "University of Hamburg"
-  - image_path: /assets/images/Logo/desy.png
-    alt: "University of Hamburg"
-    title: "University of Hamburg"
-  - image_path: /assets/images/Logo/logo_HSU.png
-    alt: "University of Hamburg"
-    title: "University of Hamburg"
-  - image_path: /assets/images/Logo/logo_GFZ.png
-    alt: "University of Hamburg"
-    title: "University of Hamburg"
-  - image_path: /assets/images/Logo/logo_XFEL.jpg
-    alt: "University of Hamburg"
-    title: "University of Hamburg"
     
 feature_row:
   - image_path: /assets/images/Team/celine-hadziioannou-round.png
@@ -168,7 +151,7 @@ feature_row5:
 
 ## Institutions
 
-| [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)](#university-of-hamburg) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)](#deutsches-elektronen-synchrotron-desy) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png)](#helmut-schmidt-university) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png)](#gfz-potsdam) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg)](#european-xfel) |
+| [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)]({{ site.url }}{{ site.baseurl }}#university-of-hamburg) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)](#deutsches-elektronen-synchrotron-desy) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png)](#helmut-schmidt-university) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png)](#gfz-potsdam) | [![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg)](#european-xfel) |
 |:---:|:---:|:---:|:---:|:---:|
 | **University of Hamburg** | **DESY** |**Helmut Schmidt University** | **GFZ Potsdam** |  **European XFEL** |
 
