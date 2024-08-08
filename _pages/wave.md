@@ -32,7 +32,7 @@ In the northeast, the fiber runs through the 'Max von Laue' experimental hall an
 
 <iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/hadzii/ckzrg6q3r00pe14l9dhyemxx7.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#10/53.5732/9.9245" title="WAVE-Hamburg" style="border:none;"></iframe>
 
-## Georeferencing: Find the fiber?
+## Georeferencing: Find the fiber!
 
 Our approach involves using existing dark telecommunication fibers on campus, rather than laying new ones. This means we are working with unknown fiber paths and simply connecting the ends to form a continuous loop. The challenge lies in determining the exact geographical positions of these fibers, as their routes are not pre-determined or mapped. Additionally, some fibers may be coiled or have unexpected paths, adding to the complexity.
 
@@ -53,6 +53,14 @@ With this technique, we can produce the detailed [geoplots <i class="fa fa-file-
 
 On the right, a typical representation for DAS data ([waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#waterfall-what-am-i-looking-at)) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment.
 On the left, the evolution over time of the strain amplitudes (strain rate) recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel.
+
+During the [Science City Day]({{ site.url }}{{ site.baseurl }}/outreach/#wave-field-and-science-city-day) at Campus Bahrenfeld, we actually offered the game "Find the Fiber." We set up a playground with a few hundred meters of fiber hidden beneath rubber mats. Visitors had to locate the fiber by walking or jumping on the checkerboard pattern of mats. At that time in June 2024, we didn't have a geoplot available for this playground, so visitors learned how to read a [waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#waterfall-what-am-i-looking-at) instead.
+
+<figure class="half">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field.jpeg" alt="DAS Interrogator">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_screen.png" alt="Fiber Georeferencing">
+  <figcaption>Photo from the WAVE-field an a live view of the waterfall diagram.</figcaption>
+</figure>
 
 More scientific results and experiments with the WAVE network are [here]({{ site.url }}{{ site.baseurl }}/science/#results). 
 
