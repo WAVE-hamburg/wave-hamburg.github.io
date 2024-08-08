@@ -156,31 +156,34 @@ feature_row5:
 
 {% include feature_row id="intro" type="center" %}
 
-| ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg) |
-| --- |--- |--- |--- |--- |
-|University of Hamburg | DESY |Helmut Schmidt University | GFZ Potsdam|  European XFEL |
+## Institutions
+
+| ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)(/team/#university-of-hamburg) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg) |
+|:---:|:---:|:---:|:---:|:---:|
+| **University of Hamburg** | **DESY** |**Helmut Schmidt University** | **GFZ Potsdam** |  **European XFEL** |
+
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)
-## University of Hamburg
+### University of Hamburg
 
 {% include feature_row id="feature_row" type="left"%}
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)
-## Deutsches Elektronen-Synchrotron DESY
+### Deutsches Elektronen-Synchrotron DESY
 
 {% include feature_row id="feature_row2" type="left" %}
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png)
-## Helmut Schmidt University
+### Helmut Schmidt University
 
 {% include feature_row id="feature_row3" type="left" %}
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png)
-## GFZ Potsdam
+### GFZ Potsdam
 
 {% include feature_row id="feature_row4" type="left" %}
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg)
-## European XFEL
+### European XFEL
 
 {% include feature_row id="feature_row5" type="left" %}
