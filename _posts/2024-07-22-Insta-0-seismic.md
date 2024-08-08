@@ -1,12 +1,12 @@
 ---
 title: "What Do Seismic Waves Have to Do with Concerts?"
 categories:
-  - outreach
   - media
 tags:
   - DAS
   - seismic
   - taylorswift
+  - outreach
 header:
   teaser: /assets/images/screenshot_insta.png
 ---

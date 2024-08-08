@@ -1,11 +1,11 @@
 ---
 title: "What is WAVE and how is DAS working?"
 categories:
-  - outreach
   - media
 tags:
   - DAS
   - taylorswift
+  - outreach
 header:
   teaser: /assets/images/screenshot_insta.png
 ---

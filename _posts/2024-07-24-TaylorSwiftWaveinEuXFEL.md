@@ -1,12 +1,11 @@
 ---
 title: "Taylor's waves in EuXFEL tunnel"
 categories:
-  - outreach
   - media
 tags:
   - livestream
   - taylorswift
-  - youtube
+  - outreach
 header:
   teaser: /assets/images/youtube_taylorwaves.png
 ---
