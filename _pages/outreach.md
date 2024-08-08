@@ -52,8 +52,7 @@ tags:
 
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
-![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png)
-{: .image-left} If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
+![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png) If you cannot see the embedded video, try going [here](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
 
