@@ -15,36 +15,6 @@ intro:
   - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and European XFEL, working together on seismic and geophysical research.'
     
 feature_row:
-
-  - image_path: /assets/images/Team/oliver_gerberding_round.png
-    alt: "Prof. Dr. Oliver Gerberding"
-    title: "Prof. Dr. Oliver Gerberding"
-    excerpt: '<strong>Coordinator</strong> <br>
-      <strong>Affiliation:</strong> Institut für Experimentalphysik<br>
-      <strong>Website:</strong> <a href="https://www.physik.uni-hamburg.de/iexp/gwd">Gravitational wave detection</a><br>
-      <strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=-h2HvqcAAAAJ&hl=de">Google Scholar</a>, <a href="https://orcid.org/0000-0001-7740-2698">ORCID</a><br>
-      <strong>Interests:</strong> Focuses on reducing noise in gravitational wave detectors and developing space-based detector technology.<br>
-      <strong>Collaborations:</strong> <a href="https://www.ligo.org/">LIGO-Virgo-Kagra</a>, <a href="https://www.et-gw.eu/">Einstein Telescope</a>, <a href="https://www.lisamission.org/">LISA</a>'
-    url: "https://www.physik.uni-hamburg.de/iexp/gwd"
-    btn_label: "More About Oliver"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/Team/antonia_kiel_round.png
-    alt: "Antonia Kiel"
-    title: "Antonia Kiel"
-    excerpt: ' <strong>Affiliation:</strong> Institute of Geophysics<br>
-      <strong>Interests:</strong> Works in seismology and machine learning, focusing on shallow groundwater monitoring using seismic noise.<br>
-      <strong>Collaborations:</strong> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a>'
-  - image_path: /assets/images/Team/photo_bauer.png
-    alt: "Dr. Alexander Bauer"
-    title: "Dr. Alexander Bauer"
-    excerpt: '<strong>Affiliation:</strong> Institute of Geophysics<br>
-      <strong>Website:</strong> <a href="https://www.researchgate.net/profile/Alexander-Bauer-3">Researchgate</a><br>
-      <strong>Publications:</strong> <a href="https://scholar.google.de/citations?user=yxmye-sAAAAJ">Google Scholar</a><br>
-      <strong>Interests:</strong> Specializes in seismic data characterization and machine learning for wavefield separation.<br>
-      <strong>Collaborations:</strong> ErUM-WAVE'
-    url: "https://www.researchgate.net/profile/Alexander-Bauer-3"
-    btn_label: "More About Alexander on Researchgate"
-    btn_class: "btn--primary"
   - image_path: /assets/images/Team/Oliver Bölt.png
     alt: "Oliver Bölt"
     title: "Oliver Bölt"
@@ -197,9 +167,8 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
-    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Prof. Dr. Celine Hadziioannou (Coordinator)</p>
-    <p style="margin: 0;"> <br>
-      <strong>Affiliation:</strong> Institute of Geophysics<br>
+    <p style="margin: 0; font-size: 18pt;"><strong>Prof. Dr. Celine Hadziioannou</strong> (Coordinator)</p>
+    <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology, <a href="https://celine.hadzii.com">Website </a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
       <strong>Interests:</strong> Prof. Dr. Celine Hadziioannou explores seismic signals recorded in the absence of earthquakes, considering these usually discarded "noise" signals as valuable sources of information.<br>
