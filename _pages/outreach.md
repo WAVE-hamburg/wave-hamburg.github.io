@@ -99,7 +99,7 @@ With our WAVE glass fiber, we listen to vibrations underground with a thousand e
 {: .image-right}
 
 
-[What am I looking at??](#what-am-i-looking-at??){: .btn .btn--success}]
+[What am I looking at??](#what-am-i-looking-at??){: .btn .btn--info}
 
 
 
@@ -107,7 +107,7 @@ With our WAVE glass fiber, we listen to vibrations underground with a thousand e
 
 ## WAVE Field and Science City Day
 
-On Saturday, 1st June 2024 from 11:00 - 19:00, the WAVE team was be present at the Science City Day, to show you what the measurements with our fiber-optic seismic network look like. Can you find out where our fiber is buried? Can you generate seismic waves? What if you hop around on a bouncy castle?? Come try it out on the DESY campus! More information [here]( https://www.sciencecityday.de/programm/wave-field-huepfburg/).
+On Saturday, June 1, 2024, from 11:00 AM to 7:00 PM, the WAVE team participated in Science City Day at the DESY campus. Visitors explored the fascinating world of our fiber-optic seismic network, discovering where the fiber was buried and learning how it works. Attendees had the chance to generate their own seismic waves and find out what happens when you jump around on a bouncy castle. It was a day filled with hands-on fun and learning! For more details about the event, click [here]( https://www.sciencecityday.de/programm/wave-field-huepfburg/).
 
 ![Science City Day]({{ site.url }}{{ site.baseurl }}/assets/images/SCHWebHeader.jpg)
 {: .image-right}
