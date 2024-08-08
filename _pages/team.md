@@ -115,10 +115,10 @@ feature_row3:
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
       <strong>Interests:</strong> Works on fiber sensors for Newtonian noise mitigation and outreach activities.<br>
       <strong>Collaborations:</strong> <a href="https://www.ligo.org/">LIGO-Virgo-Kagra</a>, <a href="https://www.et-gw.eu/">Einstein Telescope</a>'
-  - image_path: /assets/images/Team/placeholder.png
+  - image_path: /assets/images/Team/Spiridon_beis_2mm.png
     alt: "Spiridon Beis"
     title: "Spiridon Beis"
-    excerpt: '<strong>Student assistant</strong> <br>
+    excerpt: '<strong>Student assistant, RWTH Aachen</strong> <br>
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
       <strong>Interests:</strong> Works on simulations for Newtonian noise mitigation, WAVE data analysis and outreach activities.<br>
