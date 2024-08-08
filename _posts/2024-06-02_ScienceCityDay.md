@@ -1,12 +1,11 @@
 ---
-title: "Science City Day: Exploring the WAVE Network
+title: "Science City Day: Exploring the WAVE Network"
 categories:
   - sciencecityday
 tags:
   - livestream
   - outreach
   - WAVEfield
-last_modified_at: 2024-06-02T23:25:52-05:00
 header:
   teaser: /assets/images/SCHWebHeader.jpg
 ---
