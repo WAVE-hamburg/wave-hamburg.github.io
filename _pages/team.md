@@ -157,31 +157,31 @@ feature_row5:
   <!-- University of Hamburg -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png" alt="University of Hamburg" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt; text-align: center; margin: 0;">University of Hamburg</p>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">University of Hamburg</p>
   </div>
 
   <!-- DESY -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png" alt="DESY" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt; text-align: center; margin: 0;">DESY</p>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">DESY</p>
   </div>
 
   <!-- Helmut Schmidt University -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png" alt="Helmut Schmidt University" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt; text-align: center; margin: 0;">Helmut Schmidt University</p>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">Helmut Schmidt University</p>
   </div>
 
   <!-- GFZ Potsdam -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png" alt="GFZ Potsdam" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt; text-align: center; margin: 0;">GFZ Potsdam</p>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">GFZ Potsdam</p>
   </div>
 
   <!-- European XFEL -->
   <div style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-bottom: 20px;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg" alt="European XFEL" style="width: 80px; height: 80px; margin-bottom: 10px;">
-    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt; text-align: center; margin: 0;">European XFEL</p>
+    <p style="font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 14pt; text-align: center; margin: 0;">European XFEL</p>
   </div>
 
 </div>
@@ -197,7 +197,8 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/celine-hadziioannou-round.png" alt="Prof. Dr. Celine Hadziioannou" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 16pt; font-weight: bold;">Prof. Dr. Celine Hadziioannou</p>
     <p style="margin: 0;"><strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a><br>
@@ -214,7 +215,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/oliver_gerberding_round.png" alt="Prof. Dr. Oliver Gerberding" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> Institut für Experimentalphysik<br>
       <strong>Website:</strong> <a href="https://www.physik.uni-hamburg.de/iexp/gwd">Gravitational wave detection</a><br>
@@ -231,7 +232,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/antonia_kiel_round.png" alt="Antonia Kiel" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Interests:</strong> Works in seismology and machine learning, focusing on shallow groundwater monitoring using seismic noise.<br>
       <strong>Collaborations:</strong> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a></p>
@@ -245,7 +246,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/photo_bauer.png" alt="Dr. Alexander Bauer" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.researchgate.net/profile/Alexander-Bauer-3">Researchgate</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?user=yxmye-sAAAAJ">Google Scholar</a><br>
@@ -261,7 +262,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/Oliver Bölt.png" alt="Oliver Bölt" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.</p>
   </div>
@@ -274,7 +275,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/fotor-2024050716349.png" alt="Dr. Holger Schlarb" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Coordinator</strong><br>
       <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a><br>
       <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a><br>
@@ -290,7 +291,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Dr. Markus Hoffmann" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a></p>
   </div>
 
@@ -302,7 +303,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/katharina_sophie_lief_round.png" alt="Prof. Dr. Katharina-Sophie Isleif" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
@@ -319,7 +320,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/reinhardt.png" alt="Reinhardt Rading" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>PhD student</strong> <br>
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
@@ -336,7 +337,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/Wanda Vossius.png" alt="Wanda Vossius" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>PhD student</strong> <br>
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
@@ -352,7 +353,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/Spiridon_beis.png" alt="Spiridon Beis" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Student assistant, RWTH Aachen</strong> <br>
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
@@ -368,7 +369,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/christopher_wolli_round.png" alt="Dr. Christopher Wollin" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Affiliation:</strong> <a href="https://www.gfz-potsdam.de/en/staff/christopher.wollin">Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)</a><br>
       <strong>Publications:</strong> <a href="https://orcid.org/0000-0002-3992-787X">ORCID</a><br>
       <strong>Interests:</strong> Specializes in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
@@ -383,7 +384,7 @@ feature_row5:
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Dr. Immo Bahns" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 16pt;">
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0;"><strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a><br>
       <strong>Publications:</strong> <a href="https://www.researchgate.net/profile/Immo-Bahns">Researchgate</a>, <a href="https://orcid.org/0009-0001-6341-5508">ORCID</a><br>
       <strong>Interests:</strong> Expert in nondestructive interactions of electromagnetic waves, project manager for XFELO demonstrator project.</p>
