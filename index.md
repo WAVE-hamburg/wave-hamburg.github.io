@@ -8,17 +8,18 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
-  - url: /wave/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - label: "Read more"
-    url: /wave/
-  - label: "Recent acitivites"
-    url: /posts/
-  - label: "Follow us on Instagram"
-    url: "https://www.instagram.com/wave.hamburg/"
-  - label: "Follow us on Twitch"
-    url: "https://www.twitch.tv/wave_hamburg"
+  actions:
+    - label: "Read more"
+      url: /wave/
+    - label: "Recent acitivites"
+      url: /posts/
+    - label: "Follow us on Instagram"
+      url: "https://www.instagram.com/wave.hamburg/"
+    - label: "Follow us on Twitch"
+      url: "https://www.twitch.tv/wave_hamburg"
+    - url: /science/
+      btn_label: "Read More"
+      btn_class: "btn--primary"
  # caption: "Photo credit: "
 excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities."
 intro: 
@@ -35,13 +36,6 @@ feature_row:
     title: "Outreach"
     excerpt: "Concerts, soccer games and visitors shake the research campus, which we show in realtime live on Twitch. Have a look at our results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024."
     url: /science/
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "The WAVE Team"
-    excerpt: 'Results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024.'
-    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/Team/group_photo.png
