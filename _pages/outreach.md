@@ -49,7 +49,7 @@ tags:
 
 ### Upcoming livestreams <i class="fab fa-twitch" aria-hidden="true"></i>
 
-* **10.08.2024** *Soccer*  match at Volksparkstadion (2 km away from campus), start 20:30 CEST
+* **10.08.2024** <i class="fab fa-futbol" aria-hidden="true"></i> *Soccer*  match at Volksparkstadion (2 km away from campus), start 20:30 CEST
 * **30.08.2024** *Deichkind* on the Trabrennbahn (100m away from campus)
 * **04.09.2024** *Justin Timberlake* in the Barclays arena (2 km away from campus)
 * **13.09.2024>** *Scorpions* Barclays arena (2 km away from campus)
