@@ -156,13 +156,14 @@ feature_row5:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row_institutions" %}
-
+| ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png) | ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg) |
+| --- |--- |--- |--- |
+| | | | | 
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png)
 ## University of Hamburg
 
-{% include feature_row id="feature_row"%}
+{% include feature_row id="feature_row" type="left"%}
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png)
 ## Deutsches Elektronen-Synchrotron DESY
