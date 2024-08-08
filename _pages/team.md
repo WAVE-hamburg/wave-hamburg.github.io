@@ -164,22 +164,22 @@ feature_row5:
 
 
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png" alt="logo" width="5%"/> University of Hamburg 
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png" alt="logo" height="1cm"/> University of Hamburg 
 
 {% include feature_row id="feature_row" type="left"%}
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png" alt="logo" width="5%"/> Deutsches Elektronen-Synchrotron DESY
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy.png" alt="logo" height="1cm"/> Deutsches Elektronen-Synchrotron DESY
 
 {% include feature_row id="feature_row2" type="left" %}
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png" alt="logo" width="5%"/> Helmut Schmidt University
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU.png" alt="logo" height="1cm"/> Helmut Schmidt University
 
 {% include feature_row id="feature_row3" type="left" %}
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png" alt="logo" width="5%"/> GFZ Potsdam
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ.png" alt="logo" height="1cm"/> GFZ Potsdam
 
 {% include feature_row id="feature_row4" type="left" %}
 
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg" alt="logo" width="5%"/> European XFEL
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL.jpg" alt="logo" height="1cm"/> European XFEL
 
 {% include feature_row id="feature_row5" type="left" %}
