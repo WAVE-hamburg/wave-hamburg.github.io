@@ -196,17 +196,19 @@ feature_row5:
 </div>
 
 
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square_H15mm.png" alt="logo" height="0.5cm"/> University of Hamburg {#uhh}
 
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-top: 20px;">
 
   <!-- Rundes Bild -->
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/celine-hadziioannou-round.png" alt="Prof. Dr. Celine Hadziioannou" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
-    <p style="margin: 0; font-size: 16pt;"> <strong>Prof. Dr. Celine Hadziioannou</strong> (Coordinator) </p>
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Prof. Dr. Celine Hadziioannou</p>
+    <p style="margin: 0;"><strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
@@ -223,6 +225,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Prof. Dr. Oliver Gerberding</p>
     <p style="margin: 0;"><strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> Institut für Experimentalphysik<br>
       <strong>Website:</strong> <a href="https://www.physik.uni-hamburg.de/iexp/gwd">Gravitational wave detection</a><br>
@@ -240,6 +243,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Antonia Kiel</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Interests:</strong> Works in seismology and machine learning, focusing on shallow groundwater monitoring using seismic noise.<br>
       <strong>Collaborations:</strong> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a></p>
@@ -254,6 +258,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Dr. Alexander Bauer</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Website:</strong> <a href="https://www.researchgate.net/profile/Alexander-Bauer-3">Researchgate</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?user=yxmye-sAAAAJ">Google Scholar</a><br>
@@ -270,11 +275,17 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Oliver Bölt</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Interests:</strong> Doctoral researcher applying machine learning to seismic data for signal detection and classification.</p>
   </div>
 
 </div>
+
+
+
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy_H15mm.png" alt="logo" height="0.5cm"/> Deutsches Elektronen-Synchrotron DESY {#desy}
+
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
 
@@ -283,6 +294,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Dr. Holger Schlarb</p>
     <p style="margin: 0;"><strong>Coordinator</strong><br>
       <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a><br>
       <strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a><br>
@@ -299,10 +311,15 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Dr. Markus Hoffmann</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a></p>
   </div>
 
 </div>
+
+
+
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU_H15mm.png" alt="logo" height="0.5cm"/> Helmut Schmidt University {#hsu}
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
 
@@ -311,6 +328,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Prof. Dr. Katharina-Sophie Isleif</p>
     <p style="margin: 0;"><strong>Coordinator</strong> <br>
       <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
@@ -328,6 +346,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Reinhardt Rading</p>
     <p style="margin: 0;"><strong>PhD student</strong> <br>
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a><br>
@@ -345,6 +364,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Wanda Vossius</p>
     <p style="margin: 0;"><strong>PhD student</strong> <br>
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
@@ -361,6 +381,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Spiridon Beis</p>
     <p style="margin: 0;"><strong>Student assistant, RWTH Aachen</strong> <br>
     <strong>Affiliation:</strong> Institute of Automation Technology<br>
       <strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">Metrology Group</a><br>
@@ -370,6 +391,10 @@ feature_row5:
 
 </div>
 
+
+
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ_H15mm.png" alt="logo" height="0.5cm"/> GFZ Potsdam {#gfz}
+
 <div style="display: flex; align-items: center; margin-top: 20px;">
 
   <!-- Rundes Bild -->
@@ -377,6 +402,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Dr. Christopher Wollin</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> <a href="https://www.gfz-potsdam.de/en/staff/christopher.wollin">Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)</a><br>
       <strong>Publications:</strong> <a href="https://orcid.org/0000-0002-3992-787X">ORCID</a><br>
       <strong>Interests:</strong> Specializes in fiber-optic sensing for seismic monitoring and crustal stressfield inversion.<br>
@@ -385,6 +411,11 @@ feature_row5:
 
 </div>
 
+
+
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL_H15mm.jpg" alt="logo" height="0.5cm"/> European XFEL {#xfel}
+
+
 <div style="display: flex; align-items: center; margin-top: 20px;">
 
   <!-- Rundes Bild -->
@@ -392,6 +423,7 @@ feature_row5:
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt; font-weight: bold;">Dr. Immo Bahns</p>
     <p style="margin: 0;"><strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a><br>
       <strong>Publications:</strong> <a href="https://www.researchgate.net/profile/Immo-Bahns">Researchgate</a>, <a href="https://orcid.org/0009-0001-6341-5508">ORCID</a><br>
       <strong>Interests:</strong> Expert in nondestructive interactions of electromagnetic waves, project manager for XFELO demonstrator project.</p>
@@ -405,26 +437,3 @@ feature_row5:
 
 
 
-
-
-
-
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square_H15mm.png" alt="logo" height="0.5cm"/> University of Hamburg {#uhh}
-
-{% include feature_row id="feature_row" type="left"%}
-
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy_H15mm.png" alt="logo" height="0.5cm"/> Deutsches Elektronen-Synchrotron DESY {#desy}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_HSU_H15mm.png" alt="logo" height="0.5cm"/> Helmut Schmidt University {#hsu}
-
-{% include feature_row id="feature_row3" type="left" %}
-
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_GFZ_H15mm.png" alt="logo" height="0.5cm"/> GFZ Potsdam {#gfz}
-
-{% include feature_row id="feature_row4" type="left" %}
-
-### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/logo_XFEL_H15mm.jpg" alt="logo" height="0.5cm"/> European XFEL {#xfel}
-
-{% include feature_row id="feature_row5" type="left" %}
