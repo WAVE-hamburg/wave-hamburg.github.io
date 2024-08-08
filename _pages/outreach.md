@@ -89,6 +89,9 @@ We already knew that we should able to pick up vibrations of concerts happening 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/2024_taylors_waves_livestream_shakeitoff_credit.png)
 {: .image-right}
 
+
+#taylorswift
+
 ### Public hearing EM24 
 
 Can we hear the goals from the Euros below ground?
