@@ -164,10 +164,10 @@ feature_row5:
 <div style="display: flex; align-items: center;">
 
   <!-- Rundes Bild -->
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Beschreibung" style="width: 50px; height: 50px; border-radius: 50%; margin-right: 15px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Beschreibung" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
-  <div style="line-height: 1.2; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 10pt;">
+  <div style="line-height: 1.2; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 13pt;">
     <p style="margin: 0;">Punkt 1</p>
     <p style="margin: 0;">Punkt 2</p>
     <p style="margin: 0;">Punkt 3</p>
