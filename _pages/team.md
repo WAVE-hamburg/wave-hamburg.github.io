@@ -164,7 +164,7 @@ feature_row5:
 
 
 
-### <img src="./assets/images/Logo/uni_hamburg_square.png" alt="drawing" width="10%"/> University of Hamburg 
+### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/uni_hamburg_square.png" alt="drawing" width="10%"/> University of Hamburg 
 
 {% include feature_row id="feature_row" type="left"%}
 
