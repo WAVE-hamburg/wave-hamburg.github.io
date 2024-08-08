@@ -3,9 +3,9 @@ title: "Taylor's waves in EuXFEL tunnel"
 categories:
   - outreach
 tags:
-  - livestream
+  - DAS
   - taylorswift
-  - youtube
+  - instagram
 header:
   teaser: /assets/images/youtube_taylorwaves.png
 ---
