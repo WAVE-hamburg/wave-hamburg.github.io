@@ -1,11 +1,7 @@
 ---
-layout: archive
+layout: posts
+title: "Blog"
 permalink: /posts/
-author_profile: true
-entries_layout: grid
-classes: wide
+author_profile: false
 ---
-
-
-{% include archive-single.html %}
 
