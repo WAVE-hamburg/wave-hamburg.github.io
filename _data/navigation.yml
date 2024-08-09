@@ -33,6 +33,6 @@ sidebar-sample:
       - title: "All Posts"
         url: /posts/
       - title: "Tag Archives"
-        url: /tags-grid/
+        url: /tags/
       - title: "Category Archives"
-        url: /categories-grid/
+        url: /categories/
