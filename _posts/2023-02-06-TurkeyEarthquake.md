@@ -1,10 +1,11 @@
 ---
 title: "M7.5 Earthquake in Turkey"
+last_modified_at: 2023-02-06T23:25:52-05:00
 categories:
   - news
+  - results
 tags:
   - earthquake
-last_modified_at: 2023-02-06T23:25:52-05:00
 header:
   teaser: /assets/images/earthquakes.jpg
 ---

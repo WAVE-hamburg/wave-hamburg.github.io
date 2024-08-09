@@ -1,18 +1,38 @@
 ---
-title: "M7.1 Earthquake in Japan"
+title: "M7.4 Earthquake in China"
 categories:
   - news
+  - results
 tags:
   - earthquake
-last_modified_at: 2024-06-03T23:25:52-05:00
+last_modified_at: 2021-05-21T23:25:52-05:00
 header:
   teaser: /assets/images/earthquakes.jpg
 ---
 
-Following the recent M7.1 earthquake in southern Japan, our team is currently combing through the WAVE network data, as we believe we've captured this significant seismic activity. We've successfully detected other earthquakes around the world, including in Turkey and China. 
 
-For more details on our earthquake tracking and previous findings, check out our related posts: Turkey Earthquake Analysis and China Seismic Activity.
+We've captured a significant seismic event along our Distributed Acoustic Sensing (DAS) fiber network. On May 21, 2021, an earthquake of magnitude 7.4 struck Qinghai, China. Our data provides a fascinating comparison between traditional seismometer readings and the high-resolution capabilities of DAS technology.
 
-Further insights for the M7.1 Earthquake in Japan will follow soon. 
+Key Observations:
 
-<div class="substack-post-embed"><p lang="en">M7.1 earthquake strikes southern Japan; megaquake advisory issued by Judith Hubbard & Kyle Bradley</p><p>An indication of elevated risk - but not a prediction</p><a data-post-link href="https://earthquakeinsights.substack.com/p/m71-earthquake-strikes-southern-japan">Read on Substack</a></div><script async src="https://substack.com/embedjs/embed.js" charset="utf-8"></script>
+The sum of 600 data traces within the time window of the earthquake signal shows larger amplitudes compared to a single trace, highlighting the enhanced detection capabilities of DAS.
+The unwanted noise at the beginning of the data track is notably reduced, improving the clarity of seismic readings.
+
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/earthquake_snapshots.png" alt="">
+  <figcaption> Earthquake in China recorded in Hamburg's WAVE network.</figcaption>
+</figure> 
+
+In the composite image, you can see many DAS data traces plotted vertically. The blue line indicates the single trace shown in the central plot, while the red area marks the 600 traces from which the sum trace was formed.
+The lower graph reveals vertical lines corresponding to coherent seismic wavefronts, alongside spatial variations in the measured oscillation amplitudes that could indicate inhomogeneous subsurface structures. This illustrates the superior temporal and spatial resolution of DAS measurements.
+
+
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" alt="">
+  <figcaption>Animation during the Earthquake from China.</figcaption>
+</figure> 
+
+The animation showcases earthquake waves propagating along the EuXFEL tunnel, triggered by the strong earthquake in China. On the right side, a waterfall diagram typical for DAS data displays the time series of strain amplitude for each fiber sensor, with dark blue indicating compression and light yellow showing elongation.
+On the left, the evolution over time of the strain amplitudes recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel. Despite the wave length greatly exceeding the tunnel’s length, the spatial formation of wave crests and troughs is clearly visible as they propagate from East to West.
