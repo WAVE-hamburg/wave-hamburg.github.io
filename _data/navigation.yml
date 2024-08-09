@@ -15,3 +15,16 @@ main:
   - title: "Blog"
     url: /posts/
 
+docs:
+  - title:
+    children:
+      - title:
+        url:
+  - title: Blog
+    children:
+      - title: "Posts Archives"
+        url: /posts/
+      - title: "Tag Archives"
+        url: /tags-grid/
+      - title: "Category Archives"
+        url: /categories-grid/
