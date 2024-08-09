@@ -24,7 +24,7 @@ We decided to unroll about 400 m of fiber that we already had on a spool and lay
  This setup protected the fiber from being tripped over or damaged while allowing us to create a game: "Find the Fiber" beneath the WAVE-Field.
 The fiber was then laid from the parking lot into one of the adjacent buildings, routed over roofs and through bushes, and connected to the measuring device, the DAS interrogator. 
 
-<figure class="align-center">
+<figure style="width: 75%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_DAS.jpg" alt="photo">
 </figure> 
 
@@ -42,19 +42,19 @@ After the rubber mats were delivered at the last minute on Friday afternoon, we 
 
 The WAVE-Field was a rectangular chessboard pattern made from rubber mats with fiber laid beneath in a specific pattern. Visitors had to locate the fiber by jumping or walking on the mats while monitoring a screen. Since we could only stream a waterfall diagram at that time, identifying the fiber path proved challenging but not impossible. This taught visitors how to interpret a [waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#waterfall-what-am-i-looking-at).
 
-<figure class="align-center">
+<figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field.jpeg" alt="photo">
 </figure> 
 
 
-<figure style="width: 400px" class="align-left">
+<figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_running.jpeg" alt="photo">
 </figure> 
 
 ### Running Track
 We also set up a long row of rubber mats with fibers coiled underneath, creating a running track. The coils produced diagonal lines in the waterfall diagram, which plotted time on one axis and fiber length on the other. Although the coiling affected the accuracy of speed calculations, children enjoyed racing along the track, trying to create steep diagonal lines. The waterfall diagram clearly showed the direction and interaction of runners as they crossed paths or overtook each other.
 
-<figure style="width: 400px" class="align-right">
+<figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_micro.jpeg" alt="photo">
 </figure> 
 
@@ -67,7 +67,16 @@ An unexpected discovery occurred when we set up the WAVE-Field and running track
 They concluded that the signal was caused by acoustic vibrations and air pressure changes. When an airplane flew overhead, the fiber on the roof lit up dramatically on the live stream. This surprise finding enriched our scientific data, as we had been searching for aircraft signals in our WAVE network but hadn't found any due to the mostly underground fiber routes. Thanks to Science City Day, we identified a fiber section where airplane signals could be "heard."
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_screen.jpeg" alt="photo">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_screen.png" alt="photo">
 </figure> 
+
+### Hit the Luke (Hau den Lukas)
+
+We introduced another engaging activity involving a rubber hammer used to strike the ground anywhere on the campus. Remarkably, this action generated a clear signal across the entire fiber network, visible in the live stream as a vertical line—indicating a strong excitation at a precise moment in all fiber sections. Attendees were amazed by how far they could distance themselves with the hammer and still excite the earth, showcasing the sensitivity of the fiber and the DAS system. 
+
+
+## Conclusion
+
+Despite the bustling campus atmosphere with about 50,000 visitors that day, and initial uncertainties about the potential noise interference during setup, this event, like all others, functioned smoothly and exceeded our expectations.
 
 
