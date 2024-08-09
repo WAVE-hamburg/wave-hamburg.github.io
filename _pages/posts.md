@@ -5,5 +5,5 @@ permalink: /posts/
 author_profile: true
 entries_layout: grid
 classes: wide
-layout: posts
+layout: archive
 ---
