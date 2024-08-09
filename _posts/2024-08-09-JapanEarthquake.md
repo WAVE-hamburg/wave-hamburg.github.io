@@ -1,6 +1,5 @@
 ---
 title: "M7.1 Earthquake in Japan"
-last_modified_at: 2024-07-09T16:00:58-04:00
 categories:
   - news
 tags:
