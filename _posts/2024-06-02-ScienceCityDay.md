@@ -46,24 +46,24 @@ The WAVE-Field was a rectangular chessboard pattern made from rubber mats with f
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field.jpeg" alt="photo">
 </figure> 
 
-### Running Track
 
-<figure style="width: 300px" class="align-left">
+<figure style="width: 400px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_running.jpeg" alt="photo">
 </figure> 
 
+<figure style="width: 400px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_micro.jpeg" alt="photo">
+</figure> 
+
+### Running Track
 We also set up a long row of rubber mats with fibers coiled underneath, creating a running track. The coils produced diagonal lines in the waterfall diagram, which plotted time on one axis and fiber length on the other. Although the coiling affected the accuracy of speed calculations, children enjoyed racing along the track, trying to create steep diagonal lines. The waterfall diagram clearly showed the direction and interaction of runners as they crossed paths or overtook each other.
-
-
 
 
 ### Roof Microphone
 
 An unexpected discovery occurred when we set up the WAVE-Field and running track. We detected a strong signal in a section of the fiber leading to the WAVE-Field. The fiber had been routed through bushes and over doors and roofs to avoid tripping hazards. Our doctoral students traced the strong, unknown signal to a section of fiber over a door on a small roof. 
 
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_micro.jpeg" alt="photo">
-</figure> 
+
 
 They concluded that the signal was caused by acoustic vibrations and air pressure changes. When an airplane flew overhead, the fiber on the roof lit up dramatically on the live stream. This surprise finding enriched our scientific data, as we had been searching for aircraft signals in our WAVE network but hadn't found any due to the mostly underground fiber routes. Thanks to Science City Day, we identified a fiber section where airplane signals could be "heard."
 
