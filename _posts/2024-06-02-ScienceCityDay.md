@@ -42,14 +42,12 @@ After the rubber mats were delivered at the last minute on Friday afternoon, we 
 
 The WAVE-Field was a rectangular chessboard pattern made from rubber mats with fiber laid beneath in a specific pattern. Visitors had to locate the fiber by jumping or walking on the mats while monitoring a screen. Since we could only stream a waterfall diagram at that time, identifying the fiber path proved challenging but not impossible. This taught visitors how to interpret a [waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#waterfall-what-am-i-looking-at).
 
-<figure style="width: 500px" class="align-center">
+
+<figure class="half">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field.jpeg" alt="photo">
-</figure> 
-
-
-<figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_running.jpeg" alt="photo">
-</figure> 
+</figure>
+
 
 ### Running Track
 We also set up a long row of rubber mats with fibers coiled underneath, creating a running track. The coils produced diagonal lines in the waterfall diagram, which plotted time on one axis and fiber length on the other. Although the coiling affected the accuracy of speed calculations, children enjoyed racing along the track, trying to create steep diagonal lines. The waterfall diagram clearly showed the direction and interaction of runners as they crossed paths or overtook each other.
