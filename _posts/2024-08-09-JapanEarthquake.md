@@ -10,7 +10,7 @@ header:
 
 Following the recent M7.1 earthquake in southern Japan, our team is currently combing through the WAVE network data, as we believe we've captured this significant seismic activity. We've successfully detected other earthquakes around the world, including in Turkey and China. 
 
-For more details on our earthquake tracking and previous findings, check our past analysis of [Earthquake signals]({{ site.url }}{{ site.baseurl }}/science/#earthquake-signals) of the [M7.5 Earthquake in Turkey 2023 <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}_posts/2023-02-06-TurkeyEarthquake.md) and [M7.5 Earthquake in China 2021 <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}news/results/ChinaEarthquake/).
+For more details on our earthquake tracking and previous findings, check our past analysis of [Earthquake signals]({{ site.url }}{{ site.baseurl }}/science/#earthquake-signals) of the [M7.5 Earthquake in Turkey 2023 <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/_posts/2023-02-06-TurkeyEarthquake.md) and [M7.4 Earthquake in China 2021 <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}news/results/ChinaEarthquake/).
 
 Further insights for the M7.1 Earthquake in Japan will follow soon. 
 
