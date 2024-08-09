@@ -326,5 +326,5 @@ defaults:
       comments: # true
       share: true
       related: true
-    sidebar:
-      nav: sidebar-sample
+      sidebar:
+        nav: sidebar-sample
