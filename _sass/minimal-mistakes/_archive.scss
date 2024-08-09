@@ -64,7 +64,7 @@
 /* remove border*/
 .page__content {
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: .5em;
     border-bottom: none;
   }
 }
@@ -89,6 +89,7 @@
 
   img {
     width: 100%;
+    padding-top: 1em
   }
 }
 
