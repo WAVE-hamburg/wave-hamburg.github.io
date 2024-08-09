@@ -8,7 +8,7 @@ author_profile: false
 <h1 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Blog - All Posts" }}</h1>
 
 {% for post in paginator.posts %}
-  {% include archive-single.html %}
+  {% include archive-single-main.html %}
 {% endfor %}
 
 {% if page.url == '/' and insta_image != true and site.url == 'fake.url' %}
