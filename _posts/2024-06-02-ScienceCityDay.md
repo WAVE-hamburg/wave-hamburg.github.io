@@ -51,13 +51,12 @@ The WAVE-Field was a rectangular chessboard pattern made from rubber mats with f
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_running.jpeg" alt="photo">
 </figure> 
 
-<figure style="width: 400px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_micro.jpeg" alt="photo">
-</figure> 
-
 ### Running Track
 We also set up a long row of rubber mats with fibers coiled underneath, creating a running track. The coils produced diagonal lines in the waterfall diagram, which plotted time on one axis and fiber length on the other. Although the coiling affected the accuracy of speed calculations, children enjoyed racing along the track, trying to create steep diagonal lines. The waterfall diagram clearly showed the direction and interaction of runners as they crossed paths or overtook each other.
 
+<figure style="width: 400px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_micro.jpeg" alt="photo">
+</figure> 
 
 ### Roof Microphone
 
