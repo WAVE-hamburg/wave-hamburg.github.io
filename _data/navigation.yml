@@ -15,7 +15,7 @@ main:
   - title: "Blog"
     url: /posts/
 
-docs:
+sidebar-sample:
   - title:
     children:
       - title:
