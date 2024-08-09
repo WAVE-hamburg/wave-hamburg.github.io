@@ -45,12 +45,13 @@
 }
 
 .page__footer-copyright {
+  margin-bottom: 5px;
   font-family: $global-font-family;
   font-size: $type-size-7;
 }
 
 .page__footer-acknowledgments {
-  margin-top: 20px;
+  margin-bottom: 5px;
   font-family: $global-font-family;
   font-size: $type-size-7;
   font-style: italic;
