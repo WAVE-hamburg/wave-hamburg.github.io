@@ -83,10 +83,5 @@ The internationally unique infrastructure and science network will establish bes
 
 ## Contact
 
-Have we peaked your interest? Would you like to contribute? If you wish to contribute, or get an impression of what we work on, please contact: Prof. Celine Hadziioannou.
+Have we peaked your interest? Would you like to contribute? If you wish to contribute, or get an impression of what we work on, please [contact Prof. Celine Hadziioannou <i class="fa  fa-envelope-square" aria-hidden="true"></i>](mailto:celine.hadziioannou@uni-hamburg.de). 
 
-## Acknowledgements
-
-The use of the interrogator from the company OptaSense was sponsored by the former Dean of the MIN Faculty, Prof. Dr. Heinrich Graener. We thank Dr. Martin Karrenbach from OptaSense for on-site advice and service.
-We would also like to thank the company Baudynamik and Dr.-Ing. Michael Mistler for the additional excitation with the vibrotruck on campus.
-We are very appreciative of the IT group at DESY, in particular Tobias Ladwig, for their support in establishing the fiber connection. We thank the Physnet data center for providing the servers, computing capacity, and data storage, as well as for advice on the architecture for data analysis. We further thank the European XFEL operations team for their support with georeferencing and access to the accelerator.
