@@ -61,7 +61,7 @@ We also set up a long row of rubber mats with fibers coiled underneath, creating
 An unexpected discovery occurred when we set up the WAVE-Field and running track. We detected a strong signal in a section of the fiber leading to the WAVE-Field. The fiber had been routed through bushes and over doors and roofs to avoid tripping hazards. Our doctoral students traced the strong, unknown signal to a section of fiber over a door on a small roof. 
 
 
-<figure style="width: 1000px" class="align-center">
+<figure style="width: 800px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_micro.jpeg" alt="photo">
 </figure> 
 
