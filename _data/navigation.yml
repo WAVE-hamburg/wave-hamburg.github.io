@@ -16,13 +16,21 @@ main:
     url: /posts/
 
 sidebar-sample:
-  - title:
+  - title: Content
     children:
-      - title:
-        url:
+    - title: "Home"
+      url: https://kisleif.github.io/WAVE-minimal-mistakes/
+    - title: "WAVE"
+      url: /wave/
+    - title: "Science"
+      url: /science/
+    - title: "Outreach"
+      url: /outreach/
+    - title: "Team"
+      url: /team/
   - title: Blog
     children:
-      - title: "Posts Archives"
+      - title: "All Posts"
         url: /posts/
       - title: "Tag Archives"
         url: /tags-grid/
