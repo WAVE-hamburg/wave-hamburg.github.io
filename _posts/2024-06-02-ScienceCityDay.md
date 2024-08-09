@@ -24,7 +24,7 @@ We decided to unroll about 400 m of fiber that we already had on a spool and lay
  This setup protected the fiber from being tripped over or damaged while allowing us to create a game: "Find the Fiber" beneath the WAVE-Field.
 The fiber was then laid from the parking lot into one of the adjacent buildings, routed over roofs and through bushes, and connected to the measuring device, the DAS interrogator. 
 
-<figure style="width: 75%" class="align-center">
+<figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_DAS.jpg" alt="photo">
 </figure> 
 
@@ -43,9 +43,8 @@ After the rubber mats were delivered at the last minute on Friday afternoon, we 
 The WAVE-Field was a rectangular chessboard pattern made from rubber mats with fiber laid beneath in a specific pattern. Visitors had to locate the fiber by jumping or walking on the mats while monitoring a screen. Since we could only stream a waterfall diagram at that time, identifying the fiber path proved challenging but not impossible. This taught visitors how to interpret a [waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#waterfall-what-am-i-looking-at).
 
 
-<figure class="half">
+<figure style="width: 500px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field.jpeg" alt="photo">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_running.jpeg" alt="photo">
 </figure>
 
 
@@ -53,14 +52,18 @@ The WAVE-Field was a rectangular chessboard pattern made from rubber mats with f
 We also set up a long row of rubber mats with fibers coiled underneath, creating a running track. The coils produced diagonal lines in the waterfall diagram, which plotted time on one axis and fiber length on the other. Although the coiling affected the accuracy of speed calculations, children enjoyed racing along the track, trying to create steep diagonal lines. The waterfall diagram clearly showed the direction and interaction of runners as they crossed paths or overtook each other.
 
 <figure style="width: 500px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_micro.jpeg" alt="photo">
-</figure> 
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_running.jpeg" alt="photo">
+</figure>
+
 
 ### Roof Microphone
 
 An unexpected discovery occurred when we set up the WAVE-Field and running track. We detected a strong signal in a section of the fiber leading to the WAVE-Field. The fiber had been routed through bushes and over doors and roofs to avoid tripping hazards. Our doctoral students traced the strong, unknown signal to a section of fiber over a door on a small roof. 
 
 
+<figure style="width: 500px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_micro.jpeg" alt="photo">
+</figure> 
 
 They concluded that the signal was caused by acoustic vibrations and air pressure changes. When an airplane flew overhead, the fiber on the roof lit up dramatically on the live stream. This surprise finding enriched our scientific data, as we had been searching for aircraft signals in our WAVE network but hadn't found any due to the mostly underground fiber routes. Thanks to Science City Day, we identified a fiber section where airplane signals could be "heard."
 
