@@ -58,7 +58,7 @@ During the [Science City Day]({{ site.url }}{{ site.baseurl }}/outreach/#wave-fi
 
 <figure class="half">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field.jpeg" alt="DAS Interrogator">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field_screen.png" alt="screen">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVE-field-monitor.jpeg" alt="screen">
   <figcaption>Photo from the WAVE-field an a live view of the waterfall diagram.</figcaption>
 </figure>
 

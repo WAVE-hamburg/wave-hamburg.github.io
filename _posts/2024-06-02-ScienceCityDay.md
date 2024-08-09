@@ -1,7 +1,7 @@
 ---
 title: "Science City Day - Exploring the WAVE Network"
 categories:
-  - sciencecityday
+  - news
 tags:
   - livestream
   - outreach
