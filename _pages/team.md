@@ -6,7 +6,7 @@ read_time: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Team/group_photo.png
+  overlay_image: /assets/images/Team/2023_WAVE_group_photo.JPEG
   actions:
     - label: "Contact us"
       url: "mailto:celine.hadziioannou@uni-hamburg.de"

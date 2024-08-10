@@ -24,12 +24,12 @@ feature_row_outreach:
     url: /outreach/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/video/2024-08-10_Soccer_fast.gif
+  - image_path: assets/images/Stream_Soccer.png
     alt: "Livestream"
     title: "Livestreams"
-    excerpt: "View campus vibrations in realtime live on Twitch - now with an updated filtered waterfall diagram!"
+    excerpt: "Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram! Next dates are listed [here](/outreach/#livestreams)"
     url: "https://www.twitch.tv/wave_hamburg"
-    btn_label: "Twtich <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"
+    btn_label: "Twitch <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
   - image_path: /assets/images/2024_taylors_waves_spectrogram_annotated.png
     title: "Swiftquakes"
@@ -46,7 +46,7 @@ feature_row_science:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_team:
-  - image_path: /assets/images/Team/group_photo.png
+  - image_path: /assets/images/Team/2023_WAVE_group_photo.JPEG
     title: "The WAVE Team"
     excerpt: 'We are a young collaboration of seismologists, physicists, engineers and computer scientists. Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
     url: "/team/"
