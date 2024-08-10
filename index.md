@@ -37,7 +37,7 @@ feature_row_outreach:
   - image_path: /assets/images/2024_taylors_waves_spectrogram_annotated.png
     title: "Swiftquakes"
     excerpt: "Have a look at our results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024."
-feature_row_science
+feature_row_science:
   - image_path: /assets/images/iDAS.jpg
     alt: "Scientists looking at the DAS system."
     title: "Science"
@@ -45,7 +45,7 @@ feature_row_science
     url: /science/
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row_team
+feature_row_team:
   - image_path: /assets/images/Team/group_photo.png
     title: "The WAVE Team"
     excerpt: 'We are a young collaboration of seismologists, physicists, engineers and computer scientists. Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and XFEL, working together on seismic and geophysical research.'
