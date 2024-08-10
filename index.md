@@ -20,7 +20,7 @@ feature_row_outreach:
   - image_path: assets/images/ScienceCityDay_nofaces.jpeg
     alt: "Outreach"
     title: "Outreach"
-    excerpt: "Concerts, soccer matches, and visitor activity send vibrations through the research campus. We showcase these live on Twitch, delve into explanations on [Instagram <i class=\"fab fa-instagram\" aria-hidden=\"true\"></i>](https://www.instagram.com/wave.hamburg/), and present the results here."
+    excerpt: "Concerts, soccer matches, and visitor activity send vibrations through the research campus. We showcase these live on Twitch, explanations on [Instagram <i class=\"fab fa-instagram\" aria-hidden=\"true\"></i>](https://www.instagram.com/wave.hamburg/), and present [results]({{ site.url }}{{ site.baseurl }}/posts/)."
     url: /outreach/
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -33,7 +33,7 @@ feature_row_outreach:
     btn_class: "btn--primary"
   - image_path: /assets/images/2024_taylors_waves_spectrogram_annotated.png
     title: "Swiftquakes"
-    excerpt: "Have a look at our results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024."
+    excerpt: "Have a look at our results, analysis, screenshots and animations from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024."
     url: "https://wave-hamburg.eu/tags/#taylorswift"
     btn_label: "Posts <i class=\"fa fa-file-text\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
@@ -65,3 +65,24 @@ tags:
 {% include feature_row id="feature_row_science" type="left" %}
 
 {% include feature_row id="feature_row_team" type="center" %}
+
+<html>
+  <body>
+    <!-- Add a placeholder for the Twitch embed -->
+    <div id="twitch-embed"></div>
+
+    <!-- Load the Twitch embed JavaScript file -->
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+    <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
+    <script type="text/javascript">
+      new Twitch.Embed("twitch-embed", {
+        width: 1000,
+        height: 365,
+        channel: "wave_hamburg",
+        // Only needed if this page is going to be embedded on other websites
+        parent: ["embed.example.com", "othersite.example.com"]
+      });
+    </script>
+  </body>
+</html>
