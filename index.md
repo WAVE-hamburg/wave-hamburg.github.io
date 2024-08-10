@@ -11,15 +11,15 @@ header:
   actions:
     - label: "Learn more"
       url: /wave/
-    - label: "Recent acitivites"
+    - label: "Activites"
       url: /posts/
     - label: <i class="fab fa-instagram" aria-hidden="true"></i>
       url: "https://www.instagram.com/wave.hamburg/"
     - label: <i class="fab fa-twitch" aria-hidden="true"></i>
       url: "https://www.twitch.tv/wave_hamburg"
-excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities."
+excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and large-scale research facilities."
 intro: 
-  - excerpt: 'A key element of WAVE is the widespread use of modern seismic sensors, in particular distributed acoustic sensing (DAS). This technology uses fiber optic cables as sensitive seismic sensors. It enables ground motion data to be recorded at an unprecedented spatial density over long distances, revolutionizing geophysics.'
+  - excerpt: 'A key element of WAVE is the use of modern seismic sensors, in particular distributed acoustic sensing (DAS). This technology uses fiber optic cables as sensitive seismic sensors. It enables ground motion data to be recorded at an unprecedented spatial density over long distances.'
 feature_row:
   - image_path: /assets/images/iDAS.jpg
     alt: "Scientists looking at the DAS system."
@@ -40,9 +40,6 @@ feature_row:
     url: "/team/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-related: true
-tags:
-  - outreach
 ---
 
 {% include feature_row id="intro" type="center" %}
