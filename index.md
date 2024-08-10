@@ -17,19 +17,19 @@ excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigate
 intro: 
   - excerpt: 'A key element of WAVE is the use of modern seismic sensors, in particular distributed acoustic sensing (DAS). This technology uses fiber optic cables as sensitive seismic sensors. It enables ground motion data to be recorded at an unprecedented spatial density over long distances.'
 feature_row_outreach:
-  - image_path: assets/images/
+  - image_path: assets/images/ScienceCityDay_nofaces.jpeg
     alt: "Outreach"
     title: "Outreach"
     excerpt: "Concerts, soccer matches, and visitor activity send vibrations through the research campus. We showcase these live on Twitch, delve into explanations on [Instagram <i class=\"fab fa-instagram\" aria-hidden=\"true\"></i>](https://www.instagram.com/wave.hamburg/), and present the results here."
     url: /outreach/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/Stream_Soccer.png
+  - image_path: assets/video/2024-08-10_Soccer_fast.gif
     alt: "Livestream"
     title: "Livestreams"
     excerpt: "View campus vibrations in realtime live on Twitch - now with an updated filtered waterfall diagram!"
     url: "https://www.twitch.tv/wave_hamburg"
-    btn_label: "<i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"
+    btn_label: "Twtich <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
   - image_path: /assets/images/2024_taylors_waves_spectrogram_annotated.png
     title: "Swiftquakes"
