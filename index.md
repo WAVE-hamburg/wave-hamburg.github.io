@@ -64,6 +64,8 @@ tags:
 
 {% include feature_row id="feature_row_outreach" %}
 
+<center>
+
 # Livestream
 
 Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram!
@@ -93,5 +95,7 @@ Experience real-time campus vibrations live on Twitch, now featuring our enhance
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg) or scan the QR code, or wait for the next livestream. 
 Upcoming dates are listed [here](/outreach/#livestreams).
+
+</center>
 
 {% include feature_row id="feature_row_team" type="right" %}
