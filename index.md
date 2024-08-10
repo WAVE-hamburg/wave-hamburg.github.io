@@ -11,7 +11,7 @@ header:
   actions:
     - label: "Learn more"
       url: /wave/
-    - label: "Activities
+    - label: "Activities"
       url: /posts/
     - label: <i class="fab fa-instagram" aria-hidden="true"></i>
       url: "https://www.instagram.com/wave.hamburg/"
