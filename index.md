@@ -24,12 +24,12 @@ feature_row_outreach:
     url: /outreach/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/video/Stream_Soccer.png
+  - image_path: assets/images/Stream_Soccer.png
     alt: "Livestream"
     title: "Livestreams"
-    excerpt: "View campus vibrations in realtime live on Twitch - now with an updated filtered waterfall diagram!"
+    excerpt: "Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram! Next dates are listed [here](/outreach/#livestreams)"
     url: "https://www.twitch.tv/wave_hamburg"
-    btn_label: "Twtich <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"
+    btn_label: "Twitch <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
   - image_path: /assets/images/2024_taylors_waves_spectrogram_annotated.png
     title: "Swiftquakes"
