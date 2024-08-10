@@ -17,7 +17,7 @@ excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigate
 intro: 
   - excerpt: 'A key element of WAVE is the use of modern seismic sensors, in particular distributed acoustic sensing (DAS). This technology uses fiber optic cables as sensitive seismic sensors. It enables ground motion data to be recorded at an unprecedented spatial density over long distances.'
 feature_row_outreach:
-  - image_path: assets/images/ScienceCityDay_nofaces.jpeg
+  - image_path: assets/images/Stream_Soccer.png
     alt: "Outreach"
     title: "Outreach"
     excerpt: "Concerts, soccer and visitors send vibrations through the research campus. We showcase these live on Twitch, explanations on [Instagram <i class=\"fab fa-instagram\" aria-hidden=\"true\"></i>](https://www.instagram.com/wave.hamburg/) and present [results]({{ site.url }}{{ site.baseurl }}/posts/)."
@@ -30,11 +30,11 @@ feature_row_outreach:
     url: "https://wave-hamburg.eu/tags/#taylorswift"
     btn_label: "Posts <i class=\"fa fa-file-text\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
-  - image_path: assets/images/Stream_Soccer.png
-    alt: "Soccer"
-    title: "Soccer"
-    excerpt: ""
-    url: "https://wave-hamburg.eu/outreach/#public-hearing-em24" 
+  - image_path: assets/images/ScienceCityDay_nofaces.jpeg
+    alt: "WAVE-field"
+    title: "Wave field"
+    excerpt: "In June 2024, we debuted a prototype of our WAVE Field—a playground designed for visitors of Science City Day to explore the WAVE seismic network."
+    url: "https://wave-hamburg.eu/outreach/#wave-field-and-science-city-day"
     btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row_science:
