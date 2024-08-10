@@ -47,7 +47,7 @@ tags:
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
 
-### Upcoming livestreams <i class="fab fa-twitch" aria-hidden="true"></i>
+### Upcoming
 
 | When | Type  | What | Where | Stream start | 
 | --- | --- | -------------| -----------------------| ----- | 
@@ -60,7 +60,7 @@ tags:
 </figure> 
 
 
-### Passed livestreams <i class="fab fa-twitch" aria-hidden="true"></i>
+### Passed
 
 | When | Type  | What | Where | Link | 
 | --- | --- | -------------| -----------------------| ----- | 
