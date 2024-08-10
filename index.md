@@ -20,16 +20,9 @@ feature_row_outreach:
   - image_path: assets/images/ScienceCityDay_nofaces.jpeg
     alt: "Outreach"
     title: "Outreach"
-    excerpt: "Concerts, soccer matches, and visitor activity send vibrations through the research campus. We showcase these live on Twitch, explanations on [Instagram <i class=\"fab fa-instagram\" aria-hidden=\"true\"></i>](https://www.instagram.com/wave.hamburg/), and present [results]({{ site.url }}{{ site.baseurl }}/posts/)."
+    excerpt: "Concerts, soccer and visitors send vibrations through the research campus. We showcase these live on Twitch, explanations on [Instagram <i class=\"fab fa-instagram\" aria-hidden=\"true\"></i>](https://www.instagram.com/wave.hamburg/) and present [results]({{ site.url }}{{ site.baseurl }}/posts/)."
     url: /outreach/
     btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: assets/images/Stream_Soccer.png
-    alt: "Livestream"
-    title: "Livestreams"
-    excerpt: "Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram! Next dates are listed [here](/outreach/#livestreams)."
-    url: "https://www.twitch.tv/wave_hamburg"
-    btn_label: "Twitch <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
   - image_path: /assets/images/2024_taylors_waves_spectrogram_annotated.png
     title: "Swiftquakes"
@@ -60,11 +53,15 @@ tags:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="feature_row_outreach" %}
-
 {% include feature_row id="feature_row_science" type="left" %}
 
 {% include feature_row id="feature_row_team" type="center" %}
+
+{% include feature_row id="feature_row_outreach" %}
+
+## Livestreams
+
+Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram! Next dates are listed [here](/outreach/#livestreams).
 
 <html>
   <body>
@@ -86,3 +83,5 @@ tags:
     </script>
   </body>
 </html>
+
+[Twitch <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"]("https://www.twitch.tv/wave_hamburg"){: .btn .btn--twitch}
