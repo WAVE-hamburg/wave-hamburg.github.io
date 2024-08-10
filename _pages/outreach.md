@@ -54,6 +54,9 @@ tags:
 * **04.09.2024** <i class="fa fa-music" aria-hidden="true"></i> *Justin Timberlake* in the Barclays arena (2 km away from campus)
 * **13.09.2024** <i class="fa fa-music" aria-hidden="true"></i> *Scorpions* Barclays arena (2 km away from campus)
 
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVEmap_annotations.png" alt="Maps annotation">
+</figure> 
 
 ### Waterfall? What am I looking at??
 
