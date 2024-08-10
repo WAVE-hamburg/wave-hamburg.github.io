@@ -26,9 +26,16 @@ feature_row_outreach:
     btn_class: "btn--primary"
   - image_path: /assets/images/2024_taylors_waves_spectrogram_annotated.png
     title: "Swiftquakes"
-    excerpt: "Have a look at our results, analysis, screenshots and animations from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024."
+    excerpt: "Have a look at our [results]({{ site.url }}{{ site.baseurl }}/posts/), screenshots and animations from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024."
     url: "https://wave-hamburg.eu/tags/#taylorswift"
     btn_label: "Posts <i class=\"fa fa-file-text\" aria-hidden=\"true\"></i>"
+    btn_class: "btn--primary"
+ - image_path: assets/images/Stream_Soccer.png
+    alt: "Soccer"
+    title: "Soccer"
+    excerpt: ""
+    url: "https://wave-hamburg.eu/outreach/#public-hearing-em24" 
+    btn_label: "Read more"
     btn_class: "btn--primary"
 feature_row_science:
   - image_path: /assets/images/iDAS.jpg
@@ -55,13 +62,13 @@ tags:
 
 {% include feature_row id="feature_row_science" type="left" %}
 
-{% include feature_row id="feature_row_team" type="center" %}
-
 {% include feature_row id="feature_row_outreach" %}
 
 ## Livestreams
 
-Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram! Next dates are listed [here](/outreach/#livestreams).
+Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram! 
+
+Next dates are listed [here](/outreach/#livestreams).
 
 <html>
   <body>
@@ -84,4 +91,7 @@ Experience real-time campus vibrations live on Twitch, now featuring our enhance
   </body>
 </html>
 
-[Twitch <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"]("https://www.twitch.tv/wave_hamburg"){: .btn .btn--twitch}
+[Twitch <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"]("https://www.twitch.tv/wave_hamburg"){: .btn .btn--primary}
+
+{% include feature_row id="feature_row_team" type="center" %}
+
