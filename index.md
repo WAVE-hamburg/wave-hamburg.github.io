@@ -24,7 +24,7 @@ feature_row_outreach:
     url: /outreach/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/video/2024-08-10_Soccer_fast.mp4
+  - image_path: assets/video/2024-08-10_Soccer_fast.gif
     alt: "Livestream"
     title: "Livestreams"
     excerpt: "View campus vibrations in realtime live on Twitch - now with an updated filtered waterfall diagram!"
