@@ -30,7 +30,7 @@ feature_row_outreach:
     url: "https://wave-hamburg.eu/tags/#taylorswift"
     btn_label: "Posts <i class=\"fa fa-file-text\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
- - image_path: assets/images/Stream_Soccer.png
+  - image_path: assets/images/Stream_Soccer.png
     alt: "Soccer"
     title: "Soccer"
     excerpt: ""
@@ -41,7 +41,7 @@ feature_row_science:
   - image_path: /assets/images/iDAS.jpg
     alt: "Scientists looking at the DAS system."
     title: "Science"
-    excerpt: 'The WAVE team is interdisciplinary and involved science projects from geophysics, seismology, physics - especially accelerator and gravitational wave physics, informatics and engineering. '    
+    excerpt: 'The WAVE team is interdisciplinary and involved science projects from geophysics, seismology, physics - especially accelerator and gravitational wave physics, informatics and engineering.'    
     url: /science/
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -66,7 +66,7 @@ tags:
 
 ## Livestreams
 
-Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram! 
+Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram!
 
 Next dates are listed [here](/outreach/#livestreams).
 
@@ -91,7 +91,6 @@ Next dates are listed [here](/outreach/#livestreams).
   </body>
 </html>
 
-[Twitch <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"]("https://www.twitch.tv/wave_hamburg"){: .btn .btn--primary}
+[Twitch <i class="fab fa-twitch" aria-hidden="true"></i>](https://www.twitch.tv/wave_hamburg){: .btn .btn--primary}
 
 {% include feature_row id="feature_row_team" type="center" %}
-
