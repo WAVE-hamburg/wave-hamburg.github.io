@@ -30,7 +30,7 @@ The current fiber track is shown in the following map in yellow and contains
 
 In the northeast, the fiber runs through the 'Max von Laue' experimental hall and briefly follows the circular path of PETRA there. Zoom in for more detail.
 
-<iframe width='1200px' height='500px' src="https://api.mapbox.com/styles/v1/hadzii/ckzrg6q3r00pe14l9dhyemxx7.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#10/53.5732/9.9245" title="WAVE-Hamburg" style="border:none;"></iframe>
+<iframe width='120%' height='500px' src="https://api.mapbox.com/styles/v1/hadzii/ckzrg6q3r00pe14l9dhyemxx7.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#10/53.5732/9.9245" title="WAVE-Hamburg" style="border:none;"></iframe>
 
 ## Georeferencing: Find the fiber!
 

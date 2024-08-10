@@ -11,7 +11,7 @@ header:
   actions:
     - label: "Learn more"
       url: /wave/
-    - label: "Activites"
+    - label: "Activities
       url: /posts/
     - label: <i class="fab fa-instagram" aria-hidden="true"></i>
       url: "https://www.instagram.com/wave.hamburg/"
@@ -40,6 +40,10 @@ feature_row:
     url: "/team/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+related: true
+tags:
+  - outreach
+  - news
 ---
 
 {% include feature_row id="intro" type="center" %}
