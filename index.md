@@ -11,7 +11,7 @@ header:
   actions:
     - label: "Learn more"
       url: /wave/
-    - label: "Activities <i class="fa fa-file-text" aria-hidden="true"></i>"
+    - label: "Activities <i class=\"fa fa-file-text\" aria-hidden=\"true\"></i>"
       url: /posts/
 excerpt: "The [WAVE initiative](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and large-scale research facilities."
 intro: 
@@ -20,7 +20,7 @@ feature_row_outreach:
   - image_path: assets/images/
     alt: "Outreach"
     title: "Outreach"
-    excerpt: "Concerts, soccer matches, and visitor activity send vibrations through the research campus. We showcase these live on Twitch, delve into explanations on [Instagram <i class="fab fa-instagram" aria-hidden="true"></i>](https://www.instagram.com/wave.hamburg/), and present the results here."
+    excerpt: "Concerts, soccer matches, and visitor activity send vibrations through the research campus. We showcase these live on Twitch, delve into explanations on [Instagram <i class=\"fab fa-instagram\" aria-hidden=\"true\"></i>](https://www.instagram.com/wave.hamburg/), and present the results here."
     url: /outreach/
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -29,13 +29,13 @@ feature_row_outreach:
     title: "Livestreams"
     excerpt: "View campus vibrations in realtime live on Twitch - now with an updated filtered waterfall diagram!"
     url: "https://www.twitch.tv/wave_hamburg"
-    btn_label: "<i class="fab fa-twitch" aria-hidden="true"></i>"
+    btn_label: "<i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
   - image_path: /assets/images/2024_taylors_waves_spectrogram_annotated.png
     title: "Swiftquakes"
     excerpt: "Have a look at our results, analysis and pictures from the Taylor Swift Concert in the Volksparkstadion in Hamburg 2024."
     url: "https://wave-hamburg.eu/tags/#taylorswift"
-    btn_label: "Posts <i class="fa fa-file-text" aria-hidden="true"></i>"
+    btn_label: "Posts <i class=\"fa fa-file-text\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
 feature_row_science:
   - image_path: /assets/images/iDAS.jpg
@@ -65,4 +65,3 @@ tags:
 {% include feature_row id="feature_row_science" type="left" %}
 
 {% include feature_row id="feature_row_team" type="center" %}
-
