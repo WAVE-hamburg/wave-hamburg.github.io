@@ -27,7 +27,7 @@ feature_row_outreach:
   - image_path: assets/images/Stream_Soccer.png
     alt: "Livestream"
     title: "Livestreams"
-    excerpt: "Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram! Next dates are listed [here](/outreach/#upcoming-livestreams-)."
+    excerpt: "Experience real-time campus vibrations live on Twitch, now featuring our enhanced filtered waterfall diagram! Next dates are listed [here](/outreach/#livestreams)."
     url: "https://www.twitch.tv/wave_hamburg"
     btn_label: "Twitch <i class=\"fab fa-twitch\" aria-hidden=\"true\"></i>"
     btn_class: "btn--primary"
