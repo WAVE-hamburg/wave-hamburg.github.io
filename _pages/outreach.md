@@ -1,6 +1,13 @@
 ---
 permalink: /outreach/
 title: Outreach
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/Smart_City.png
+  actions:
+    - label: "Twitch"
+      url: https://www.twitch.tv/wave_hamburg
 excerpt: "We are streaming WAVE data live. Follow us on Twitch."
 toc: true
 toc_label: "Page content"
@@ -9,9 +16,7 @@ toc_sticky: true
 read_time: false
 tags:
   - outreach
-layout: single-videoheader
 ---
-
 
 ## Livestreams 
 
@@ -27,11 +32,11 @@ layout: single-videoheader
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
     <script type="text/javascript">
       new Twitch.Embed("twitch-embed", {
-        width: 650,
+        width: 600,
         height: 365,
         channel: "wave_hamburg",
         // Only needed if this page is going to be embedded on other websites
-        parent: ["embed.example.com", "othersite.example.com"]
+        parent: ["wave-hamburg.eu""]
       });
     </script>
   </body>
