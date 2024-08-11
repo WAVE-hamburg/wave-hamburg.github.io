@@ -34,7 +34,6 @@ In the following figure an Overview of whole fiber track is hown, it shows a  Wa
 </figure> 
 
 <details>
-<summary>The arrows mark events that are described in the listing, numbered accordingly. </summary>
 
 1. HF stations in European XFEL will be switched off for access.
 2. HF stations in the European XFEL are switched on again after access.

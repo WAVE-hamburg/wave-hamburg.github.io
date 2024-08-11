@@ -78,7 +78,7 @@ Over the past time of livestreams we investigated different settings and visuali
 
 The WAVE fiber network spans 19 km and allows us to measure campus vibrations, or 'wiggles,' every 10 meters when events occur, visualized in a waterfall diagram. Our latest real-time viewer of the waterfall diagram is integrated into our Twitch livestream. The following clip was recorded during a soccer game on August 10, 2024, and captures signals from the Volksparkstadion arriving on campus as drums and crowd stomping echoed through the stadium.
 
-<iframe src="https://clips.twitch.tv/embed?clip=AwkwardIronicDinosaurBleedPurple-LF8cjTdah4hKfCY9&parent=wave-hamburg.eu" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="700">
+<iframe src="https://clips.twitch.tv/embed?clip=AwkwardIronicDinosaurBleedPurple-LF8cjTdah4hKfCY9&parent=wave-hamburg.eu" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="600">
 </iframe>
 
 
@@ -94,7 +94,11 @@ The entire image scrolls upward to represent the passage of time.
 
 You’ve probably felt the ground shake when a big truck passes by. It’s the same effect, just much weaker, and results from numerous trucks, cars, swaying trees, and other surface activities happening simultaneously.
 
-On the left of the video clip, you can see a geoplot where the fiber track is georeferenced onto the campus map, showing vibrations at specific geopositions. Each bubble represents a different frequency window: slow vibrations on the campus are depicted at low frequencies, such as 4 Hz, while faster vibrations, like those from acoustics or pumps, are shown at higher frequencies. The size of each bubble indicates the signal strength.
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Stream_Soccer.png" alt="Maps annotation">
+</figure> 
+
+On the left, you can see a geoplot where the fiber track is georeferenced onto the campus map, showing vibrations at specific geopositions. Each bubble represents a different frequency window: slow vibrations on the campus are depicted at low frequencies, such as 4 Hz, while faster vibrations, like those from acoustics or pumps, are shown at higher frequencies. The size of each bubble indicates the signal strength.
 
 ### Taylor Swift
 
