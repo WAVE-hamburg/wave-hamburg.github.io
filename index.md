@@ -60,7 +60,7 @@ tags:
 
 {% include feature_row id="intro" type="center" %}
 
-## Livestream
+# Livestream
 
 <html>
   <body>
@@ -84,7 +84,7 @@ tags:
 </html>
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left}
-Experience real-time campus vibrations live on Twitch! If you cannot see the embedded video go to our Twitch Channel, scan the QR code or check out our list of [planned livestreams](/outreach/#upcoming).
+Experience real-time campus vibrations live on Twitch! If you cannot see the embedded video go to our [Twitch <i class="fab fa-twitch" aria-hidden="true"></i>](https://www.twitch.tv/wave_hamburg) Channel, scan the QR code or check out our list of [planned livestreams](/outreach/#upcoming).
 
 [Twitch <i class="fab fa-twitch" aria-hidden="true"></i>](https://www.twitch.tv/wave_hamburg){: .btn .btn--primary} 
 

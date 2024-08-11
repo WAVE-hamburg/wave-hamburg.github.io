@@ -32,7 +32,7 @@ tags:
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left}
 Experience real-time campus vibrations live on Twitch! If you cannot see the embedded video go to our [Twitch Channel <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg), scan the QR code or check out our list of [planned livestreams](/outreach/#upcoming).
 
-[What do I see?](#what-am-i-looking-at){: .btn .btn--primary} 
+[What am I looking at?](#what-am-i-looking-at){: .btn .btn--primary .btn--large} 
 
 
 ### Upcoming {#upcoming}
@@ -55,15 +55,13 @@ Experience real-time campus vibrations live on Twitch! If you cannot see the emb
 
 ### What am I looking at?? {#what-am-i-looking-at}
 
-
-A map of the WAVE network and the event locations is shown in following figure.
+In the livestream, you can see the vibrations, or 'wiggles,' measured on the campus with the WAVE fiber network. The following map highlights the WAVE fiber in yellow, spanning 19 km across the campus. It measures campus vibrations every 10 meters whenever an event occurs. Three main locations are marked where events like soccer games or concerts take place. Even at a distance of 2 km, such as the Volksparkstadion, these events cause noticeable vibrations on the campus.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVEmap_annotations.png" alt="Maps annotation">
 </figure> 
 
-
-Over the past time of livestreams we investigated different settings and visualisations of the live streams. An overview of all livestream waterfall diagrams can be found [here]({{ site.url }}{{ site.baseurl }}/news/OverviewTwitchStreamsWaterfalls.md).
+Over the past we improved the visualisations of the live seismic data stream. An overview of all livestream waterfall diagrams can be found [here]({{ site.url }}{{ site.baseurl }}/news/OverviewTwitchStreamsWaterfalls.md).
 
 The WAVE fiber network spans 19 km and allows us to measure campus vibrations, or 'wiggles,' every 10 meters when events occur, visualized in a waterfall diagram. Our latest real-time viewer of the waterfall diagram is integrated into our Twitch livestream. The following clip was recorded during a soccer game on August 10, 2024, and captures signals from the Volksparkstadion arriving on campus as drums and crowd stomping echoed through the stadium.
 
