@@ -68,7 +68,6 @@ The WAVE fiber network spans 19 km and allows us to measure campus vibrations, o
 <iframe src="https://clips.twitch.tv/embed?clip=AwkwardIronicDinosaurBleedPurple-LF8cjTdah4hKfCY9&parent=wave-hamburg.eu" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="600">
 </iframe>
 
-
 Each vertical line in the image indicates how much a specific section of the fiber is vibrating. Yellow represents strong vibrations, while green/blue indicates quieter areas.
 
 Starting from the left, you can see the vibrations currently detected in DESY's PETRA tunnel. Since the tunnel is a few meters underground, vibrations from car traffic, wind, and other surface activities are minimal, resulting in mostly green/blue areas. The same is true for the XFEL tunnel, which also appears 'quiet' and green/blue.
