@@ -33,11 +33,6 @@ Screen sharing of the DAS software was used for our first livestream. It was for
 
 The downside of this visualization was that we could not filter the data. Since we expect vibrations mainly in the low-frequency range of about 5 Hz, this representation was unfortunately not well-suited for clearly displaying the vibrations, but it was all we had at the time, as live data filtering is not simple to implement. Nevertheless, listeners found it fascinating, asked many questions on Twitch, and the [Reddit post](https://www.reddit.com/r/hamburg/comments/1dw2xmr/vibrationen_vom_stadion_live_messung_vom_spiel/) generated a lot of discussion.
 
-<blockquote class="reddit-card" data-card-created="1622509651">
-  <a href="https://www.reddit.com/r/hamburg/comments/1dw2xmr/vibrationen_vom_stadion_live_messung_vom_spiel/">Vibrationen vom Stadion: Live Messung vom Spiel</a> from <a href="https://www.reddit.com/r/hamburg/">r/hamburg</a>
-</blockquote>
-<script async src="https://embed.redditmedia.com/widgets/platform.js" charset="UTF-8"></script>
-
 
 Why 5 Hz signals? Because these are the seismic waves that travel long distances through the ground to the campus.
 

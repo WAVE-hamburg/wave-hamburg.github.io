@@ -150,6 +150,8 @@ Before this football match, we already knew that we should able to pick up vibra
 
 We expected that the fans in the stadion will celebrate and jump around when a goal is scored. Indeed, we were able to pick up the football fans getting excited and jumping around during the penalty shooting. We will upload some images here soon!
 
+More information can be found on [Reddit](https://www.reddit.com/r/hamburg/comments/1dw2xmr/vibrationen_vom_stadion_live_messung_vom_spiel/).
+
 
 ## WAVE Field and Science City Day
 
