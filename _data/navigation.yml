@@ -19,7 +19,7 @@ sidebar-sample:
   - title: Content
     children:
     - title: "Home"
-      url: https://wave-hamburg-eu
+      url: https://wave-hamburg.eu
     - title: "WAVE"
       url: /wave/
     - title: "Science"
