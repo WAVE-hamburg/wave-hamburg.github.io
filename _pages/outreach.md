@@ -87,6 +87,9 @@ You’ve probably felt the ground shake when a big truck passes by. It’s the s
 
 On the left, you can see a geoplot where the fiber track is georeferenced onto the campus map, showing vibrations at specific geopositions. Each bubble represents a different frequency window: slow vibrations on the campus are depicted at low frequencies, such as 4 Hz, while faster vibrations, like those from acoustics or pumps, are shown at higher frequencies. The size of each bubble indicates the signal strength.
 
+
+## Selection of passed streams
+
 ### Taylor Swift
 
 With our WAVE glass fiber sensor network, we listen to vibrations underground with a thousand ears. On July 23rd and 24th 2024, Taylor Swift performed at the Volksparkstadion Hamburg, just 2 km from our experiment!
