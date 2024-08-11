@@ -21,7 +21,6 @@ tags:
 ## Livestreams 
 
 
-
 <html>
   <body>
     <!-- Add a placeholder for the Twitch embed -->
@@ -46,8 +45,14 @@ tags:
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg) or scan the QR code.
 
+A map of the WAVE network and the event locations is shown in following figure.
 
-### Upcoming
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVEmap_annotations.png" alt="Maps annotation">
+</figure> 
+
+
+### Upcoming Events {#upcoming}
 
 | When | Type  | What | Where | Stream start | 
 | --- | --- | -------------| -----------------------| ----- | 
@@ -55,39 +60,39 @@ tags:
 | **04.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Justin Timberlake* | Barclays arena | |
 | **13.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Scorpions* | Barclays arena  | |
 
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVEmap_annotations.png" alt="Maps annotation">
-</figure> 
 
-
-### Passed
+### Passed {#passed}
 
 | When | Type  | What | Where | Link | 
 | --- | --- | -------------| -----------------------| ----- | 
 | **10.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *Soccer*  | Volksparkstadion  |  |
-| **23.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [<i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift) |
-| **24.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [<i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift)  |
+| **23.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [posts <i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift) |
+| **24.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [posts <i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift)  |
 | **05.07.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *EM24 Portgual-Frankreich*  | Volksparkstadion  | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#public-hearing-em24) |
 
 
-### Waterfall? What am I looking at??
 
-Along our 16 km of glass fiber, we measure how much it vibrates, or 'wiggles', about every 10 meters. Each horizontal line in the image shows you how much that particular section of glass fiber is wiggling. Red means that there are strong vibrations, blue shows the bits where it's quieter.
+### What am I looking at?? {#what-am-i-looking-at}
 
-![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/20240705_WAVE_EM_Livestream.png)
-{: .image-right}
+Over the past time of livestreams we investigated different settings and visualisations of the live streams. An overview of all livestream waterfall diagrams can be found [here]({{ site.url }}{{ site.baseurl }}/news/OverviewTwitchStreamsWaterfalls.md).
+
+The WAVE fiber network spans 19 km and allows us to measure campus vibrations, or 'wiggles,' every 10 meters when events occur, visualized in a waterfall diagram. Our latest real-time viewer of the waterfall diagram is integrated into our Twitch livestream. The following clip was recorded during a soccer game on August 10, 2024, and captures signals from the Volksparkstadion arriving on campus as drums and crowd stomping echoed through the stadium.
+
+<iframe src="https://clips.twitch.tv/embed?clip=AwkwardIronicDinosaurBleedPurple-LF8cjTdah4hKfCY9&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="700"></iframe>
+
+Each vertical line in the image indicates how much a specific section of the fiber is vibrating. Yellow represents strong vibrations, while green indicates quieter areas.
+
+Starting from the left, you can see the vibrations currently detected in DESY's PETRA tunnel. Since the tunnel is a few meters underground, vibrations from car traffic, wind, and other surface activities are minimal, resulting in mostly green areas. The same is true for the XFEL tunnel, which also appears 'quiet' and green.
+
+As you move further to the right in the waterfall diagram, the fiber approaches the surface and roads on the DESY/Bahrenfeld campus. Here, car traffic, swaying trees, and urban activity create more vibrations, causing these sections of the fiber to show yellow.
+
+The entire image scrolls upward to represent the passage of time.
+
+**These are tiny vibrations!** Although you wouldn't feel them, our measurement device is extremely sensitive.
+
+You’ve probably felt the ground shake when a big truck passes by. It’s the same effect, just much weaker, and results from numerous trucks, cars, swaying trees, and other surface activities happening simultaneously.
 
 
-
-Starting from the top, you see how much vibrations are currently felt in DESY's PETRA tunnel. Since that tunnel is a few meters underground, there are not a lot of vibrations from car traffic, wind and such. So it's pretty blue. The same is true for the vibrations in the XFEL tunnel - also pretty 'quiet', and blue.
-
-Going further down in the image, we reach the part of the fiber that is near the surface, and roads, on the DESY/Bahrenfeld campus. The car traffic, trees swaying in the wind, and general urban activity all generate vibrations, so those sections of the glass fiber are wiggling more - and show up red!
-
-The whole picture is moving towards the left: that's time passing by. In a newer version of the live stream, we established a **waterfall diagram**, where time and location axes are swapped. In these plots the time is running from the top to the bottom. 
-
-**These are tiny vibrations!** You would not feel them, our measurement device is really sensitive.
-
-You've probably felt the ground vibrating when a big truck passes nearby? It's the same effect, just much weaker, and coming from lots of trucks and cars and swaying trees and other things happening at the surface at the same time.
 
 ### Taylor Swift
 

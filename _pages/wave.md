@@ -53,7 +53,7 @@ With this technique, we can produce the detailed [geoplots <i class="fa fa-file-
   <figcaption>Animation during the Earthquake from China.</figcaption>
 </figure> 
 
-On the right, a typical representation for DAS data ([waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#waterfall-what-am-i-looking-at)) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment.
+On the right, a typical representation for DAS data ([waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#what-am-i-looking-at)) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment.
 On the left, the evolution over time of the strain amplitudes (strain rate) recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel.
 
 During the [Science City Day]({{ site.url }}{{ site.baseurl }}/outreach/#wave-field-and-science-city-day) at Campus Bahrenfeld, we actually offered the game "Find the Fiber." We set up a playground with a few hundred meters of fiber hidden beneath rubber mats. Visitors had to locate the fiber by walking or jumping on the checkerboard pattern of mats. At that time in June 2024, we didn't have a geoplot available for this playground, so visitors learned how to read a [waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#waterfall-what-am-i-looking-at) instead.
