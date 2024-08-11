@@ -11,23 +11,7 @@ tags:
   - outreach
 ---
 
-<html>
-<body>
-  <!-- Header with Twitch Embed -->
-  <header>
-    <div class="header-video">
-      <iframe
-        src="https://player.twitch.tv/?channel={{ page.header.video.id | default: 'CHANNEL_NAME' }}&parent=wave-hamburg.eu"
-        height="400"
-        width="100%"
-        allowfullscreen="true"
-      ></iframe>
-    </div>
-    <!-- Other header content -->
-  </header>
-</body>
-</html>
-  
+
 ## Livestreams 
 
 
@@ -42,7 +26,7 @@ tags:
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
     <script type="text/javascript">
       new Twitch.Embed("twitch-embed", {
-        width: 800,
+        width: 650,
         height: 365,
         channel: "wave_hamburg",
         // Only needed if this page is going to be embedded on other websites
