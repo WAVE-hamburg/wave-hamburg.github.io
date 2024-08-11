@@ -26,12 +26,14 @@ In the following, we present a few results from the initial **Proof of Concept**
 
 ### Signals along the DAS fiber
 
-In the following figure an Overview of whole fiber track is hown, it shows a  Waterfall diagram of the records of all DAS sensors along the 12.6 km long fiber. The maximum amplitude of the time series at 20 s intervals is color-coded across the spatially distributed sensors and the 16 hour recording period. The arrows mark events that are described in the listing, numbered accordingly.
+In the following figure an Overview of whole fiber track is hown, it shows a  Waterfall diagram of the records of all DAS sensors along the 12.6 km long fiber. The maximum amplitude of the time series at 20 s intervals is color-coded across the spatially distributed sensors and the 16 hour recording period. 
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/summary_waterfall.png" alt="">
   <figcaption>Waterfall Diagram.</figcaption>
 </figure> 
+
+<details><summary>The arrows mark events that are described in the listing, numbered accordingly. </summary>
 
 1. HF stations in European XFEL will be switched off for access.
 2. HF stations in the European XFEL are switched on again after access.
@@ -42,6 +44,7 @@ In the following figure an Overview of whole fiber track is hown, it shows a  Wa
 7. Tunnel announcement ”Accelerator is switched on” (only in XTL).
 8. Start of morning activity on campus.
 9. Load switching operations on the power supply transformers on the DESY campus.
+</details>
 
 The following figure shows the spectra of all DAS channels along the XTL accelerator tunnel during the operation of EuXFEL. At first glance, many elements that may cause disturbances or noise can be identified by their characteristic frequencies. Some prominent elements are highlighted for illustration.
 

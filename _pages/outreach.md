@@ -70,6 +70,7 @@ A map of the WAVE network and the event locations is shown in following figure.
 | **23.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [posts <i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift) |
 | **24.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [posts <i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift)  |
 | **05.07.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *EM24 Portgual-Frankreich*  | Volksparkstadion  | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#public-hearing-em24) |
+
 </details>
 
 
