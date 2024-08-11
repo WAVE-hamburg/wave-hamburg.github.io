@@ -32,11 +32,11 @@ tags:
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
     <script type="text/javascript">
       new Twitch.Embed("twitch-embed", {
-        width: 600,
+        width: 1000,
         height: 365,
         channel: "wave_hamburg",
         // Only needed if this page is going to be embedded on other websites
-        parent: ["wave-hamburg.eu""]
+        parent: ["embed.example.com", "othersite.example.com"]
       });
     </script>
   </body>
