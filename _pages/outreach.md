@@ -92,7 +92,7 @@ The entire image scrolls upward to represent the passage of time.
 
 You’ve probably felt the ground shake when a big truck passes by. It’s the same effect, just much weaker, and results from numerous trucks, cars, swaying trees, and other surface activities happening simultaneously.
 
-
+On the left of the video clip, you can see a geoplot where the fiber track is georeferenced onto the campus map, showing vibrations at specific geopositions. Each bubble represents a different frequency window: slow vibrations on the campus are depicted at low frequencies, such as 4 Hz, while faster vibrations, like those from acoustics or pumps, are shown at higher frequencies. The size of each bubble indicates the signal strength.
 
 ### Taylor Swift
 
