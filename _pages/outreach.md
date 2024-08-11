@@ -2,12 +2,9 @@
 permalink: /outreach/
 title: Outreach
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/Smart_City.png
-  actions:
-    - label: "Twitch"
-      url: https://www.twitch.tv/wave_hamburg
+  video:
+    id: "wave_hamburg" # Replace with your Twitch channel name
+    provider: "twitch"
 excerpt: "We are streaming WAVE data live. Follow us on Twitch."
 toc: true
 toc_label: "Page content"
