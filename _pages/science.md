@@ -35,17 +35,18 @@ In the following figure an Overview of whole fiber track is hown, it shows a  Wa
 
 <details>
 
-1. HF stations in European XFEL will be switched off for access.
-2. HF stations in the European XFEL are switched on again after access.
-3. Hitting the XTD9 cable tray with a hammer to determine the position.
-4. Hammer hits in XTD2 against cable tray.
-5. Hammer hits in XTL on concrete floor.
-6. Tunnel announcement ”Interlock search”
-7. Tunnel announcement ”Accelerator is switched on” (only in XTL).
-8. Start of morning activity on campus.
-9. Load switching operations on the power supply transformers on the DESY campus.
+* 1. HF stations in European XFEL will be switched off for access.
+* 2. HF stations in the European XFEL are switched on again after access.
+* 3. Hitting the XTD9 cable tray with a hammer to determine the position.
+* 4. Hammer hits in XTD2 against cable tray.
+* 5. Hammer hits in XTL on concrete floor.
+* 6. Tunnel announcement ”Interlock search”
+* 7. Tunnel announcement ”Accelerator is switched on” (only in XTL).
+* 8. Start of morning activity on campus.
+* 9. Load switching operations on the power supply transformers on the DESY campus.
 
 </details>
+
 
 The following figure shows the spectra of all DAS channels along the XTL accelerator tunnel during the operation of EuXFEL. At first glance, many elements that may cause disturbances or noise can be identified by their characteristic frequencies. Some prominent elements are highlighted for illustration.
 
