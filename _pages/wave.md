@@ -14,29 +14,31 @@ read_time: false
 ---
 
 The [WAVE initiative <i class="fa fa-external-link" aria-hidden="true"></i>
-](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities.
+](https://indico.desy.de/event/28485/) investigates and designs a seismic and geo-acoustic measurement network in and around the Science City Hamburg Bahrenfeld. WAVE is a unique and innovative infrastructure for geophysics, physics and especially for large-scale research facilities.
 
-In a first step, the WAVE concept has already been tested under realistic conditions to demonstrate the feasibility and possibilities of such a network on site. To this end, the initiative carried out a proof-of-concept experiment on the DESY/UHH campus in Bahrenfeld in May 2021, using, among other things, a 12.6 km long, existing and continuous strand of currently unused telecommunications fiber as a series of seismic sensors. The wave field was recorded at high resolution, with 1 m intervals along the entire length of the fiber. In the following, we summarize the development of this measurement campaign, and present a selection of initial observations. 
+## How it started
+
+In a first step, the WAVE concept has already been tested under realistic conditions to demonstrate the feasibility and possibilities of such a network on site. To this end, the initiative carried out a proof-of-concept experiment on the DESY/UHH campus in Bahrenfeld in May 2021, using, among other things, a 12.6 km long, existing and continuous strand of currently unused telecommunications fiber as a series of seismic sensors. The wave field was recorded at high resolution, with 1 m intervals along the entire length of the fiber. 
 
 Since then, we have expanded the network to currently 19 km of fiber, organized several [outreach]({{ "/outreach" | relative_url }}) and [Livestreams]({{ "/outreach/#livestreams" | relative_url }}) of the data, including during a [Taylor Swift Concert]({{ "/outreach/#taylor-swift" | relative_url }}). We hold regular Workshops and other events, and of course we also use the data for a range of interdisciplinary [scientific analysis]({{ "/science/#results" | relative_url }})!
 
 ## Map of the DAS-fiber track
 
-In 2021 we started with a 12.6 km fiber test track and performed the proof-of-concept experiment. Now, we established a 19 km fiber paths providing us 19000 distributed seismic sensors on the Campus, reading out with a single DAS interrogator. 
-The current fiber track is shown in the following map in yellow and contains
-* 2 times 3.4 km EuXFEL tunnel some meters below the surface
-* 1 times the PETRA ring, where the fiber goes partly through buildings, in tunnels and on cable trays
-* one Campus loop 
-
-In the northeast, the fiber runs through the 'Max von Laue' experimental hall and briefly follows the circular path of PETRA there. Zoom in for more detail.
+The 19 km fiber paths provide us 19000 distributed seismic sensors on the Campus, read out with a single DAS interrogator. 
+The current fiber track is shown in the following map in yellow. Zoom in for more detail. 
 
 <iframe width='120%' height='500px' src="https://api.mapbox.com/styles/v1/hadzii/ckzrg6q3r00pe14l9dhyemxx7.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#10/53.5732/9.9245" title="WAVE-Hamburg" style="border:none;"></iframe>
+
+* In the West-North is a long yellow line which represents the fiber running through the 3.4 km EuXFEL tunnel a few meters below the surface. The fiber is laid in both directions.
+* The central ring traces the PETRA ring, where the fiber partially runs through buildings, inside tunnels, and along cable trays.
+* One campus loop includes the Max von Laue Hall, where the fiber runs also through the PETRA ring buildings and other buildings or cable trays under the surface all over the campus.
+
 
 ## Georeferencing: Find the fiber!
 
 Our approach involves using existing dark telecommunication fibers on campus, rather than laying new ones. This means we are working with unknown fiber paths and simply connecting the ends to form a continuous loop. The challenge lies in determining the exact geographical positions of these fibers, as their routes are not pre-determined or mapped. Additionally, some fibers may be coiled or have unexpected paths, adding to the complexity.
 
-To address this, we use a method that involves striking the ground with a hammer to create vibrations. These vibrations are detected by our system, which works in combination with a GPS positioning system. By exciting the ground at specific GPS locations and times, we can identify these events in the data and pinpoint where the fibers are located. 
+To address this, we use a method that involves striking the ground with a hammer to create vibrations, which works in combination with a GPS positioning system. By exciting the ground at specific GPS locations and times, we can identify these events in the DAS data and pinpoint where the fibers are located. 
 
 <figure class="half">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/iDAS.jpg" alt="DAS Interrogator">
@@ -44,7 +46,7 @@ To address this, we use a method that involves striking the ground with a hammer
   <figcaption>DAS interrogator and fiber georeferencing.</figcaption>
 </figure>
 
-With this technique, we can produce the detailed [geoplots <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/#geoplots) featured in our outreach materials and [blog <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/). The following animation shows a geoplot, where seismic waves from an Earthquake in China propagating along the EuXFEL tunnel. 
+With this technique, we can produce the detailed [geoplots <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/#geoplots) featured in our outreach materials and the [blog <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/). The following animation shows a geoplot, where seismic waves from an Earthquake in China propagating along the EuXFEL tunnel. 
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" alt="">
@@ -66,7 +68,7 @@ More scientific results and experiments with the WAVE network are [here]({{ site
 
 ## Other seismic sensors
 
-In addition to seismic sensors, we also have other seismic sensors on campus from the various institutions whose data we can access. These include broadband seismometers with high sensitivity, even over long measurement periods, and geophones, which are more capable of measuring signals in the high-frequency range.  
+In addition to distributed acoustic sensing (DAS), we also have other seismic sensors on campus from the various institutions whose data we can access. These include broadband seismometers with high sensitivity, even over long measurement periods, and geophones, which are more capable of measuring signals in the high-frequency range. These sensors measure seismic *displacements* rather than the seismic *strain* captured by the DAS system and they are *point sensors*, requiring individual placement at specific positions to monitor seismic signals. Each measurement point needs one seismometer, making it impractical to create dense sensor networks over large spatial areas. In contrast, the DAS system provides 19,000 sensors over multiple kilometers with 1 meter resolution.
 
 ## Where is WAVE headed?
 
