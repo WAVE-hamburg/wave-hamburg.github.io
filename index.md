@@ -60,7 +60,7 @@ tags:
 
 {% include feature_row id="intro" type="center" %}
 
-# Livestream
+## Livestream
 
 <html>
   <body>
@@ -87,8 +87,6 @@ tags:
 Experience real-time campus vibrations live on Twitch! If you cannot see the embedded video go to our Twitch Channel, scan the QR code or check out our list of [planned livestreams](/outreach/#upcoming).
 
 [Twitch <i class="fab fa-twitch" aria-hidden="true"></i>](https://www.twitch.tv/wave_hamburg){: .btn .btn--primary} 
-
-## 
 
 {% include feature_row id="feature_row_outreach" %}
 

@@ -29,19 +29,13 @@ tags:
 </iframe>
 
 
+![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left}
+Experience real-time campus vibrations live on Twitch! If you cannot see the embedded video go to our [Twitch Channel <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg), scan the QR code or check out our list of [planned livestreams](/outreach/#upcoming).
 
-![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg) or scan the QR code.
-
-A map of the WAVE network and the event locations is shown in following figure.
-
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVEmap_annotations.png" alt="Maps annotation">
-</figure> 
+[What do I see?](#what-am-i-looking-at){: .btn .btn--primary} 
 
 
 ### Upcoming {#upcoming}
-
-
 
 | When | Type  | What | Where | Stream start | 
 | --- | --- | -------------| -----------------------| ----- | 
@@ -60,6 +54,14 @@ A map of the WAVE network and the event locations is shown in following figure.
 
 
 ### What am I looking at?? {#what-am-i-looking-at}
+
+
+A map of the WAVE network and the event locations is shown in following figure.
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVEmap_annotations.png" alt="Maps annotation">
+</figure> 
+
 
 Over the past time of livestreams we investigated different settings and visualisations of the live streams. An overview of all livestream waterfall diagrams can be found [here]({{ site.url }}{{ site.baseurl }}/news/OverviewTwitchStreamsWaterfalls.md).
 
@@ -88,7 +90,7 @@ You’ve probably felt the ground shake when a big truck passes by. It’s the s
 On the left, you can see a geoplot where the fiber track is georeferenced onto the campus map, showing vibrations at specific geopositions. Each bubble represents a different frequency window: slow vibrations on the campus are depicted at low frequencies, such as 4 Hz, while faster vibrations, like those from acoustics or pumps, are shown at higher frequencies. The size of each bubble indicates the signal strength.
 
 
-## Selection of passed streams
+## Highlights from previous Streams
 
 ### Taylor Swift
 
