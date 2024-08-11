@@ -32,7 +32,7 @@ tags:
     <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
     <script type="text/javascript">
       new Twitch.Embed("twitch-embed", {
-        width: 1000,
+        width: 650,
         height: 365,
         channel: "wave_hamburg",
         // Only needed if this page is going to be embedded on other websites
@@ -41,6 +41,13 @@ tags:
     </script>
   </body>
 </html>
+
+<iframe
+    src="https://player.twitch.tv/?wave_hamburg&parent=wave-hamburg.eu"
+    height="100%"
+    width="100%"
+    allowfullscreen>
+</iframe>
 
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left} If you cannot see the embedded video, try going [here <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg) or scan the QR code.
