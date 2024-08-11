@@ -1,10 +1,6 @@
 ---
 permalink: /outreach/
 title: Outreach
-header:
-  video:
-    id: "wave_hamburg" # Replace with your Twitch channel name
-    provider: "twitch"
 excerpt: "We are streaming WAVE data live. Follow us on Twitch."
 toc: true
 toc_label: "Page content"
