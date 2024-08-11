@@ -44,8 +44,7 @@ tags:
 
 <iframe
     src="https://player.twitch.tv/?wave_hamburg&parent=wave-hamburg.eu"
-    height="100%"
-    width="100%"
+    width="650px"
     allowfullscreen>
 </iframe>
 
