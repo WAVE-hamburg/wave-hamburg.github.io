@@ -171,7 +171,7 @@ feature_row5:
       <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a>, <a href="https://celine.hadzii.com">Website</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a><br>
       <strong>Interests:</strong> Celine explores seismic signals recorded in the absence of earthquakes, considering these usually discarded "noise" signals as valuable sources of information.<br>
-      <strong>Collaborations:</strong> <a href="https://spin-itn.eu/">SPIN</a>
+      <strong>Collaborations:</strong> <a href="https://spin-itn.eu/">SPIN ITN</a> "Monitoring a Restless Earth", <a href="https://www.et-gw.eu/">Einstein Telescope</a>, ErUM-WAVE
     </p>
   </div>
 
@@ -276,6 +276,21 @@ feature_row5:
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0; font-size: 18pt;"><strong>Dr. Markus Hoffmann</strong></p>
+    <p style="margin: 0;">
+      <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>
+    </p>
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+
+  <!-- Rundes Bild -->
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Erik Genthe" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
+
+  <!-- Aufzählungstext -->
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt;"><strong>Erik Genthe</strong></p>
     <p style="margin: 0;">
       <strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a>
     </p>
