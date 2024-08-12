@@ -29,7 +29,7 @@ The lower graph reveals vertical lines corresponding to coherent seismic wavefro
 
 
 <figure class="align-center">
-  <video muted autoplay loop style="width: 100%; height: auto;" controls>
+  <video muted autoplay loop style="width: 85%; height: auto;" controls>
     <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mp4" type="video/mp4">
   </video>
   <figcaption>Animation during the earthquake in China.</figcaption>

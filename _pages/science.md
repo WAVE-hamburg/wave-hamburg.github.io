@@ -68,10 +68,15 @@ While the first car crosses paths with a slower road user traveling in the oppos
 
 The following  animation shows a car driving along the same section of fiber depicted in the figure on the left. The high amplitudes in the DAS recordings, indicated by yellow color, follow the location of the car.
 
+
+
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_car_map.mp4" alt="">
+  <video muted autoplay loop style="width: 85%; height: auto;" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_car_map.mp4" type="video/mp4">
+  </video>
   <figcaption>Car animation.</figcaption>
-</figure> 
+</figure>
+
 
 ### Earthquake signals
 
@@ -89,10 +94,14 @@ In the lower plot, many DAS data traces are plotted below each other. The blue l
 
 
 
+
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" alt="">
+  <video muted autoplay loop style="width: 85%; height: auto;" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" type="video/mov">
+  </video>
   <figcaption>Animation during the Earthquake from China.</figcaption>
-</figure> 
+</figure>
+
 
 On the left, the evolution of the strain amplitudes (strain rate) recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel. Although the length of the waves greatly exceeds that of the tunnel, the spatial shaping of the wave crests and troughs is clearly visible as they propagate from East to West.
 
@@ -100,10 +109,13 @@ On the left, the evolution of the strain amplitudes (strain rate) recorded at al
 
 The following animation focuses on the **2023 Turkey-Syria earthquake**, a devastating event with a magnitude of 7.5 that occurred on February 6, 2023. This recording captures the seismic activity along the EuXFEL tunnel.
 
+
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_EQ_turkey.mp4" alt="">
+  <video muted autoplay loop style="width: 85%; height: auto;" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_EQ_turkey.mp4" type="video/mp4">
+  </video>
   <figcaption>Animation during the Earthquake from Turkey.</figcaption>
-</figure> 
+</figure>
 
 On the right, a typical representation for DAS data is shown using a waterfall diagram, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). In this diagram, dark blue indicates compression, while light yellow indicates elongation of a fiber segment, as illustrated on the waveform on the far right.
 

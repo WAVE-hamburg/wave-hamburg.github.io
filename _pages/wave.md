@@ -27,7 +27,7 @@ Since then, we have expanded the network to currently 19 km of fiber, organized 
 The 19 km fiber paths provide us 19000 distributed seismic sensors on the Campus, read out with a single DAS interrogator. 
 The current fiber track is shown in the following map in yellow. Zoom in for more detail. 
 
-<iframe width='120%' height='500px' src="https://api.mapbox.com/styles/v1/hadzii/ckzrg6q3r00pe14l9dhyemxx7.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#10/53.5732/9.9245" title="WAVE-Hamburg" style="border:none;"></iframe>
+<iframe width='100%' height='500px' src="https://api.mapbox.com/styles/v1/hadzii/ckzrg6q3r00pe14l9dhyemxx7.html?title=false&access_token=pk.eyJ1IjoiaGFkemlpIiwiYSI6ImNrdmF0cW92dTNibnQyb2xwM2c2Mzd6czgifQ.oLTcVRE0U4q1GuobdEevIQ&zoomwheel=false#10/53.5732/9.9245" title="WAVE-Hamburg" style="border:none;"></iframe>
 
 * In the West-North is a long yellow line which represents the fiber running through the 3.4 km EuXFEL tunnel a few meters below the surface. The fiber is laid in both directions.
 * The central ring traces the PETRA ring, where the fiber partially runs through buildings, inside tunnels, and along cable trays.
@@ -49,9 +49,11 @@ To address this, we use a method that involves striking the ground with a hammer
 With this technique, we can produce the detailed [geoplots <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/#geoplots) featured in our outreach materials and the [blog <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/). The following animation shows a geoplot, where seismic waves from an Earthquake in China propagating along the EuXFEL tunnel. 
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" alt="">
+  <video muted autoplay loop style="width: 85%; height: auto;" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" type="video/mov">
+  </video>
   <figcaption>Animation during the Earthquake from China.</figcaption>
-</figure> 
+</figure>
 
 On the right, a typical representation for DAS data ([waterfall diagram]({{ site.url }}{{ site.baseurl }}/outreach/#what-am-i-looking-at)) is shown, which color-codes the time series of strain amplitude (y-axis) for each fiber sensor (channel, x-axis). Here, the dark blue color represents compression and light yellow represents elongation of a fiber segment.
 On the left, the evolution over time of the strain amplitudes (strain rate) recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel.
