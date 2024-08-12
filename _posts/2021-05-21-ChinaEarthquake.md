@@ -30,9 +30,12 @@ The lower graph reveals vertical lines corresponding to coherent seismic wavefro
 
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" alt="">
-  <figcaption>Animation during the Earthquake from China.</figcaption>
+<video width="480" height="320" controls="controls">
+  <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" type="video/mov">
+</video>
+    <figcaption>Animation during the Earthquake from China.</figcaption>
 </figure> 
+
 
 The animation showcases earthquake waves propagating along the EuXFEL tunnel, triggered by the strong earthquake in China. On the right side, a waterfall diagram typical for DAS data displays the time series of strain amplitude for each fiber sensor, with dark blue indicating compression and light yellow showing elongation.
 On the left, the evolution over time of the strain amplitudes recorded at all DAS sensors is projected onto the fiber track along the EuXFEL tunnel. Despite the wave length greatly exceeding the tunnel’s length, the spatial formation of wave crests and troughs is clearly visible as they propagate from East to West.
