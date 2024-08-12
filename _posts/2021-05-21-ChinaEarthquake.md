@@ -29,7 +29,7 @@ The lower graph reveals vertical lines corresponding to coherent seismic wavefro
 
 
 
-<video width="650" height="320" controls="controls">
+<video muted autoplay loop width="650" height="320">
   <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" type="video/mov">
 </video>
 
