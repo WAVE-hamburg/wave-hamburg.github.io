@@ -28,10 +28,13 @@ In the composite image, you can see many DAS data traces plotted vertically. The
 The lower graph reveals vertical lines corresponding to coherent seismic wavefronts, alongside spatial variations in the measured oscillation amplitudes that could indicate inhomogeneous subsurface structures. This illustrates the superior temporal and spatial resolution of DAS measurements.
 
 
+<figure class="align-center">
+  <video muted autoplay loop style="width: 100%; height: auto;" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mp4" type="video/mp4">
+  </video>
+  <figcaption>Animation during the earthquake in China.</figcaption>
+</figure>
 
-<video muted autoplay loop width="650" height="320">
-  <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mov" type="video/mov">
-</video>
 
 
 

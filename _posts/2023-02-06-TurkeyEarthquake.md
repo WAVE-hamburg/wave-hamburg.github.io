@@ -13,11 +13,12 @@ header:
 In February 2023, we participated in a global measurement campaign where all Distributed Acoustic Sensing (DAS) systems worldwide were invited to conduct a joint measurement throughout the entire month. Tragically, right at the start on February 6, 2023, a devastating earthquake occurred in Turkey. This event also  impacted the European XFEL tunnel, causing compression and stretching. The signals were prominently visible in the control system of the EuXFEL accelerator. In the following animation, we have graphically displayed the signals measured in the DAS fiber for you:
 
 <figure class="align-center">
-<video muted autoplay loop width="100%" height="320">
-  <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_eq_map.mp4" type="video/mp4">
-</video>
-  <figcaption>Animation during the Earthquake from Turkey.</figcaption>
-</figure> 
+  <video muted autoplay loop style="width: 100%; height: auto;" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/anim_EQ_turkey.mp4" type="video/mp4">
+  </video>
+  <figcaption>Animation during the earthquake in Turkey.</figcaption>
+</figure>
+
 
 
 
