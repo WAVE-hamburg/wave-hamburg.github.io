@@ -23,9 +23,11 @@ At 20:58 the HSV supporters could be seen jumping on the TV signal. Also in our 
 
 <figure class="align-center">
   <video muted autoplay loop style="width: 85%; height: auto;" controls>
-    <source src="https://clips.twitch.tv/embed?clip=AwkwardIronicDinosaurBleedPurple-LF8cjTdah4hKfCY9&parent=www.example.com"
+    <source src="https://www.youtube.com/embed/soo3njkgapo?si=WrI1zpNSkGMMf_AR"
   </video>
 </figure>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/soo3njkgapo?si=WrI1zpNSkGMMf_AR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 A spectrogram of the measured vibrations during 5 hours around the match between 19 h and 0 h clearly shows the signature of the match starting at 20:30 h. Even the people arriving at the stadium before the match and leaving it afterwards seem to be visible. However, the strongest signals seem to be caused by the drums of the supporters and synchronized jumping during the match.
