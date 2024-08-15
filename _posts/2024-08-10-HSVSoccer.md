@@ -1,5 +1,6 @@
 ---
 title: "How the HSV supporters make the ground shake"
+permalink: /2024_HSV-Hertha/
 categories:
   - news
   - results
