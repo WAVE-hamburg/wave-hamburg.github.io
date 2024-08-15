@@ -20,7 +20,7 @@ During the first home match of Hamburger SV of the new season against Hertha BSC
 
 At 20:58 the HSV supporters could be seen jumping on the TV signal. Also in our fiber optic network, a strong signal was visible at that time.
 
-<div style="position: relative; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+<div style="position: relative; padding-bottom: 1.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
     <iframe src="https://www.youtube.com/embed/soo3njkgapo?si=WrI1zpNSkGMMf_AR" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
