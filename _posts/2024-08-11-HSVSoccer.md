@@ -20,7 +20,14 @@ During the first home match of Hamburger SV of the new season against Hertha BSC
 
 At 20:58 the HSV supporters could be seen jumping on the TV signal. Also in our fiber optic network, a strong signal was visible at that time.
 
-<iframe src="https://clips.twitch.tv/embed?clip=AwkwardIronicDinosaurBleedPurple-LF8cjTdah4hKfCY9&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe
+    src="https://clips.twitch.tv/embed?clip=AwkwardIronicDinosaurBleedPurple-LF8cjTdah4hKfCY9&parent=www.example.com"
+    width="650"
+    height="365"
+    allowfullscreen
+    frameborder="0">
+</iframe>
+
 
 A spectrogram of the measured vibrations during 5 hours around the match between 19 h and 0 h clearly shows the signature of the match starting at 20:30 h. Even the people arriving at the stadium before the match and leaving it afterwards seem to be visible. However, the strongest signals seem to be caused by the drums of the supporters and synchronized jumping during the match.
 
