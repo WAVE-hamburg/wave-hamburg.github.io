@@ -1,4 +1,17 @@
-## How the HSV supporters make the ground shake
+---
+title: "How the HSV supporters make the ground shake
+categories:
+  - news
+  - results
+tags:
+  - livestream
+  - soccer
+last_modified_at: 2024-08-12T23:25:52-05:00
+header:
+  teaser: /assets/images/HSVHertha_fw60_3100-3200_5h.png
+gallery:
+---
+
 
 During the first home match of Hamburger SV of the new season against Hertha BSC on August 10, our WAVE fiber optic network was also listening live in DESY's PETRA ring close to Volksparkstadion. At 20:42, HSV scored a goal and the vibrations caused by the cheering supporters were clearly visible in the livestream.
 
