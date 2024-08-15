@@ -1,15 +1,13 @@
 ---
-title: "How the HSV supporters make the ground shake
+title: "How the HSV supporters make the ground shake"
 categories:
   - news
   - results
 tags:
   - livestream
   - soccer
-last_modified_at: 2024-08-12T23:25:52-05:00
 header:
   teaser: /assets/images/HSVHertha_fw60_3100-3200_5h.png
-gallery:
 ---
 
 
