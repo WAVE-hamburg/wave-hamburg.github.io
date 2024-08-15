@@ -1,5 +1,6 @@
 ---
 title: "History of Waterfall diagrams in the Livestream on Twitch"
+permalink: /livestream_waterfalls/
 categories:
   - news
 tags:
