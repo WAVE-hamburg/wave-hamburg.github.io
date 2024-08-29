@@ -18,7 +18,7 @@ tags:
   - outreach
 ---
 
-## Livestreams 
+## Livestreams
 
 <iframe
     src="https://player.twitch.tv/?channel=wave_hamburg&parent=wave-hamburg.eu"
@@ -32,13 +32,13 @@ tags:
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/Campusday_twitch_QR Kopie.png){: .align-left}
 Experience real-time campus vibrations live on Twitch! If you cannot see the embedded video go to our [Twitch Channel <i class="fab fa-twitch" aria-hidden="true"></i>](https://m.twitch.tv/wave_hamburg), scan the QR code or check out our list of [planned livestreams](/outreach/#upcoming).
 
-[What am I looking at?](#what-am-i-looking-at){: .btn .btn--primary .btn--large} 
+[What am I looking at?](#what-am-i-looking-at){: .btn .btn--primary .btn--large}
 
 
 ### Upcoming {#upcoming}
 
-| When | Type  | What | Where | Stream start | 
-| --- | --- | -------------| -----------------------| ----- | 
+| When | Type  | What | Where | Stream start |
+| --- | --- | -------------| -----------------------| ----- |
 | **30.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Deichkind*  | Trabrennbahn | |
 | **31.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Münster*  | Volksparkstadion | 13:00 |
 | **04.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Justin Timberlake* | Barclays arena | |
@@ -46,8 +46,10 @@ Experience real-time campus vibrations live on Twitch! If you cannot see the emb
 
 ### Passed
 
-| When | Type  | What | Where | Link | 
-| --- | --- | -------------| -----------------------| ----- | 
+| When | Type  | What | Where | Link |
+| --- | --- | -------------| -----------------------| ----- |
+| **22.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Robbie Williams*  | Trabrennbahn | 17:30 |
+| **23.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Robbie Williams*  | Trabrennbahn | 17:30 |
 | **10.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Hertha*  | Volksparkstadion  |  [post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/2024_HSV-Hertha/) |
 | **23.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [posts <i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift) |
 | **24.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [posts <i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift)  |
@@ -60,7 +62,7 @@ In the livestream, you can see the vibrations, or 'wiggles,' measured on the cam
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/WAVEmap_annotations.png" alt="Maps annotation">
-</figure> 
+</figure>
 
 Over the past we improved the visualisations of the live seismic data stream. An overview of all livestream waterfall diagrams can be found [here]({{ site.url }}{{ site.baseurl }}/livestream_waterfalls/).
 Our latest real-time viewer of the waterfall diagram is integrated into our Twitch livestream. The following clip was recorded during a soccer game on August 10, 2024, and captures signals from the Volksparkstadion arriving on campus as drums and crowd stomping echoed through the stadium.
@@ -82,7 +84,7 @@ You’ve probably felt the ground shake when a big truck passes by. It’s the s
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Stream_Soccer.png" alt="Maps annotation">
-</figure> 
+</figure>
 
 On the left, you can see a geoplot where the fiber track is georeferenced onto the campus map, showing vibrations at specific geopositions. Each bubble represents a different frequency window: slow vibrations on the campus are depicted at low frequencies, such as 4 Hz, while faster vibrations, like those from acoustics or pumps, are shown at higher frequencies. The size of each bubble indicates the signal strength.
 
@@ -109,8 +111,8 @@ We already knew that we should able to pick up vibrations of concerts happening 
 
 #### Spectrogram
 
-From the waterfall plot, shown on the left in the Livestream, we calculated a 
-[spectrogram <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/results/TaylorSwiftResults1/) of the Taylor Swift concert, with some songs annotated. 
+From the waterfall plot, shown on the left in the Livestream, we calculated a
+[spectrogram <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/results/TaylorSwiftResults1/) of the Taylor Swift concert, with some songs annotated.
 
 ![Screenshot]({{ site.url }}{{ site.baseurl }}/assets/images/2024_taylors_waves_spectrogram_annotated.png)
 
@@ -123,7 +125,7 @@ On the right in the Livestream we showed for the first time DAS data on a map al
 <iframe width="560" height="315" src="https://www.youtube.com/embed/norXqxITPoc?si=xr4ncOx6BKgFqiPT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The ‘rainbow blobs’ show the strength of the arriving signals along the fiber but filtered for different frequency bands. So the wider a specific colour band is, the stronger are the waves vibrating in that range. They also help understand from what direction the signal is coming and help us observe along what path the waves are traveling.
-This is what we measured during the entire concert with a ring of optical fiber around the PETRA III accelerator ring of DESY, sped up 100 times. 
+This is what we measured during the entire concert with a ring of optical fiber around the PETRA III accelerator ring of DESY, sped up 100 times.
 
 #### *Shake it Off* - along the EuXFEL
 
@@ -137,7 +139,7 @@ You see that the [seismic waves from Love Story and Shake it Off <i class="fa fa
 For more results of the Taylor Swift concert and some explanations, check also our [blog <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/#taylorswift)!
 
 
-### Public hearing EM24 
+### Public hearing EM24
 
 Can We Hear the Goals from the Euros Underground?
 With our WAVE fiber-optic network, we listen to underground vibrations with a thousand ears. On July 5th, 2024, during the quarter-finals between France and Portugal at the Volksparkstadion Hamburg—just 2 km from our experiment—we livestreamed our vibration measurements throughout the match. When goals were scored, the celebrations created vibrations that we could detect! This was an exciting opportunity to test the sensitivity of our setup and see if we could capture these vibrations within the fiber network.
@@ -156,10 +158,10 @@ More information can be found on [Reddit](https://www.reddit.com/r/hamburg/comme
 
 ## WAVE Field and Science City Day
 
-On Saturday, June 1, 2024, from 11:00 AM to 7:00 PM, the WAVE team participated in Science City Day at the DESY campus. Visitors explored the fascinating world of our fiber-optic seismic network, discovering where the fiber was buried and learning how it works. Attendees had the chance to generate their own seismic waves and find out what happens when you jump around on a bouncy castle. It was a day filled with hands-on fun and learning! 
+On Saturday, June 1, 2024, from 11:00 AM to 7:00 PM, the WAVE team participated in Science City Day at the DESY campus. Visitors explored the fascinating world of our fiber-optic seismic network, discovering where the fiber was buried and learning how it works. Attendees had the chance to generate their own seismic waves and find out what happens when you jump around on a bouncy castle. It was a day filled with hands-on fun and learning!
 
 
-For more details about the event, click [here <i class="fa fa-external-link" aria-hidden="true"></i>]( https://www.sciencecityday.de/programm/wave-field-huepfburg/) or have a look to our [blog post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}/news/ScienceCityDay/). 
+For more details about the event, click [here <i class="fa fa-external-link" aria-hidden="true"></i>]( https://www.sciencecityday.de/programm/wave-field-huepfburg/) or have a look to our [blog post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}/news/ScienceCityDay/).
 
 ![Science City Day]({{ site.url }}{{ site.baseurl }}/assets/images/SCHWebHeader.jpg)
 {: .image-right}
