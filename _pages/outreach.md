@@ -48,8 +48,8 @@ Experience real-time campus vibrations live on Twitch! If you cannot see the emb
 
 | When | Type  | What | Where | Link |
 | --- | --- | -------------| -----------------------| ----- |
-| **22.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Robbie Williams*  | Trabrennbahn | 17:30 |
 | **23.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Robbie Williams*  | Trabrennbahn | 17:30 |
+| **22.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Robbie Williams*  | Trabrennbahn | 17:30 |
 | **10.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Hertha*  | Volksparkstadion  |  [post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/2024_HSV-Hertha/) |
 | **23.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [posts <i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift) |
 | **24.07.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Taylor Swift*  | Volksparkstadion | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#taylor-swift); [posts <i class="fa fa-file-text" aria-hidden="true"></i>](https://wave-hamburg.eu/tags/#taylorswift)  |
