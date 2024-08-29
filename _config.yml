@@ -93,6 +93,8 @@ twitch:
   username               : wave_hamburg
 instagram:
   username               : wave.hamburg
+youtube:
+  username               : wave.hamburg
 facebook:
   username               :
   app_id                 :
@@ -106,6 +108,7 @@ social:
   links: # An array of links to social media profiles
   - "https://www.twitch.tv/wave_hamburg"
   - "https://www.instagram.com/wave.hamburg/"
+  - "https://www.youtube.com/@wave.hamburg"
 
 # Analytics
 analytics:
@@ -132,6 +135,9 @@ author:
     - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://www.twitch.tv/wave_hamburg"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@wave.hamburg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/wave.hamburg/"
@@ -142,6 +148,9 @@ footer:
     - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://www.twitch.tv/wave_hamburg"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@wave.hamburg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/wave.hamburg/"
