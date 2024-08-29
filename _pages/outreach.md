@@ -39,8 +39,8 @@ Experience real-time campus vibrations live on Twitch! If you cannot see the emb
 
 | When | Type  | What | Where | Stream start | 
 | --- | --- | -------------| -----------------------| ----- | 
-| **31.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Münster*  | Volksparkstadion | 13:00 |
 | **30.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Deichkind*  | Trabrennbahn | |
+| **31.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Münster*  | Volksparkstadion | 13:00 |
 | **04.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Justin Timberlake* | Barclays arena | |
 | **13.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Scorpions* | Barclays arena  | |
 
