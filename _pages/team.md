@@ -286,7 +286,7 @@ feature_row5:
 <div style="display: flex; align-items: center; margin-top: 20px;">
 
   <!-- Rundes Bild -->
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Erik Genthe" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/ErikGenthe_rund.png" alt="Erik Genthe" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
 
   <!-- Aufzählungstext -->
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
