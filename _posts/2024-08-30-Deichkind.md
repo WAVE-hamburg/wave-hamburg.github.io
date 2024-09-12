@@ -19,16 +19,22 @@ Thanks to Wanda, who volunteered to attend the concert, we were equipped with a 
 
 The songs can be roughly categorized according to their beat. Most of the songs like *Wutboy*, *Hört ihr die Signale* or *Remmidemmi* show a clear beat throughout the whole song with about 2.2 beats per second. The fans were jumping on this beat generating the specific observed frequencies. The more jumping, the larger the observed amplitudes in the sprectrogram. In addition there are some songs with a slower beat like *99 Bierkanister* and *Keine Party*. *Kids in meinem Alter* shows the fastest beat during the concert with about 3 beats per second.
 
+## Wutboy Spectrogram
 
 Below the spectrogram to the song *Wutboy* is shown. The signals were particularly strong as indicated by the high amplitudes. The increasing and decreasing amplitudes throughout the song may show the repeated chorus of the song where people were jumping to the beat. 
 
 
    ![Spectrogram]({{ site.url }}{{ site.baseurl }}/assets/images/deichkind-wutboy.png)
 
+## *Remmidemmi* Correlation to YouTube Video
+
 
 For *Remmidemmi* we were even able to correlate the recorded spectrogram to a video of the song available on youtube. The higher amplitudes clearly correlate to the chorus and the extensive jumping of the fans while smaller amplitudes correlate to times inbetween. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O2vMCa8Lefg?si=Fqj1JTjMOghUBh-X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+## Seismic Waves: *Hört ihr die Signale*
 
 
 Here you see, the seismic waves caused by the song Hört ihr die Signale (Do You Hear The Signals). After a few seconds you can see how the signal strength clearly increases as the song starts and the waves coming from Trabrennbahn travel westward through our fiber in the PETRA ring and all the way through the European XFEL. Thus – do we hear the signals? Yes, we do!

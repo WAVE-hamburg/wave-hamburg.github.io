@@ -142,14 +142,10 @@ For more results of the Taylor Swift concert and some explanations, check also o
 
 After tuning in to Taylor Swift and several soccer games, we seized the opportunity to listen to the Deichkind concert via our fiber glass network. On August 30th, Deichkind performed at Trabrennbahn, less than a kilometer from our **Thousand Ear Experiment**. During the concert, we once again offered a livestream, broadcasted on August 30th from 19:30 to 22:30 CEST.
 
-#### Playlist and Timesteps
-
 Thanks to **Wanda**, who volunteered to attend the concert, we were able to create a complete playlist with precise timesteps for each song. Below, you'll find the spectrogram for the entire concert, with clear signatures of each song.
 
 ![Concert Spectrogram]({{ site.url }}{{ site.baseurl }}/assets/images/deichkind-analysis.png)
 *Spectrogram of the entire Deichkind concert, with clearly visible song signatures.*
-
-#### Beat Categorization
 
 The songs can be generally categorized by their beats. Tracks like *Wutboy*, *Hört ihr die Signale*, and *Remmidemmi* have a consistent beat of about 2.2 beats per second, which fans responded to by jumping, causing specific frequencies to appear in the spectrogram. The more fans jumped, the higher the observed amplitudes.
 
