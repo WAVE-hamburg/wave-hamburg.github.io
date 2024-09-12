@@ -89,7 +89,7 @@ You’ve probably felt the ground shake when a big truck passes by. It’s the s
 On the left, you can see a geoplot where the fiber track is georeferenced onto the campus map, showing vibrations at specific geopositions. Each bubble represents a different frequency window: slow vibrations on the campus are depicted at low frequencies, such as 4 Hz, while faster vibrations, like those from acoustics or pumps, are shown at higher frequencies. The size of each bubble indicates the signal strength.
 
 
-## Highlights from previous Streams
+## Concerts
 
 ### Taylor Swift
 
@@ -138,6 +138,53 @@ You see that the [seismic waves from Love Story and Shake it Off <i class="fa fa
 
 For more results of the Taylor Swift concert and some explanations, check also our [blog <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/#taylorswift)!
 
+### Deichkind
+
+After tuning in to Taylor Swift and several soccer games, we seized the opportunity to listen to the Deichkind concert via our fiber glass network. On August 30th, Deichkind performed at Trabrennbahn, less than a kilometer from our **Thousand Ear Experiment**. During the concert, we once again offered a livestream, broadcasted on August 30th from 19:30 to 22:30 CEST.
+
+#### Playlist and Timesteps
+
+Thanks to **Wanda**, who volunteered to attend the concert, we were able to create a complete playlist with precise timesteps for each song. Below, you'll find the spectrogram for the entire concert, with clear signatures of each song.
+
+![Concert Spectrogram]({{ site.url }}{{ site.baseurl }}/assets/images/deichkind-analysis.png)
+*Spectrogram of the entire Deichkind concert, with clearly visible song signatures.*
+
+#### Beat Categorization
+
+The songs can be generally categorized by their beats. Tracks like *Wutboy*, *Hört ihr die Signale*, and *Remmidemmi* have a consistent beat of about 2.2 beats per second, which fans responded to by jumping, causing specific frequencies to appear in the spectrogram. The more fans jumped, the higher the observed amplitudes.
+
+On the other hand, slower songs like *99 Bierkanister* and *Keine Party* displayed fewer jumps, while *Kids in meinem Alter* had the fastest beat, with approximately 3 beats per second.
+
+#### *Wutboy* Spectrogram
+
+Below is the spectrogram for the song *Wutboy*. The strong signals are visible with high amplitudes, which likely correspond to the repeated choruses where the audience was jumping to the rhythm.
+
+![Wutboy Spectrogram]({{ site.url }}{{ site.baseurl }}/assets/images/deichkind-wutboy.png)
+*Spectrogram of the song *Wutboy*, showing increasing and decreasing amplitudes reflecting the audience’s activity.*
+
+#### *Remmidemmi* Correlation to YouTube Video
+
+For *Remmidemmi*, we were even able to correlate the recorded spectrogram to a YouTube video of the performance. The larger amplitudes match up with the chorus and intense fan jumping, while smaller amplitudes coincide with calmer sections of the song.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O2vMCa8Lefg?si=Fqj1JTjMOghUBh-X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Video of *Remmidemmi* performance, showing how the spectrogram correlates to fan activity during the chorus.*
+
+#### Seismic Waves: *Hört ihr die Signale*
+
+The seismic waves caused by the song *Hört ihr die Signale* were particularly fascinating. Shortly after the song began, signal strength visibly increased, and we could track the waves originating from Trabrennbahn traveling westward through our fiber in the **PETRA ring** and into the European XFEL. So, do we hear the signals? Absolutely!
+
+<figure class="align-center">
+  <video muted autoplay loop style="width: 85%; height: auto;" controls>
+    <source src="{{ site.url }}{{ site.baseurl }}/assets/animations/Deichkind_hoerstdudiesignale_short_plain.mp4" type="video/mp4">
+  </video>
+  <figcaption>Animation of *Hört ihr die Signale* – Yes, we hear the signals, and we can see them too.</figcaption>
+</figure>
+
+
+For detailed description of the results of the Deichkind concert, check also our [blog <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/#deichkind)!
+
+
+## Football
 
 ### Public hearing EM24
 
