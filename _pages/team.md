@@ -206,7 +206,7 @@ feature_row5:
     <p style="margin: 0; font-size: 18pt;"><strong>Prof. Dr. Conny Hammer</strong> <span style="font-weight: normal;"></span></p>
     <p style="margin: 0;">
       <strong>Affiliation:</strong> Institut of Geophysics<br>
-      <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/hammer-conny.html">Machine Learning Methods in Geophysics</a><br>
+      <strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/machine-learning.html">Machine Learning Methods in Geophysics</a><br>
       <strong>Publications:</strong> <a href="https://scholar.google.com/scholar?hl=de&as_sdt=0%2C5&q=author%3A%22Hammer+Conny%22&btnG=">Google Scholar</a>, <a href="https://orcid.org/0000-0002-7761-5535">ORCID</a><br>
       <strong>Interests:</strong> Conny focuses on machine learning methods in geophysics.<br>
       <strong>Collaborations:</strong> ErUM-WAVE
