@@ -153,7 +153,7 @@ The Taylor Swift concert has received a lot of media attention. **Interviews** f
 - Radio Antenne Niedersachsen
 - Radio TEDDY (Kinder-radio)
 
-[Press release](https://www.uni-hamburg.de/newsroom/presse/2024/pm36.html) and resulting articles can be found in the following list:
+[Press release](https://www.uni-hamburg.de/newsroom/presse/2024/pm36.html) and resulting **articles** can be found in the following list:
 
 - [Taylor Swift lässt Hamburg beben](https://www.tagesschau.de/inland/regional/hamburg/ndr-taylor-swift-laesst-heute-hamburg-beben-100.html) – Tagesschau
 - [Taylor Swift Konzert in Hamburg: Es bebt](https://www.zdf.de/nachrichten/panorama/taylor-swift-konzert-hamburg-beben-100.html) – ZDF
