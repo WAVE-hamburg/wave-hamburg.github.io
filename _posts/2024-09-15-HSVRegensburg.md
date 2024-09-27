@@ -10,9 +10,9 @@ header:
   teaser: /assets/images/HSV-Regensburg_spec_3200-3400_full_instagram.png
 ---
 
-During the football match of Hamburger SV against Jahn Regensburg in the Volksparkstadion on September 27, 2024, our WAVE fiber optic network was again listening in.
+During the football match of Hamburger SV against Jahn Regensburg in the Volksparkstadion on September 15, 2024, our WAVE fiber optic network was again listening in.
 
-Key Observations:
+## Key Observations
 
 This is a spectrogram of the five hours covering the football match Hamburger SV vs. Jahn Regensburg. The stadium is located at a distance of ca. 1.5 km from the part of the WAVE fiber network we have used for this analysis. The horizontal axis of the plots is time and the vertical axis beats per minute, which can be converted to a frequency in Hertz by dividing by 60.
 

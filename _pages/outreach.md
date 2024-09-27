@@ -45,8 +45,8 @@ Experience real-time campus vibrations live on Twitch! If you cannot see the emb
 
 | When | Type  | What | Where | Link |
 | --- | --- | -------------| -----------------------| ----- |
-| **27.09.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Regensburg*  | Volksparkstadion |  |
 | **22.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Linkin Park* | Barclays arena |  |
+| **15.09.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Regensburg*  | Volksparkstadion |  |
 | **04.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Justin Timberlake* | Barclays arena | |
 | **30.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Deichkind*  | Trabrennbahn | 20:00 |
 | **31.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Münster*  | Volksparkstadion | 13:00 |
