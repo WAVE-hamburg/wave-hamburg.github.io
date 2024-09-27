@@ -5,9 +5,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Smart_City.png
-  actions:
-    - label: "Twitch"
-      url: https://www.twitch.tv/wave_hamburg
 toc: true
 toc_label: "Page content"
 toc_icon: "list"  # corresponding Font Awesome icon name (without fa prefix)
