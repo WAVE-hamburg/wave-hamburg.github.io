@@ -75,8 +75,8 @@ This concert has received a lot of media attention, as listed below.
 
 
 Other Platforms:
-- Twitch: >431 viewers throughout the entire concert, 14,810 views on 23.7, >3000 on 24.7
-- Tagesschau Instagram: More than 226,000 likes!!
+- Twitch: >431 viewers throughout the entire concert: 14,810 views (live calls) on July 23 and > 3000 on July 24
+- Tagesschau Instagram: More than 226,000 likes!
 
 ![statistics]({{ site.url }}{{ site.baseurl }}/assets/images/202409_Twitch_statistics.png)
 
