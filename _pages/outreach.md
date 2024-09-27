@@ -39,15 +39,18 @@ Experience real-time campus vibrations live on Twitch! If you cannot see the emb
 
 | When | Type  | What | Where | Stream start |
 | --- | --- | -------------| -----------------------| ----- |
-| **30.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Deichkind*  | Trabrennbahn | 20:00 |
-| **31.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Münster*  | Volksparkstadion | 13:00 |
-| **04.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Justin Timberlake* | Barclays arena | |
-| **13.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Scorpions* | Barclays arena  | |
+
 
 ### Passed
 
 | When | Type  | What | Where | Link |
 | --- | --- | -------------| -----------------------| ----- |
+| **27.09.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Regensburg*  | Volksparkstadion |  |
+| **22.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Linkin Park* | Barclays arena |  |
+| **04.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Justin Timberlake* | Barclays arena | |
+| **30.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Deichkind*  | Trabrennbahn | 20:00 |
+| **31.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Münster*  | Volksparkstadion | 13:00 |
+| **13.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Scorpions* | Barclays arena  | |
 | **23.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Robbie Williams*  | Trabrennbahn | 17:30 |
 | **22.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Robbie Williams*  | Trabrennbahn | 17:30 |
 | **10.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Hertha*  | Volksparkstadion  |  [post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/2024_HSV-Hertha/) |
@@ -178,7 +181,7 @@ The seismic waves caused by the song *Hört ihr die Signale* were particularly f
 
 For detailed description of the results of the Deichkind concert, check also our [blog <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/posts/#deichkind)!
 
-## Linkin Park
+### Linkin Park
 
 How are seismic waves related to sound and crowd movement? The following video gives an impression by combining seismic data, shown as a spectrogram, with a concert performance of Linkin Park's *Faint*, capturing not only the sound but also the effects of the audience applauding and jumping. The concert was given in the Barclays Arena in Hamburg on September 22. 
 
