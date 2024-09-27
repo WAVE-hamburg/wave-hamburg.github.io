@@ -183,7 +183,7 @@ For detailed description of the results of the Deichkind concert, check also our
 
 ### Linkin Park
 
-How are seismic waves related to sound and crowd movement? The following video gives an impression by combining seismic data, shown as a spectrogram, with a concert performance of Linkin Park's *Faint*, capturing not only the sound but also the effects of the audience applauding and jumping. The concert was given in the Barclays Arena in Hamburg on September 22. 
+How are seismic waves related to sound and crowd movement? The following video gives an impression by combining seismic data, shown as a spectrogram, with a concert performance of Linkin Park's *Faint*, capturing the vibrations of the audience applauding and jumping. The concert was given in the Barclays Arena in Hamburg on September 22. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qf1i0fE0L3k?si=WfGtaKYabEuQjWAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
