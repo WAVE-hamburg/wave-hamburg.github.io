@@ -1,5 +1,6 @@
 ---
 title: "The vibrations of HSV vs. Regensburg"
+permalink: /2024_HSV-Regensburg/
 categories:
   - news
   - results

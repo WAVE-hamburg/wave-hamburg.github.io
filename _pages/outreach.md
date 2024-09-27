@@ -209,12 +209,13 @@ More information can be found on [Reddit](https://www.reddit.com/r/hamburg/comme
 
 <figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HSV-Regensburg_spec_3200-3400_full.png" alt="">
-  <figcaption> HSV - Regensburg on September 15, 2024.</figcaption>
+  <figcaption>  [<i class="fa fa-file-text" aria-hidden="true"></i> HSV - Regensburg]({{ site.url }}/2024_HSV-Regensburg/) on September 15, 2024.</figcaption>
 </figure> 
 
 <figure style="width: 100%" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HSVHertha_fw60_3100-3200_5h.png" alt="photo">
     <figcaption> HSV - Hertha on August 10, 2024.</figcaption>
+    <figcaption>  [<i class="fa fa-file-text" aria-hidden="true"></i> HSV - Hertha]({{ site.url }}/2024_HSV-Hertha/) on August 10, 2024.</figcaption>
 </figure> 
 
 ## WAVE Field and Science City Day
