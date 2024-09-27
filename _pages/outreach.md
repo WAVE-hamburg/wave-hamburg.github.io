@@ -16,15 +16,6 @@ toc_sticky: true
 read_time: false
 tags:
   - outreach
-gallery_HSV:
-  - url: /2024_HSV-Regensburg/
-    image_path: {{ site.url }}{{ site.baseurl }}/assets/images/HSV-Regensburg_spec_3200-3400_full.png
-    alt: "HSV vs. Regensburg"
-    title: "HSV vs. Regensburg on September 15, 2024"
-  - url: /2024_HSV-Hertha/
-    image_path: {{ site.url }}{{ site.baseurl }}/assets/images/HSVHertha_fw60_3100-3200_5h.png
-    alt: "HSV vs. Hertha"
-    title: "HSV vs. Hertha on August 10, 2024"
 ---
 
 ## Livestreams
@@ -216,10 +207,17 @@ More information can be found on [Reddit](https://www.reddit.com/r/hamburg/comme
 
 ### HSV
 
-{% include gallery id="gallery_HSV" caption="Gallery of spectrograms of HSV soccer games." %}
+<figure style="width: 100%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HSV-Regensburg_spec_3200-3400_full.png" alt="">
+  <figcaption> HSV vs. Regensburg on September 15, 2024 </figcaption>
+</figure> 
 
-Detailed information are given in our posts <i class="fa fa-file-text" aria-hidden="true"></i>: 
+<figure style="width: 100%" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HSVHertha_fw60_3100-3200_5h.png" alt="photo">
+    <figcaption> HSV vs. Hertha on on August 10, 2024  </figcaption>
+</figure> 
 
+Detailed information can be found in our posts: 
 - [<i class="fa fa-file-text" aria-hidden="true"></i> HSV - Regensburg]({{ site.url }}/2024_HSV-Regensburg/) on September 15, 2024.
 - [<i class="fa fa-file-text" aria-hidden="true"></i> HSV - Hertha]({{ site.url }}/2024_HSV-Hertha/) on August 10, 2024.
 
