@@ -207,7 +207,7 @@ More information can be found on [Reddit](https://www.reddit.com/r/hamburg/comme
 
 ### HSV
 
-Further details are available in our posts linked directly to the images below:
+Details about the features and signals in the spectrograms are available in our posts linked directly to the images below:
 
 <figure style="width: 100%" class="align-center">
   <a href="{{ site.url }}/2024_HSV-Regensburg/">
