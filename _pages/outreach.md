@@ -207,19 +207,23 @@ More information can be found on [Reddit](https://www.reddit.com/r/hamburg/comme
 
 ### HSV
 
-<figure style="width: 100%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HSV-Regensburg_spec_3200-3400_full.png" alt="">
-  <figcaption> HSV vs. Regensburg on September 15, 2024 </figcaption>
-</figure> 
+Further details are available in our posts linked directly to the images below:
 
 <figure style="width: 100%" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HSVHertha_fw60_3100-3200_5h.png" alt="photo">
-    <figcaption> HSV vs. Hertha on on August 10, 2024  </figcaption>
-</figure> 
+  <a href="{{ site.url }}/2024_HSV-Regensburg/">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HSV-Regensburg_spec_3200-3400_full.png" alt="">
+    <figcaption>HSV vs. Regensburg on September 15, 2024</figcaption>
+  </a>
+</figure>
 
-Detailed information can be found in our posts: 
-- [<i class="fa fa-file-text" aria-hidden="true"></i> HSV - Regensburg]({{ site.url }}/2024_HSV-Regensburg/) on September 15, 2024.
-- [<i class="fa fa-file-text" aria-hidden="true"></i> HSV - Hertha]({{ site.url }}/2024_HSV-Hertha/) on August 10, 2024.
+<figure style="width: 100%" class="align-center">
+  <a href="{{ site.url }}/2024_HSV-Hertha/">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/HSVHertha_fw60_3100-3200_5h.png" alt="photo">
+    <figcaption>HSV vs. Hertha on August 10, 2024</figcaption>
+  </a>
+</figure>
+
+
 
 ## WAVE Field and Science City Day
 
