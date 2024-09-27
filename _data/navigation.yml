@@ -12,6 +12,8 @@ main:
     url: /outreach/
   - title: "Team"
     url: /team/
+  - title: "Press"
+    url: /press/
   - title: "Blog"
     url: /posts/
 
@@ -28,6 +30,8 @@ sidebar-sample:
       url: /outreach/
     - title: "Team"
       url: /team/
+    - title: "Press"
+      url: /press/
   - title: Blog
     children:
       - title: "All Posts"
