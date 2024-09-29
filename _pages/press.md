@@ -71,7 +71,7 @@ This concert has received a lot of media attention, as listed below.
 - [Hamburg Invest](https://www.linkedin.com/feed/update/urn:li:activity:7221500185128898562) (12 likes)
 - [Our own I Taylor Swift](https://www.linkedin.com/posts/celine-hadziioannou-339374318_das-scienceoutreach-scicomm-activity-7221481351785459712--6Ml) (5600 unique views, 161 likes)
 - [Our own II Taylor Swift](https://www.linkedin.com/feed/update/urn:li:activity:7221899704379346944) (1178 unique views, 59 likes)
-- [About Euro2024](https://www.linkedin.com/posts/oliver-gerberding-b88035a6_vibrationen-vom-stadion-live-messung-vom-activity-7215043011116740608-4z0Y)
+- [Euro2024](https://www.linkedin.com/posts/oliver-gerberding-b88035a6_vibrationen-vom-stadion-live-messung-vom-activity-7215043011116740608-4z0Y) (94 likes)
 
 
 Other Platforms:
