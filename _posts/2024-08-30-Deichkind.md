@@ -16,7 +16,12 @@ header:
 After listening to Taylor Swift and several soccer games we took the chance to listen to the Deichkind concert on our fiber glass network. On August 30th Deichkind performed at the Trabrennbahn which is less than a kilometer from our thousand ear experiment. During the concert we again offered the livestream which was broascasted on 30th of August at 19.30 – 22.30 CEST. 
 Thanks to Wanda, who volunteered to attend the concert, we were equipped with a complete playlist including timesteps for the concert. Below you see the spectrogram for the whole concert with timesteps for each song played. The different signatures of the songs are clearly visible. 
 
-![Spectrogram]({{ site.url }}{{ site.baseurl }}/assets/images/deichkind-analysis.png)
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/deichkind-analysis.png" alt="">
+</figure> 
+
+
 
 The songs can be roughly categorized according to their beat. Most of the songs like *Wutboy*, *Hört ihr die Signale* or *Remmidemmi* show a clear beat throughout the whole song with about 2.2 beats per second. The fans were jumping on this beat generating the specific observed frequencies. The more jumping, the larger the observed amplitudes in the sprectrogram. In addition there are some songs with a slower beat like *99 Bierkanister* and *Keine Party*. *Kids in meinem Alter* shows the fastest beat during the concert with about 3 beats per second.
 
@@ -24,8 +29,9 @@ The songs can be roughly categorized according to their beat. Most of the songs 
 
 Below the spectrogram to the song *Wutboy* is shown. The signals were particularly strong as indicated by the high amplitudes. The increasing and decreasing amplitudes throughout the song may show the repeated chorus of the song where people were jumping to the beat. 
 
-
-   ![Spectrogram]({{ site.url }}{{ site.baseurl }}/assets/images/deichkind-wutboy.png)
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/deichkind-wutboy.png" alt="">
+</figure> 
 
 ## *Remmidemmi* Correlation to YouTube Video
 
