@@ -45,7 +45,7 @@ Experience real-time campus vibrations live on Twitch! If you cannot see the emb
 
 | When | Type  | What | Where | Link |
 | --- | --- | -------------| -----------------------| ----- |
-| **22.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Linkin Park* | Barclays arena |  |
+| **22.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Linkin Park* | Barclays arena | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#linkin-park) |
 | **15.09.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Regensburg*  | Volksparkstadion | [post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/2024_HSV-Regensburg/)  |
 | **04.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Justin Timberlake* | Barclays arena | |
 | **30.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Deichkind*  | Trabrennbahn | [post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/2024_Deichquakes/) |
