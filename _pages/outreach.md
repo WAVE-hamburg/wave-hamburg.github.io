@@ -48,7 +48,7 @@ Experience real-time campus vibrations live on Twitch! If you cannot see the emb
 | **22.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Linkin Park* | Barclays arena | [summary]({{ site.url }}{{ site.baseurl }}/outreach/#linkin-park) |
 | **15.09.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Regensburg*  | Volksparkstadion | [post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/2024_HSV-Regensburg/)  |
 | **04.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Justin Timberlake* | Barclays arena | |
-| **30.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Deichkind*  | Trabrennbahn | [post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/2024_Deichquakes/) |
+| **30.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Deichkind*  | Trabrennbahn | [post <i class="fa fa-file-text" aria-hidden="true"></i>]({{ site.url }}{{ site.baseurl }}/2024_Deichquakes/); [<i class="fa fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/watch?v=O2vMCa8Lefg&t=2s) |
 | **31.08.2024** | <i class="fa fa-futbol" aria-hidden="true"></i> | *HSV - Münster*  | Volksparkstadion |  |
 | **13.09.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Scorpions* | Barclays arena  | |
 | **23.08.2024** | <i class="fa fa-music" aria-hidden="true"></i> | *Robbie Williams*  | Trabrennbahn |  |
