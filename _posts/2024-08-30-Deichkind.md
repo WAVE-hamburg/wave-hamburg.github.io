@@ -1,5 +1,6 @@
 ---
 title: "Deichquakes: Do you hear (and see) the signals?"
+permalink: /2024_Deichquakes/
 categories:
   - results
 tags:
