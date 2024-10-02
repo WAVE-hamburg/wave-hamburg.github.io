@@ -23,7 +23,16 @@ feature_row:
     url: "https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html"
     btn_label: "More About Oliver"
     btn_class: "btn--primary"
-    
+
+feature_row:
+  - image_path: /assets/images/Team/vincent_wodtke_round.png
+    alt: "Vincent Wodtke"
+    title: "Vincent Wodtke"
+    excerpt: '<strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Interests:</strong> Vincent focuses on localizing seismic sources using array processing techniques and machine learning.'
+    url: "https://www.geo.uni-hamburg.de/en/geophysik/personen/wodtke-vincent.html"
+    btn_label: "More About Vincent"
+    btn_class: "btn--primary"
     
 feature_row2:
   - image_path: /assets/images/Team/fotor-2024050716349.png
