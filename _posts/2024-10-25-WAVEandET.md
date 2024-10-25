@@ -79,7 +79,7 @@ ET will be larger, with 10 km long interferometer arms, increasing sensitivity t
 Additionally, the Einstein Telescope [ET](https://www.et-gw.eu/) will be built 200-300 meters underground to reduce seismic and ambient noise, crucial for low-frequency detection. However, large seismic sensor arrays, like those achieved through Distributed Acoustic Sensing (DAS) by simply deploying fibers, are being investigated by WAVE. We are exploring how to optimally use this wealth of data to map and cancel both seismic and Newtonian noise in the ET.
 
 
-### Other Gravitational Wave Detectors today
+### More Gravitational Wave Detectors - current and planned
 
 There are multiple gravitational wave detectors which are already in operation, while even more are being planned. The detectors currently in operation are the Laser Interferometer Gravitational-Wave Observatory [LIGO](https://www.ligo.caltech.edu/) in the USA, [KAGRA](https://gwcenter.icrr.u-tokyo.ac.jp/en/) in Japan and [VIRGO](https://www.virgo-gw.eu/) in Italy. For a future generation of detectors, there are plans to build the Einstein Telescope [ET](https://www.et-gw.eu/) in Europe and Cosmic Explorer [CE](https://cosmicexplorer.org/) in the USA. While they all rely on the Michelson interferometer topology, the detectors vary both in size and sensitivity. LIGO has armlengths of about 4 km, while Virgo has 3 km. 
 
