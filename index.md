@@ -66,20 +66,20 @@ tags:
 
 {% if post %}
   <article class="post-preview">
-    {% if post.teaser %}
+    <div class="post-teaser-excerpt">
       <div class="post-teaser-image">
         <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.teaser | relative_url }}" alt="{{ post.title }}">
+          <img src="/assets/images/ET_sketch.png" alt="{{ post.title }}">
         </a>
       </div>
-    {% endif %}
-    <header class="post-header">
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
-    </header>
-    <div class="post-excerpt">
-      <p>{{ post.excerpt }}</p>
-      <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
+      <div class="post-excerpt-content">
+        <header class="post-header">
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+        </header>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
+      </div>
     </div>
   </article>
 {% endif %}
