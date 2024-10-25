@@ -64,18 +64,26 @@ tags:
 
 {% assign post = site.posts | where: "path", "_posts/2024-10-25-WAVEandET.md" | first %}
 
+
 {% if post %}
-  <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
-    {% endunless %}
-    {{ content }}
-  </div>
+  <article class="post-preview">
+    <div class="post-teaser-excerpt" style="display: flex; align-items: flex-start;">
+      <div class="post-teaser-image" style="flex-basis: 50%; flex-shrink: 0;">
+        <a href="{{ post.url | relative_url }}">
+          <img src="/assets/images/ET_sketch.png" alt="{{ post.title }}" style="width: 100%; height: auto; border-radius: 4px;">
+        </a>
+      </div>
+      <div class="post-excerpt-content" style="flex-basis: 50%;">
+        <header class="post-header">
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+        </header>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
+      </div>
+    </div>
+  </article>
 {% endif %}
-
-
-
-
 
 # Livestream
 
