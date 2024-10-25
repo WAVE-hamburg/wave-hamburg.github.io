@@ -64,32 +64,18 @@ tags:
 
 {% assign post = site.posts | where: "path", "_posts/2024-10-25-WAVEandET.md" | first %}
 
-<div class="archive">
-  {% unless page.header.overlay_color or page.header.overlay_image %}
-    <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
-  {% endunless %}
-
-  <div class="post-content" style="display: flex; align-items: flex-start; gap: 1em;">
-    <!-- Teaser Image -->
-    <div class="post-teaser-image" style="flex-basis: 50%; flex-shrink: 0;">
-      <a href="{{ page.url | relative_url }}">
-        <img src="/assets/images/ET_sketch.png" alt="{{ page.title }}" style="width: 100%; height: auto; border-radius: 4px;">
-      </a>
-    </div>
-
-    <!-- Post Content (Excerpt) -->
-    <div class="post-excerpt-content" style="flex-basis: 50%;">
-      <header class="post-header">
-        <h2>{{ page.title }}</h2>
-        <p class="post-date">{{ page.date | date: "%B %d, %Y" }}</p>
-      </header>
-      <div class="post-excerpt">
-        {{ page.excerpt }}
-        <a href="{{ page.url | relative_url }}" class="read-more">Read more</a>
-      </div>
-    </div>
+{% if post %}
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
   </div>
-</div>
+{% endif %}
+
+
+
+
 
 # Livestream
 
