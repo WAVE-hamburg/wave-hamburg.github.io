@@ -23,7 +23,16 @@ feature_row:
     url: "https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html"
     btn_label: "More About Oliver"
     btn_class: "btn--primary"
-    
+
+feature_row:
+  - image_path: /assets/images/Team/vincent_wodtke_round.png
+    alt: "Vincent Wodtke"
+    title: "Vincent Wodtke"
+    excerpt: '<strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Interests:</strong> Vincent focuses on localizing seismic sources using array processing techniques and machine learning.'
+    url: "https://www.geo.uni-hamburg.de/en/geophysik/personen/wodtke-vincent.html"
+    btn_label: "More About Vincent"
+    btn_class: "btn--primary"
     
 feature_row2:
   - image_path: /assets/images/Team/fotor-2024050716349.png
@@ -263,6 +272,22 @@ feature_row5:
     <p style="margin: 0;">
       <strong>Affiliation:</strong> Institute of Geophysics<br>
       <strong>Interests:</strong> Oliver is a doctoral researcher applying machine learning to seismic data for signal detection and classification.
+    </p>
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+
+  <!-- Rundes Bild -->
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/vincent_wodtke_round.png" alt="Vincent Wodtke" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
+
+  <!-- Aufzählungstext -->
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt;"><strong>Vincent Wodtke</strong></p>
+    <p style="margin: 0;">
+      <strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Interests:</strong> Vincent focuses on localizing seismic sources using array processing techniques and machine learning.
     </p>
   </div>
 
