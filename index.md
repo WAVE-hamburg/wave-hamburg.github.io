@@ -65,13 +65,21 @@ tags:
 {% assign post = site.posts | where: "path", "_posts/2024-10-25-WAVEandET.md" | first %}
 
 {% if post %}
-  <article class="post">
+  <article class="post-preview">
+    {% if post.header.image %}
+      <div class="post-header-image">
+        <a href="{{ post.url | relative_url }}">
+          <img src="{{ post.header.image | relative_url }}" alt="{{ post.title }}">
+        </a>
+      </div>
+    {% endif %}
     <header class="post-header">
       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      <p>{{ post.date | date: "%B %d, %Y" }}</p>
+      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
     </header>
-    <div class="post-content">
-      {{ post.content | markdownify }}
+    <div class="post-excerpt">
+      <p>{{ post.excerpt }}</p>
+      <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
     </div>
   </article>
 {% endif %}
