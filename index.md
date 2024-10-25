@@ -74,7 +74,7 @@ tags:
         </a>
       </div>
       <!-- Post Excerpt Content -->
-      <div class="post-excerpt-content" style="flex-basis: 50%; margin-top: -2em;">
+      <div class="post-excerpt-content" style="flex-basis: 50%; margin-top: -3em;">
         <header class="post-header">
           <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
           <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
