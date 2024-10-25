@@ -66,10 +66,10 @@ tags:
 
 {% if post %}
   <article class="post-preview">
-    {% if post.header.image %}
-      <div class="post-header-image">
+    {% if post.teaser %}
+      <div class="post-teaser-image">
         <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.header.image | relative_url }}" alt="{{ post.title }}">
+          <img src="{{ post.teaser | relative_url }}" alt="{{ post.title }}">
         </a>
       </div>
     {% endif %}
