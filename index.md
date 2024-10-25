@@ -60,8 +60,6 @@ tags:
 
 {% include feature_row id="intro" type="center" %}
 
-<hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
-
 # News
 
 {% assign post = site.posts | where: "path", "_posts/2024-10-25-WAVEandET.md" | first %}
@@ -116,6 +114,9 @@ tags:
 Experience real-time campus vibrations live on Twitch! If you cannot see the embedded video go to our [Twitch <i class="fab fa-twitch" aria-hidden="true"></i>](https://www.twitch.tv/wave_hamburg) Channel, scan the QR code or check out our list of [planned livestreams](/outreach/#upcoming).
 
 [Twitch <i class="fab fa-twitch" aria-hidden="true"></i>](https://www.twitch.tv/wave_hamburg){: .btn .btn--primary} 
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
+
 
 {% include feature_row id="feature_row_outreach" %}
 
