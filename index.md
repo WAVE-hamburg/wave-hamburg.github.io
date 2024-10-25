@@ -60,6 +60,8 @@ tags:
 
 {% include feature_row id="intro" type="center" %}
 
+<hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
+
 # News
 
 {% assign post = site.posts | where: "path", "_posts/2024-10-25-WAVEandET.md" | first %}
@@ -84,6 +86,8 @@ tags:
     </div>
   </article>
 {% endif %}
+
+<hr style="border: none; border-top: 1px solid #ccc; margin: 1em 0;">
 
 # Livestream
 
