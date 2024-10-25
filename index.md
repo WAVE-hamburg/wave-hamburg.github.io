@@ -60,6 +60,22 @@ tags:
 
 {% include feature_row id="intro" type="center" %}
 
+# News
+
+{% assign post = site.posts | where: "path", "_posts/2024-10-25-WAVEandET.md" | first %}
+
+{% if post %}
+  <article class="post">
+    <header class="post-header">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <p>{{ post.date | date: "%B %d, %Y" }}</p>
+    </header>
+    <div class="post-content">
+      {{ post.content | markdownify }}
+    </div>
+  </article>
+{% endif %}
+
 # Livestream
 
 <html>
