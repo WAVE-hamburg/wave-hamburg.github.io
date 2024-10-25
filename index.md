@@ -66,13 +66,13 @@ tags:
 
 {% if post %}
   <article class="post-preview">
-    <div class="post-teaser-excerpt">
-      <div class="post-teaser-image">
+    <div class="post-teaser-excerpt" style="display: flex; align-items: flex-start;">
+      <div class="post-teaser-image" style="flex-basis: 50%; flex-shrink: 0;">
         <a href="{{ post.url | relative_url }}">
-          <img src="/assets/images/ET_sketch.png" alt="{{ post.title }}">
+          <img src="/assets/images/ET_sketch.png" alt="{{ post.title }}" style="width: 100%; height: auto; border-radius: 4px;">
         </a>
       </div>
-      <div class="post-excerpt-content">
+      <div class="post-excerpt-content" style="flex-basis: 50%;">
         <header class="post-header">
           <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
           <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
