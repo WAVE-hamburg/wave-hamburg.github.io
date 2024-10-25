@@ -64,15 +64,16 @@ tags:
 
 {% assign post = site.posts | where: "path", "_posts/2024-10-25-WAVEandET.md" | first %}
 
-
 {% if post %}
-  <article class="post-preview">
-    <div class="post-teaser-excerpt" style="display: flex; align-items: flex-start;">
+  <article class="post-preview" style="text-align: center;">
+    <div class="post-teaser-excerpt" style="display: flex; align-items: center; justify-content: center; gap: 1em;">
+      <!-- Teaser Image -->
       <div class="post-teaser-image" style="flex-basis: 50%; flex-shrink: 0;">
         <a href="{{ post.url | relative_url }}">
           <img src="/assets/images/ET_sketch.png" alt="{{ post.title }}" style="width: 100%; height: auto; border-radius: 4px;">
         </a>
       </div>
+      <!-- Post Excerpt Content -->
       <div class="post-excerpt-content" style="flex-basis: 50%;">
         <header class="post-header">
           <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
