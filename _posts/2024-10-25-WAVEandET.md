@@ -8,7 +8,7 @@ tags:
   - gravitational waves
 last_modified_at: 2024-10-25
 header:
-  teaser: /assets/images/HSV-Regensburg_spec_3200-3400_full_instagram.png
+  teaser: /assets/images/ET_sketch.png
 ---
 
 
@@ -24,7 +24,7 @@ Despite these tiny distortions, gravitational waves reveal details about the uni
 
 Unlike electromagnetic telescopes that *see* the universe, gravitational wave detectors let us *hear* it. But detecting these waves is challenging because they are really really tiny, requiring incredibly sensitive instruments.
 
-![Michelson Interferometer Image](MI_pic_ENG.png) Credit: K.-S. Isleif
+![Michelson Interferometer Image]({{ site.url }}{{ site.baseurl }}/assets/images/MI_pic_ENG.png) Credit: K.-S. Isleif
 
 Gravitational wave detectors, like [LIGO](https://www.ligo.caltech.edu/), measure tiny distance changes between two suspended mirrors (which we call test masses), 4 km apart, using a laser interferometer. These mirrors are suspended on ultra-thin strings to simulate free-fall and isolate them from ground vibrations, reducing seismic noise interference. The mirrors, acting as test masses for gravitational waves, perfectly reflect laser light, allowing precise measurement of light travel time in two perpendicular directions.
 When a gravitational wave passes, it stretches one interferometer arm while compressing the other, causing a shift in optical power that’s detected by a photodiode, revealing the gravitational wave signal. 
@@ -35,7 +35,7 @@ We need to detect very small position changes down to $10^{-18}$ m, so the test 
 ## Seismic noise
 Seismic waves can result from tectonic shifts, human activity, ocean waves, and many other sources. They can produce noise in the gravitational wave detector by shaking it and moving the test masses. You can learn more about seismic waves [here](https://wave-hamburg.eu/media/Insta-0-seismic/). 
 
-![Summary Image](ET_env_noise_ENG.png) Credit: K.-S. Isleif
+![Summary Image]({{ site.url }}{{ site.baseurl }}/assets/images/ET_env_noise_ENG.png) Credit: K.-S. Isleif
 
 To suppress seismic noise, we make the suspensions of the mirrors super long, and combine several stages, so we actually have a multistage-pendulum, on which shiny mirrors are hanging.  This is what we call passive isolation system. 
 But this is not enough, and, additionally, the suspensions produce resonance frequencies (you know these frequencies when [bridges can be destroyed](https://www.youtube.com/watch?v=XggxeuFDaDU)), which needs to be damped, actively. 
@@ -48,7 +48,7 @@ Could Distributed Acoustic Sensing (DAS) help? Is a vast seismic sensor network 
 ## Newtonian noise
 
 When the gravitational wave detector's sensitivity is improved even more, like we are aiming for the  [Einstein Telescope (ET)](https://www.et-gw.eu/), Newtonian noise, caused, for example, by seismic noise, will limit the sensitivity and thus the detection of cool cosmological events which are even heavier or further away then detected so far. Seismic waves cause ground density fluctuations, effectively mass changes, which in turn alter the local gravitational force (Newton’s $F = ma$). These fluctuations near a sensitive detector can interfere with its ability to detect gravitational waves, making Newtonian noise a potential challenge.
-![WAVE in ET Image](NN.png) Credit: K.-S. Isleif
+![WAVE in ET Image]({{ site.url }}{{ site.baseurl }}/assets/images/NN.png) Credit: K.-S. Isleif
 
 Suspensions can’t block Newtonian noise because it’s a gravitational force, and gravity can’t be shielded. To suppress it, we need new strategies. One idea is to measure Newtonian noise and subtract it from the gravitational wave signal. But Newtonian noise is incredibly faint, making it difficult to detect. While some scientists are developing Newtonian noise sensors, these are as complex to build as gravitational wave detectors. In fact, a gravitational wave detector is itself a Newtonian noise sensor!
 Instead of measuring Newtonian noise directly, we can track its source—seismic waves. 
@@ -61,7 +61,7 @@ The goal is to capture the full seismic wave field—often quite complex—and u
 
 Since DAS uses optical fibers, it functions like an array of thousands of seismic sensors spaced every meter along kilometers of fiber. By wrapping the fiber around the vacuum chambers and beam path of the detector, it can precisely map environmental noise, creating detailed arrays that show noise levels throughout the detector. This detailed mapping enables *noise hunting*, allowing us to improve noise cancellation not only for seismic and Newtonian noise but maybe even for unexpected noise sources we may not yet fully understand. DAS could reveal unknown noise origins, offering new insights and enhancing the overall sensitivity of the detector. 
 
-![Seismic Waves Image](ET_env_noise_with_fiber_ENG.png) Credit: K.-S. Isleif
+![Seismic Waves Image]({{ site.url }}{{ site.baseurl }}/assets/images/ET_env_noise_with_fiber_ENG.png) Credit: K.-S. Isleif
 
 While DAS has not been implemented in a gravitational wave detector to date, there are plans to implement it especially in future generation detectors such as the Einstein Telescope, which is a planned detector in Europe. 
 
@@ -71,7 +71,7 @@ While DAS has not been implemented in a gravitational wave detector to date, the
 ### Einstein Telescope (ET)
 The Einstein Telescope [ET](https://www.et-gw.eu/) will be Europe’s next-generation gravitational wave detector, designed to improve sensitivity by 1 order of magnitude compared to current detectors like LIGO and reach lower frequencies (1-10 Hz), where seismic and Newtonian noise must be suppressed by even one million! Its development will involve a major multinational effort over the next decade, with members of the WAVE team contributing strategies and sensors for seismic and Newtonian noise cancellation.
 
-![Einstein Telescope Image](ET_sketch.png) Credit: K.-S. Isleif
+![Einstein Telescope Image]({{ site.url }}{{ site.baseurl }}/assets/images/ET_sketch.png) Credit: K.-S. Isleif
 
 ET will be larger having 10 km long interferometer arms, increasing sensitivity to detect smaller gravitational waves. It will also feature three overlapping interferometers arranged in an isosceles triangle, with each side containing two arms, thus multiple detectors in one experiment. 
 
