@@ -29,7 +29,7 @@ Unlike electromagnetic telescopes that *see* the universe, gravitational wave de
 Gravitational wave detectors, like [LIGO](https://www.ligo.caltech.edu/), measure tiny distance changes between two suspended mirrors (which we call test masses), 4 km apart, using a laser interferometer. These mirrors are suspended on ultra-thin strings to simulate free-fall and isolate them from ground vibrations, reducing seismic noise interference. The mirrors, acting as test masses for gravitational waves, perfectly reflect laser light, allowing precise measurement of light travel time in two perpendicular directions.
 When a gravitational wave passes, it stretches one interferometer arm while compressing the other, causing a shift in optical power that’s detected by a photodiode, revealing the gravitational wave signal. 
 
-We need to detect very small position changes down to $10^{-18}$ m, so the test masses must stay almost perfectly still. However, many noise sources, from ground vibrations to local gravitational fluctuations (Newtonian noise), can disturb the masses. Even nearby footsteps can create slight gravitational pulls! Reducing this Newtonian noise is key to enhancing gravitational wave detection.
+We need to detect very small position changes down to $10^{-18}$ m, so the test masses must stay almost perfectly still. However, many noise sources, from ground vibrations to local gravitational fluctuations (*"Newtonian noise"*), can disturb the masses. Even nearby footsteps can create slight gravitational pulls! Reducing this Newtonian noise is key to enhancing gravitational wave detection.
 
 
 ## Seismic noise
@@ -39,27 +39,28 @@ Seismic waves can result from tectonic shifts, human activity, ocean waves, and 
 
 To suppress seismic noise, we make the suspensions of the mirrors super long, and combine several stages, so we actually have a multistage-pendulum, on which shiny mirrors are hanging.  This is what we call passive isolation system. 
 But this is not enough, and, additionally, the suspensions produce resonance frequencies (you know these frequencies when [bridges can be destroyed](https://www.youtube.com/watch?v=XggxeuFDaDU)), which needs to be damped, actively. 
-Active noise cancellation involves measuring the noise from the ground or the system and then either adjusting components in the detector (such as the suspensions) to even it out while running or to remove the measured movement when analysing the data. Here we use, again, laser interferometers (Yes, we have small laser interferometer to improve the big laser interferometer gravitational wave detector). But also seismic instruments like geophones and seismometers are used.
+Active noise cancellation involves measuring the noise from the ground or the system, and then either adjusting components in the detector (such as the suspensions) to counteract this noise during operation, or to remove the noise during the data analysis. For this we use, again, laser interferometers! Yes, we have small laser interferometer to improve the big laser interferometer gravitational wave detector.. But  we also use seismic instruments like geophones and seismometers. 
 
 **And this is where WAVE comes in!**
 
-Could Distributed Acoustic Sensing (DAS) help? Is a vast seismic sensor network like WAVE beneficial for gravitational wave detectors? And can we even address the challenging, non-shieldable Newtonian noise, a problem yet to be solved in the future Einstein Telescope? These are the exciting questions that WAVE scientists are exploring!
+Could Distributed Acoustic Sensing (DAS) help? Is a large seismic sensor network like WAVE beneficial for gravitational wave detectors? And can we even address the challenging issue of non-shieldable Newtonian noise, a problem yet to be solved in the future Einstein Telescope? These are the exciting questions that WAVE scientists are exploring!
 
 ## Newtonian noise
 
-When the gravitational wave detector's sensitivity is improved even more, like we are aiming for the  [Einstein Telescope (ET)](https://www.et-gw.eu/), Newtonian noise, caused, for example, by seismic noise, will limit the sensitivity and thus the detection of cool cosmological events which are even heavier or further away then detected so far. Seismic waves cause ground density fluctuations, effectively mass changes, which in turn alter the local gravitational force (Newton’s $F = ma$). These fluctuations near a sensitive detector can interfere with its ability to detect gravitational waves, making Newtonian noise a potential challenge.
+As we aim to improve the sensitivity of gravitational wave detectors, such as the [Einstein Telescope (ET)](https://www.et-gw.eu/), Newtonian noise, caused, for example, by seismic noise, will limit the sensitivity and thus the detection of cool cosmological events which are even heavier or further away than those detected so far. Seismic waves cause tiny fluctuations in ground density, effectively mass changes, which in turn alter the local gravitational force (Newton’s $F = ma$). These fluctuations near a sensitive detector can interfere with its ability to detect gravitational waves, making Newtonian noise a significant challenge.
 ![WAVE in ET Image]({{ site.url }}{{ site.baseurl }}/assets/images/NN.png) Credit: K.-S. Isleif
 
-Suspensions can’t block Newtonian noise because it’s a gravitational force, and gravity can’t be shielded. To suppress it, we need new strategies. One idea is to measure Newtonian noise and subtract it from the gravitational wave signal. But Newtonian noise is incredibly faint, making it difficult to detect. While some scientists are developing Newtonian noise sensors, these are as complex to build as gravitational wave detectors. In fact, a gravitational wave detector is itself a Newtonian noise sensor!
-Instead of measuring Newtonian noise directly, we can track its source—seismic waves. 
+Suspensions can’t block Newtonian noise because it’s a gravitational force, and gravity can’t be shielded. To suppress it, we need new strategies. One idea is to measure Newtonian noise and subtract it from the gravitational wave signal. But Newtonian noise is incredibly faint, making it difficult to detect. While some scientists are developing Newtonian noise sensors, but these are just as complex to construct as gravitational wave detectors themselves. In fact, a gravitational wave detector is itself a Newtonian noise sensor!
 
-**And this is where WAVE comes in!**
+Instead of measuring Newtonian noise directly, we can track its source — seismic waves! 
 
-The goal is to capture the full seismic wave field—often quite complex—and use this data to predict Newtonian noise through a smart algorithm or even machine learning. Since the density of the ground affects how seismic waves create Newtonian noise, precise, site-specific measurements are crucial. This approach needs extensive data to accurately capture seismic waves and predict Newtonian noise, especially for sensitive detectors like the Einstein Telescope. To gather this data, one could use Distributed Acoustic Sensing (DAS), providing thousands of sensors to create a detailed seismic picture.
+**That's one reason for building the WAVE network!**
+
+The goal is to capture the full seismic wave field—often quite complex—and use this data to predict Newtonian noise through a smart algorithm or machine learning. Since the density of the ground affects how seismic waves create Newtonian noise, precise, site-specific measurements are crucial. This approach needs extensive data to accurately capture the complex seismic wave field and predict Newtonian noise, especially for sensitive detectors like the Einstein Telescope. To gather this data, Distributed Acoustic Sensing (DAS) can be used, providing thousands of sensors to create a detailed seismic picture.
 
 ## WAVE
 
-Since DAS uses optical fibers, it functions like an array of thousands of seismic sensors spaced every meter along kilometers of fiber. By wrapping the fiber around the vacuum chambers and beam path of the detector, it can precisely map environmental noise, creating detailed arrays that show noise levels throughout the detector. This detailed mapping enables *noise hunting*, allowing us to improve noise cancellation not only for seismic and Newtonian noise but maybe even for unexpected noise sources we may not yet fully understand. DAS could reveal unknown noise origins, offering new insights and enhancing the overall sensitivity of the detector. 
+Since DAS uses optical fibers, it functions like an array of thousands of seismic sensors spaced every meter along kilometers of fiber. By wrapping the fiber around the vacuum chambers and beam path of the detector, it can precisely map environmental vibration, creating detailed profiles that show noise levels throughout the detector. This detailed mapping enables *noise hunting*, allowing us to improve noise cancellation not only for seismic and Newtonian noise but maybe even for unexpected noise sources we may not yet fully understand. DAS could reveal unknown noise origins, offering new insights and enhancing the overall sensitivity of the detector. 
 
 ![Seismic Waves Image]({{ site.url }}{{ site.baseurl }}/assets/images/ET_env_noise_with_fiber_ENG.png) Credit: K.-S. Isleif
 
@@ -73,7 +74,7 @@ The Einstein Telescope [ET](https://www.et-gw.eu/) will be Europe’s next-gener
 
 ![Einstein Telescope Image]({{ site.url }}{{ site.baseurl }}/assets/images/ET_sketch.png) Credit: K.-S. Isleif
 
-ET will be larger having 10 km long interferometer arms, increasing sensitivity to detect smaller gravitational waves. It will also feature three overlapping interferometers arranged in an isosceles triangle, with each side containing two arms, thus multiple detectors in one experiment. 
+ET will be larger, with 10 km long interferometer arms, increasing sensitivity to detect smaller gravitational waves. It will also feature three overlapping interferometers arranged in an isosceles triangle, with each side containing two arms, thus multiple detectors in one experiment. 
 
 Additionally, the Einstein Telescope [ET](https://www.et-gw.eu/) will be built 200-300 meters underground to reduce seismic and ambient noise, crucial for low-frequency detection. However, large seismic sensor arrays, like those achieved through Distributed Acoustic Sensing (DAS) by simply deploying fibers, are being investigated by WAVE. We are exploring how to optimally use this wealth of data to map and cancel both seismic and Newtonian noise in the ET.
 
