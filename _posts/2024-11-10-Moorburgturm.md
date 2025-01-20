@@ -18,7 +18,7 @@ A video of the demolition was streamed live by Hamburg Hafen Live on Youtube:
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/embed/O2vMCa8Lefg?start=1815" 
+  src="https://www.youtube.com/embed/bTMWJWn8IXM?start=1815" 
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
