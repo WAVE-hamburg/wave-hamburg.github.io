@@ -13,7 +13,7 @@ header:
 
 In November 2024, the double towers of a power station in Moorburg, in the south of Hamburg, were demolished. The towers were demolition utilising explosives at the base, making them fall in one piece. As the total weight of the towers was 2300 tons, the force excerted on the ground was significant, creating seismic waves.
 
-A video of the demolition was streamed live by Hamburg Hafen Lice on Youtube:
+A video of the demolition was streamed live by Hamburg Hafen Live on Youtube:
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/O2vMCa8Lefg?si=Fqj1JTjMOghUBh-X#t=30m15s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
