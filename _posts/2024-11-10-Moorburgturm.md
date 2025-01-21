@@ -28,7 +28,7 @@ A video of the demolition was streamed live by Hamburg Hafen Live on Youtube:
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Moorburgturm_bild.png" alt="Map">
-   <figcaption>Image credit: K-S. Isleif</figcaption>
+   <figcaption>Map of Hamburg and the locations of the tower in Moorburg and the WAVE sensor network. Image credit: K-S. Isleif. More Credits in the Image. </figcaption>
 </figure> 
 
 
@@ -37,19 +37,19 @@ The station lies around 10 km from the DESY/Campus Bahrenfeld, where the WAVE Ne
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/waterfallMoorburg1.png" alt="Waterfall">
-   <figcaption>Image credit: M. Hoffmann, W. Vossius</figcaption>
+   <figcaption>Waterfall plot of the falling tower recorded 11km away from the tower. The Signal was visible along several kilometers of the WAVE fiber network and lasted for some seconds, when the seismic waves passed by. The data is filtered with a low pass filter at 1Hz. Image credit: M. Hoffmann, W. Vossius</figcaption>
 </figure> 
 
 The Waterfall plot above shows how the fibre experiences increased strain which travels in ripples thourgh the campus. In the waterfall plot, the time is one the y-axis, while the section of the fibre in the WAVE Network is the x-axis. Every line denotes 1 m of fibre. Through this, we can see how the signal and in which direction it travels. As the fibre is mirrored, the picture appears twice in the plot.  
 
 This plot is filtered, meaning only certain frequency components of the data are taken into account. This is done to lower the influences of surrounding noise. The process is similar to peeling back layers of dirt to reveal a picture underneath, only it is done with data. 
 
-When looking at a spectrace of the towers falling, the data from the whole network is analysed at once, meaning there is no spaial resolution. However, we are able to see at which times different frequencies occur. In this case, we see a large range of frequencies, which means that there was a broadband excitation. This is often the case when excitations are made by large objects hitting the ground once, this is expected. 
+When looking at a spectrace of the towers falling, the data from the whole network is analysed at once, meaning there is no spatial resolution. However, we are able to see at which times different frequencies occur. In this case, we see a large range of frequencies, which means that there was a broadband excitation. This is often the case when excitations are made by large objects hitting the ground once, this is expected. 
 
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SpectraceMoorburg.png" alt="Spectrace">
-   <figcaption>Image credit: W. Vossius</figcaption>
+   <figcaption>Spectrograms show the frequency content of the signal. It is averaged for some measurement channels along the fiber and has no spatial resolution. At the time of the tower drop there is a signal across all frequencies, which we call broadband. Image credit: W. Vossius</figcaption>
 </figure> 
 
 
