@@ -44,14 +44,5 @@ The Waterfall plot above shows how the fibre experiences increased strain which 
 
 This plot is filtered, meaning only certain frequency components of the data are taken into account. This is done to lower the influences of surrounding noise. The process is similar to peeling back layers of dirt to reveal a picture underneath, only it is done with data. 
 
-When looking at a spectrace of the towers falling, the data from the whole network is analysed at once, meaning there is no spatial resolution. However, we are able to see at which times different frequencies occur. In this case, we see a large range of frequencies, which means that there was a broadband excitation. This is often the case when excitations are made by large objects hitting the ground once, this is expected. 
 
-
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/SpectraceMoorburg.png" alt="Spectrace">
-   <figcaption>Spectrograms show the frequency content of the signal. It is averaged for some measurement channels along the fiber and has no spatial resolution. At the time of the tower drop there is a signal across all frequencies, which we call broadband. Image credit: W. Vossius</figcaption>
-</figure> 
-
-
-Being able to detect the demolition on the other side of Hamburg shows how powerful distributed acoustic sensing is and how useful it can be in an urban context, picking up signals from its surroundings. 
 
