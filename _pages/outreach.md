@@ -157,6 +157,8 @@ On the other hand, slower songs like *99 Bierkanister* and *Keine Party* display
 
 Below is the spectrogram for the song *Wutboy*. The strong signals are visible with high amplitudes, which likely correspond to the repeated choruses where the audience was jumping to the rhythm.
 
+
+
 ![Wutboy Spectrogram]({{ site.url }}{{ site.baseurl }}/assets/images/deichkind-wutboy.png)
 *Spectrogram of the song *Wutboy*, showing increasing and decreasing amplitudes reflecting the audience’s activity.*
 
