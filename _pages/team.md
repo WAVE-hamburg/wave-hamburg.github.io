@@ -12,7 +12,7 @@ header:
       url: "mailto:celine.hadziioannou@uni-hamburg.de"
 excerpt: "Our team combines expertise from various fields, including geophysics, seismology, physics, and engineering, to push the boundaries of seismic and geo-acoustic research."
 intro: 
-  - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, and European XFEL, working together on seismic and geophysical research.'
+  - excerpt: 'Meet our team from the University of Hamburg, DESY, Helmut Schmidt University, GFZ Potsdam, European XFEL, and international contributors and experts working together on seismic and (geo)physical research.'
     
 feature_row:
   - image_path: /assets/images/Team/Oliver Bölt.png
@@ -460,3 +460,22 @@ feature_row5:
 
 
 
+## International contributors and experts
+
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+
+  <!-- Rundes Bild -->
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Dr. Francesca Badaracco" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
+
+  <!-- Aufzählungstext -->
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt;"><strong>Dr. Francesca Badaracco</strong></p>
+    <p style="margin: 0;">
+      <strong>Affiliation:</strong> Università di Genova <a href="https://rubrica.unige.it/personale/VkVAWFlo"></a><br>
+      <strong>Publications:</strong> <a href="https://orcid.org/0000-0001-8553-7904">Researchgate</a>, <a href="https://orcid.org/0000-0001-8553-7904">ORCID</a><br>
+      <strong>Interests:</strong> Francesca specializes in Newtonian Noise cancellation for the Einstein Telescope and has supported the Hamburg gravitational wave detection groups in developing optimal seismic sensor placement strategies to mitigate this fundamental noise source. Now, as a postdoctoral researcher in the KM3NeT Collaboration at the University of Genova, recently recognized for the first detection of high-energy neutrinos, Francesca is exploring the potential of Distributed Acoustic Sensing (DAS) to enhance future neutrino searches.
+    </p>
+  </div>
+
+</div>
