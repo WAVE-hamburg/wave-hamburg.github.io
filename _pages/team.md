@@ -475,7 +475,7 @@ feature_row5:
     <p style="margin: 0;">
       <strong>Affiliation:</strong> <a href="https://rubrica.unige.it/personale/VkVAWFlo">Università di Genova</a><br>
       <strong>Publications:</strong> <a href="https://orcid.org/0000-0001-8553-7904">Researchgate</a>, <a href="https://orcid.org/0000-0001-8553-7904">ORCID</a><br>
-      <strong>Interests:</strong> Francesca specializes in Newtonian Noise cancellation for the Einstein Telescope and has supported the Hamburg gravitational wave detection groups in developing optimal seismic sensor placement strategies to mitigate this fundamental noise source, including DAS. Now, she is a postdoctoral researcher at the University of Genova, working in the KM3NeT Collaboration which recently has announced the first detection of an  <a href="https://www.nature.com/articles/s41586-024-08543-1">Ultra High Energy neutrino</a>
+      <strong>Interests:</strong> Francesca specializes in Newtonian Noise cancellation for the Einstein Telescope and has supported the Hamburg gravitational wave detection groups in developing optimal seismic sensor placement strategies, including DAS, to mitigate this fundamental noise source. Now, she is a postdoctoral researcher at the University of Genova, working in the KM3NeT Collaboration which recently has announced the first detection of an  <a href="https://www.nature.com/articles/s41586-024-08543-1">Ultra High Energy neutrino</a>
     </p>
   </div>
 
