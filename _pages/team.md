@@ -461,7 +461,7 @@ feature_row5:
 
 
 
-## International contributors and experts{#internationalpartners}
+## International contributors and experts {#internationalpartners}
 
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
