@@ -473,7 +473,7 @@ feature_row5:
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0; font-size: 18pt;"><strong>Dr. Francesca Badaracco</strong></p>
     <p style="margin: 0;">
-      <strong>Affiliation:</strong> Università di Genova <a href="https://rubrica.unige.it/personale/VkVAWFlo"></a><br>
+      <strong>Affiliation:</strong> <a href="https://rubrica.unige.it/personale/VkVAWFlo">Università di Genova</a><br>
       <strong>Publications:</strong> <a href="https://orcid.org/0000-0001-8553-7904">Researchgate</a>, <a href="https://orcid.org/0000-0001-8553-7904">ORCID</a><br>
       <strong>Interests:</strong> Francesca specializes in Newtonian Noise cancellation for the Einstein Telescope and has supported the Hamburg gravitational wave detection groups in developing optimal seismic sensor placement strategies to mitigate this fundamental noise source. Now, as a postdoctoral researcher in the KM3NeT Collaboration at the University of Genova, she was recently recognized for the <a href="https://www.nature.com/articles/s41586-024-08543-1">observation of an ultra-high-energy cosmic neutrino</a>
     </p>
