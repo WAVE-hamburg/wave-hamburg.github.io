@@ -22,7 +22,7 @@ In the following, we present a few results from the initial **Proof of Concept**
     <figcaption>DAS interrogator and fiber georeferencing.</figcaption>
 </figure>
 
-## Results 
+## What do the measurements of WAVE look like?
 
 ### Signals along the DAS fiber
 
@@ -157,6 +157,76 @@ The frequency components of acoustic signals were measured near a transformer st
 </figure> 
 
  The lower graph displays the electronically measured variation of the 50 Hz mains frequency. The upper spectrogram shows the time variation over a one-hour period of the signal from a single position of the optical fiber near the transformer. A vibration at the 5th harmonic of the mains frequency, at 300 Hz, is visible, with fluctuations that precisely follow the behavior of the mains frequency.
+
+## Scientific results
+
+### **2025**
+
+### **_Title: Towards the Clustering of Large Distributed Acoustic Sensing Datasets_** ###
+
+**_Authors:_** Oliver Bölt, Conny Hammer, and Céline Hadziioannou
+
+Presented at [EGU 2025 <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.egu25.eu/)
+
+**_Link:_** Download [here <i class="fa fa-external-link" aria-hidden="true"></i>](https://meetingorganizer.copernicus.org/EGU25/EGU25-17842.html )
+
+**_Short description/Abstract:_** Distributed Acoustic Sensing (DAS) measures strain or strain rate along an optical fiber with a high spatial and temporal resolution. The typical channel distance is in the order of a few meters while the sampling frequency can reach 1 kHz or higher, which makes it possible to record a wide range of seismic signals.
+
+The optical fibers used for DAS can be several kilometers long and measurements take place over days, weeks or months, resulting in very large datasets of up to several terabytes per day. However, due to this large amount of data, it is challenging to get a good impression of the different types of seismic signals present in the data, since a manual inspection can become immensely time-consuming.
+
+In this study we aim to automatize this process by clustering the data to detect and categorize different types of seismic signals. A 2D continuous wavelet transform (CWT) is used to automatically extract features from the data. In contrast to many other approaches, this allows to not only use temporal information, but to also include the spatial dimension to further distinguish between different seismic sources and wave types.
+
+The clustering is performed in two steps. First, a Gaussian Mixture Model (GMM) is used to cluster the features. Then, the final clusters are obtained by merging similar components of the GMM.
+
+The application of the proposed procedure to different large DAS datasets provides valuable results. Identified clusters show different spatial and temporal patterns and correspond to seismic signals originating from various sources, such as car traffic, tramways or machinery.
+
+### **_Title: Seismic Noise Contributions to EuXFEL Bunch Arrival Time Jitter from Ocean-Generated Microseism_** ###
+
+**_Authors:_** Erik Genthe, Marie Kristin Czwalinna, Björn Lautenschlager, Holger Schlarb, Celine Hadziioannou, Oliver Gerberding, and Katharina-Sophie Isleif
+
+Published in [High Power Laser Science and Engineering, 2025 <i class="fa fa-external-link" aria-hidden="true"></i>]( https://www.researching.cn/hpl)
+
+**_Link:_** Download [here <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.researching.cn/HiringPubPDF/HPL-2024-0173.pdf)
+
+**_Short description/Abstract:_** Measurements of the bunch arrival times at the European XFEL show noise contributions in the spectral range between 0.05 Hz and 0.5 Hz with peak-to-peak jitter of up to 25 fs. Correlation with Distributed Acoustic Sensing (DAS) measurements confirms the seismic origin. The seismic noise in this frequency band is known to be ocean-generated microseism. Both primary and secondary ocean-generated microseism were identified using seismometers and a numerical ocean wave model. Whereas secondary microseism has a strong impact on the bunch arrival time, primary microseism has no notable effect. Rayleigh waves cause the effect, while Love waves have minimal impact. In the presented cases, the noise originates from the North Atlantic and/or the North Sea. The amplitude of the noise depends on the local weather conditions and is much stronger in winter. Ocean-generated microseism is a significant bottleneck that must be addressed to achieve femtosecond bunch arrival time stability in the sub-Hz regime.
+
+
+### **2024**
+
+### **_Title: Impact of ocean-generated microseism on the European X-ray Free Electron Laser_** ###
+
+**_Authors:_** Erik Genthe
+
+Presented at [AG Seismology 2024 <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.conferences.uni-hamburg.de/event/396/)
+
+**_Short description/Abstract:_** Measurements of the bunch arrival times at the European XFEL show noise contributions in the spectral range between 0.05 Hz and 0.5 Hz with peak-to-peak jitter of up to 25 fs. Correlation with Distributed Acoustic Sensing (DAS) measurements confirms the seismic origin. The seismic noise in this frequency band is known to be ocean-generated microseism.
+
+Both primary and secondary ocean-generated microseism were identified using seismometers and a numerical ocean wave model. Whereas secondary microseism has a strong impact on the bunch arrival time, primary microseism has no notable effect. Rayleigh waves cause the effect, while Love waves have minimal impact.
+In the presented cases, the noise originates from the North Atlantic and/or the North Sea. The amplitude of the noise depends on the local weather conditions and is much stronger in winter. Ocean-generated microseism is a significant bottleneck that must be addressed to achieve femtosecond bunch arrival time stability in the sub-Hz regime.
+
+### **_Title: Exploring Unsupervised Clustering of Seismic Noise Sources in Urban DAS Data: A Methodology Guide_** ###
+
+**_Authors:_** Antonia Kiel, Céline Hadziioannou and Conny Hammer
+
+Presented at [EGU 2024 <i class="fa fa-external-link" aria-hidden="true"></i>](https://www.egu24.eu/)
+
+**_Link:_** Download [here <i class="fa fa-external-link" aria-hidden="true"></i>](https://presentations.copernicus.org/EGU24/EGU24-8486_presentation.pdf)
+
+**_Short description/Abstract:_** Since 2021 Distributed Acousic Sensing (DAS) is used to measure the strain rate along a 12 km long optical fiber at the DESY (Deutsches Elektronen-Synchrotron) campus within the WAVE initiative.
+
+A large variety of seismic sources with different frequency characteristic can be observed in the data.
+
+To detect different types of signals in this large dataset, different Machine Learning techniques are compared and a methodology guide is introduced, recommending which clustering technique to use in different applications.
+
+### **_Title: Coherent and Incoherent Noise Cancellation using Distributed Optical Fiber Sensors_** ###
+
+**_Authors:_** Reinhardt Rading, Katharina Sophie Isleif
+
+Presented at [IEEE Photonics Society Summer Topicals 2024 <i class="fa fa-external-link" aria-hidden="true"></i>](https://2024.ieee-sum.org/)
+
+**_Link:_** Download [here <i class="fa fa-external-link" aria-hidden="true"></i>](https://ieeexplore.ieee.org/document/10614511)
+
+**_Short description/Abstract:_** This paper determines the sensitivity of distributed optical fiber sensors by estimating its self-noise and describing how to cancel coherent and incoherent noises, and localize sources based entirely on the sensor recordings.
 
 ## Projects
 
