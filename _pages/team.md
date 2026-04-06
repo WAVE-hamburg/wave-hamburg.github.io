@@ -309,7 +309,6 @@ feature_row5:
   </div>
 
 </div>
-##############
 </div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
@@ -341,9 +340,7 @@ feature_row5:
       <strong>Interests:</strong> Sabine is focusing on rain events and soil moisture monitoring using DAS data.
     </p>
   </div>
-
-
-
+</div>
 
 ### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy_H15mm.png" alt="logo" height="0.5cm"/> Deutsches Elektronen-Synchrotron DESY {#desy}
 
