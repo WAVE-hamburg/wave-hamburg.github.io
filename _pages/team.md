@@ -309,7 +309,6 @@ feature_row5:
   </div>
 
 </div>
-</div>
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
 
@@ -321,7 +320,7 @@ feature_row5:
     <p style="margin: 0; font-size: 18pt;"><strong>Abdelrahman Ali</strong></p>
     <p style="margin: 0;">
       <strong>Affiliation:</strong> Institute of Geophysics<br>
-      <strong>Interests:</strong> Abdelrahman focuses on using neural networks to analyze Distributed Acoustic Sensing data for anomaly detection.
+      <strong>Interests:</strong> Abdelrahman focuses on using neural networks to analyze Distributed Acoustic Sensing (DAS) data for anomaly detection.
     </p>
   </div>
 
@@ -337,7 +336,7 @@ feature_row5:
     <p style="margin: 0; font-size: 18pt;"><strong>Sabine Kraus</strong></p>
     <p style="margin: 0;">
       <strong>Affiliation:</strong> Institute of Geophysics<br>
-      <strong>Interests:</strong> Sabine is focusing on rain events and soil moisture monitoring using DAS data.
+      <strong>Interests:</strong> Sabine focuses on rain events and soil moisture monitoring using Distributed Acoustic Sensing (DAS) data.
     </p>
   </div>
 </div>
