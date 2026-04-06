@@ -287,7 +287,7 @@ feature_row5:
   <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
     <p style="margin: 0; font-size: 18pt;"><strong>Vincent Wodtke</strong></p>
     <p style="margin: 0;">
-      <strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Affiliation:</strong> Institute for experimental physics + Institute of Geophysics<br>
       <strong>Interests:</strong> Vincent focuses on localizing seismic sources using array processing techniques and machine learning.
     </p>
   </div>
@@ -309,6 +309,41 @@ feature_row5:
   </div>
 
 </div>
+##############
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+
+  <!-- Rundes Bild -->
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/ali_.png" alt="Abdelrahman Ali" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
+
+  <!-- Aufzählungstext -->
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt;"><strong>Abdelrahman Ali</strong></p>
+    <p style="margin: 0;">
+      <strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Interests:</strong> Abdelrahman focuses on using neural networks to analyze Distributed Acoustic Sensing data for anomaly detection.
+    </p>
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 20px;">
+
+  <!-- Rundes Bild -->
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Team/placeholder.png" alt="Sabine Krauz" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 15px;">
+
+  <!-- Aufzählungstext -->
+  <div style="line-height: 1.4; font-family: 'Roboto', 'Segoe UI', 'Helvetica Neue', 'Lucida Grande', Arial, sans-serif; font-size: 15pt;">
+    <p style="margin: 0; font-size: 18pt;"><strong>Sabine Kraus</strong></p>
+    <p style="margin: 0;">
+      <strong>Affiliation:</strong> Institute of Geophysics<br>
+      <strong>Interests:</strong> Sabine is focusing on rain events and soil moisture monitoring using DAS data.
+    </p>
+  </div>
+
+
+
 
 ### <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Logo/desy_H15mm.png" alt="logo" height="0.5cm"/> Deutsches Elektronen-Synchrotron DESY {#desy}
 
